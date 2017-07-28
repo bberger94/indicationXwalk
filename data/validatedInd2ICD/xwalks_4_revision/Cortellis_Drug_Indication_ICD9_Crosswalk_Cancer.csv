@@ -1,0 +1,219 @@
+cortellis_condition,revised_icd9,icd9,icd9_category,icd9_sub_chapter,icd9_chapter
+human t cell leukemia virus 1 infection,,079,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+human t cell leukemia virus 2 infection,,079,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+leukemia virus infection,,079,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+advanced solid tumor,,140,Malignant neoplasm of lip,"Malignant Neoplasm Of Lip, Oral Cavity, And Pharynx",Neoplasms
+adenoid tumor,,142,Malignant neoplasm of major salivary glands,"Malignant Neoplasm Of Lip, Oral Cavity, And Pharynx",Neoplasms
+pharynx tumor,,146,Malignant neoplasm of oropharynx,"Malignant Neoplasm Of Lip, Oral Cavity, And Pharynx",Neoplasms
+adenocarcinoma,,151,Malignant neoplasm of stomach,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+metastatic gastrointestinal cancer,,151,Malignant neoplasm of stomach,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+metastatic liver cancer,,151,Malignant neoplasm of stomach,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+metastatic renal cancer,,151,Malignant neoplasm of stomach,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+metastatic prostate cancer,,151,Malignant neoplasm of stomach,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+metastatic non small cell lung cancer,,151,Malignant neoplasm of stomach,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+metastatic stomach cancer,,151,Malignant neoplasm of stomach,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+metastatic esophageal cancer,,151,Malignant neoplasm of stomach,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+metastatic lung cancer,,151,Malignant neoplasm of stomach,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+metastatic pancreas cancer,,151,Malignant neoplasm of stomach,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+metastatic rectal cancer,,151,Malignant neoplasm of stomach,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+metastatic head and neck cancer,,151,Malignant neoplasm of stomach,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+metastatic ovary cancer,,151,Malignant neoplasm of stomach,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+large intestine tumor,,152,"Malignant neoplasm of small intestine, including duodenum",Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+intestine tumor,,153,Malignant neoplasm of colon,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+colon tumor,,153,Malignant neoplasm of colon,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+colorectal tumor,,153,Malignant neoplasm of colon,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+metastatic colorectal cancer,,153,Malignant neoplasm of colon,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+metastatic colon cancer,,153,Malignant neoplasm of colon,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+rectal tumor,,154,"Malignant neoplasm of rectum, rectosigmoid junction, and anus",Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+liver tumor,,155,Malignant neoplasm of liver and intrahepatic bile ducts,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+hepatobiliary system tumor,,155,Malignant neoplasm of liver and intrahepatic bile ducts,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+cholangiocarcinoma,,155,Malignant neoplasm of liver and intrahepatic bile ducts,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+hepatocellular carcinoma,,155,Malignant neoplasm of liver and intrahepatic bile ducts,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+biliary cancer,,156,Malignant neoplasm of gallbladder and extrahepatic bile ducts,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+gallbladder tumor,,156,Malignant neoplasm of gallbladder and extrahepatic bile ducts,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+pancreas tumor,,157,Malignant neoplasm of pancreas,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+pancreatic ductal adenocarcinoma,,157,Malignant neoplasm of pancreas,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+pancreatic cystadenocarcinoma,,157,Malignant neoplasm of pancreas,Malignant Neoplasm Of Digestive Organs And Peritoneum,Neoplasms
+larynx tumor,,161,Malignant neoplasm of larynx,Malignant Neoplasm Of Respiratory And Intrathoracic Organs,Neoplasms
+lung tumor,,162,"Malignant neoplasm of trachea, bronchus, and lung",Malignant Neoplasm Of Respiratory And Intrathoracic Organs,Neoplasms
+small-cell lung cancer,,162,"Malignant neoplasm of trachea, bronchus, and lung",Malignant Neoplasm Of Respiratory And Intrathoracic Organs,Neoplasms
+non-small-cell lung cancer,,162,"Malignant neoplasm of trachea, bronchus, and lung",Malignant Neoplasm Of Respiratory And Intrathoracic Organs,Neoplasms
+mesothelioma,,163,Malignant neoplasm of pleura,Malignant Neoplasm Of Respiratory And Intrathoracic Organs,Neoplasms
+thymus neoplasm,,164,"Malignant neoplasm of thymus, heart, and mediastinum",Malignant Neoplasm Of Respiratory And Intrathoracic Organs,Neoplasms
+thymoma,,164,"Malignant neoplasm of thymus, heart, and mediastinum",Malignant Neoplasm Of Respiratory And Intrathoracic Organs,Neoplasms
+bone tumor,,170,Malignant neoplasm of bone and articular cartilage,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+osteosarcoma,,170,Malignant neoplasm of bone and articular cartilage,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+bone metastases,,170,Malignant neoplasm of bone and articular cartilage,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+giant bone cell tumor,,170,Malignant neoplasm of bone and articular cartilage,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+ewing sarcoma,,170,Malignant neoplasm of bone and articular cartilage,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+chordoma,,170,Malignant neoplasm of bone and articular cartilage,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+sarcoma,,171,Malignant neoplasm of connective and other soft tissue,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+nervous system tumor,,171,Malignant neoplasm of connective and other soft tissue,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+skin tumor,,171,Malignant neoplasm of connective and other soft tissue,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+angiosarcoma,,171,Malignant neoplasm of connective and other soft tissue,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+chondrosarcoma,,171,Malignant neoplasm of connective and other soft tissue,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+fibrosarcoma,,171,Malignant neoplasm of connective and other soft tissue,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+leiomyosarcoma,,171,Malignant neoplasm of connective and other soft tissue,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+liposarcoma,,171,Malignant neoplasm of connective and other soft tissue,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+rhabdomyosarcoma,,171,Malignant neoplasm of connective and other soft tissue,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+stage i melanoma,,172,Malignant melanoma of skin,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+stage iii melanoma,,172,Malignant melanoma of skin,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+stage iv melanoma,,172,Malignant melanoma of skin,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+ocular melanoma,,172,Malignant melanoma of skin,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+melanoma,,173,Other and unspecified malignant neoplasm of skin,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+squamous cell carcinoma,,173,Other and unspecified malignant neoplasm of skin,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+basal cell carcinoma,,173,Other and unspecified malignant neoplasm of skin,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+skin cancer,,173,Other and unspecified malignant neoplasm of skin,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+dermatofibrosarcoma,,173,Other and unspecified malignant neoplasm of skin,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+metastatic breast cancer,,174,Malignant neoplasm of female breast,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+inflammatory breast cancer,,174,Malignant neoplasm of female breast,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+kaposis sarcoma,,176,Kaposi's sarcoma,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+soft tissue sarcoma,,176,Kaposi's sarcoma,"Malignant Neoplasm Of Bone, Connective Tissue, Skin, And Breast",Neoplasms
+uterine cervix tumor,,180,Malignant neoplasm of cervix uteri,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+ovary tumor,,183,Malignant neoplasm of ovary and other uterine adnexa,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+endometrioid carcinoma,,183,Malignant neoplasm of ovary and other uterine adnexa,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+fallopian tube tumor,,183,Malignant neoplasm of ovary and other uterine adnexa,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+fallopian tube cancer,,183,Malignant neoplasm of ovary and other uterine adnexa,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+ovarian clear cell carcinoma,,183,Malignant neoplasm of ovary and other uterine adnexa,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+precancer,,184,Malignant neoplasm of other and unspecified female genital organs,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+vaginal cancer,,184,Malignant neoplasm of other and unspecified female genital organs,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+prostate tumor,,185,Malignant neoplasm of prostate,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+female genital tract tumor,,185,Malignant neoplasm of prostate,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+hormone refractory prostate cancer,,185,Malignant neoplasm of prostate,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+hormone dependent prostate cancer,,185,Malignant neoplasm of prostate,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+testis tumor,,186,Malignant neoplasm of testis,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+seminoma,,186,Malignant neoplasm of testis,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+germ cell and embryonic cancer,,186,Malignant neoplasm of testis,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+bladder cancer,,188,Malignant neoplasm of bladder,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+metastatic bladder cancer,,188,Malignant neoplasm of bladder,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+renal tumor,,189,Malignant neoplasm of kidney and other and unspecified urinary organs,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+renal cell carcinoma,,189,Malignant neoplasm of kidney and other and unspecified urinary organs,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+renal sarcoma,,189,Malignant neoplasm of kidney and other and unspecified urinary organs,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+nephroblastoma,,189,Malignant neoplasm of kidney and other and unspecified urinary organs,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+transitional cell carcinoma,,189,Malignant neoplasm of kidney and other and unspecified urinary organs,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+urethral cancer,,189,Malignant neoplasm of kidney and other and unspecified urinary organs,Malignant Neoplasm Of Genitourinary Organs,Neoplasms
+retinoblastoma,,190,Malignant neoplasm of eye,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+lacrimal gland disease,,190,Malignant neoplasm of eye,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+uveal melanoma,,190,Malignant neoplasm of eye,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+glioma,,191,Malignant neoplasm of brain,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+glioblastoma,,191,Malignant neoplasm of brain,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+medulloblastoma,,191,Malignant neoplasm of brain,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+gliosarcoma,,191,Malignant neoplasm of brain,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+metastatic brain cancer,,191,Malignant neoplasm of brain,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+spinal cord tumor,,192,Malignant neoplasm of other and unspecified parts of nervous system,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+astrocytoma,,192,Malignant neoplasm of other and unspecified parts of nervous system,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+anaplastic astrocytoma,,192,Malignant neoplasm of other and unspecified parts of nervous system,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+medullary thyroid cancer,,193,Malignant neoplasm of thyroid gland,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+papillary thyroid tumor,,193,Malignant neoplasm of thyroid gland,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+anaplastic thyroid cancer,,193,Malignant neoplasm of thyroid gland,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+adrenal cortical carcinoma,,194,Malignant neoplasm of other endocrine glands and related structures,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+neuroblastoma,,194,Malignant neoplasm of other endocrine glands and related structures,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+paraganglioma,,194,Malignant neoplasm of other endocrine glands and related structures,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+head and neck tumor,,195,Malignant neoplasm of other and ill-defined sites,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+hematological neoplasm,,195,Malignant neoplasm of other and ill-defined sites,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+nasopharyngeal carcinoma,,198,Secondary malignant neoplasm of other specified sites,Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+metastasis,,199,"Malignant neoplasms, without specification of site",Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+carcinoid tumor,,199,"Malignant neoplasms, without specification of site",Malignant Neoplasm Of Other And Unspecified Sites,Neoplasms
+t-cell lymphoma,,200,Lymphosarcoma and reticulosarcoma and other specified malignant tumors of lymphatic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+central nervous system tumor,,200,Lymphosarcoma and reticulosarcoma and other specified malignant tumors of lymphatic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+burkitts lymphoma,,200,Lymphosarcoma and reticulosarcoma and other specified malignant tumors of lymphatic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+skin lymphoma,,200,Lymphosarcoma and reticulosarcoma and other specified malignant tumors of lymphatic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+mantle cell lymphoma,,200,Lymphosarcoma and reticulosarcoma and other specified malignant tumors of lymphatic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+marginal zone b-cell lymphoma,,200,Lymphosarcoma and reticulosarcoma and other specified malignant tumors of lymphatic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+anaplastic large cell lymphoma,,200,Lymphosarcoma and reticulosarcoma and other specified malignant tumors of lymphatic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+hodgkins disease,,201,Hodgkin's disease,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+lymphoma,,202,Other malignant neoplasms of lymphoid and histiocytic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+b-cell lymphoma,,202,Other malignant neoplasms of lymphoid and histiocytic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+non-hodgkin lymphoma,,202,Other malignant neoplasms of lymphoid and histiocytic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+mycosis fungoides,,202,Other malignant neoplasms of lymphoid and histiocytic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+shigella boydii infection,,202,Other malignant neoplasms of lymphoid and histiocytic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+hairy cell leukemia,,202,Other malignant neoplasms of lymphoid and histiocytic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+follicle center lymphoma,,202,Other malignant neoplasms of lymphoid and histiocytic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+diffuse large b-cell lymphoma,,202,Other malignant neoplasms of lymphoid and histiocytic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+peripheral t-cell lymphoma,,202,Other malignant neoplasms of lymphoid and histiocytic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+cutaneous t-cell lymphoma,,202,Other malignant neoplasms of lymphoid and histiocytic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+sezary syndrome,,202,Other malignant neoplasms of lymphoid and histiocytic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+systemic mastocytosis,,202,Other malignant neoplasms of lymphoid and histiocytic tissue,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+multiple myeloma,,203,Multiple myeloma and immunoproliferative neoplasms,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+lymphoid leukemia,,204,Lymphoid leukemia,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+acute lymphoblastic leukemia,,204,Lymphoid leukemia,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+b-cell acute lymphoblastic leukemia,,204,Lymphoid leukemia,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+t-cell acute lymphoblastic leukemia,,204,Lymphoid leukemia,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+chronic lymphocytic leukemia,,204,Lymphoid leukemia,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+adult t-cell lymphoma,,204,Lymphoid leukemia,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+lymphoblastic leukemia,,204,Lymphoid leukemia,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+myeloid leukemia,,205,Myeloid leukemia,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+acute myelogenous leukemia,,205,Myeloid leukemia,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+acute promyelocytic leukemia,,205,Myeloid leukemia,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+chronic myelocytic leukemia,,205,Myeloid leukemia,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+leukemia,,208,Leukemia of unspecified cell type,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+acute leukemia,,208,Leukemia of unspecified cell type,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+chronic leukemia,,208,Leukemia of unspecified cell type,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+prolymphocytic leukemia,,208,Leukemia of unspecified cell type,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+t-cell large granular lymphocyte leukemia,,208,Leukemia of unspecified cell type,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+stem cell transplantation,,208,Leukemia of unspecified cell type,Malignant Neoplasm Of Lymphatic And Hematopoietic Tissue,Neoplasms
+stomach tumor,,209,Neuroendocrine tumors,Neuroendocrine Tumors,Neoplasms
+solid tumor,,209,Neuroendocrine tumors,Neuroendocrine Tumors,Neoplasms
+endocrine tumor,,209,Neuroendocrine tumors,Neuroendocrine Tumors,Neoplasms
+neuroendocrine tumor,,209,Neuroendocrine tumors,Neuroendocrine Tumors,Neoplasms
+merkel cell carcinoma,,209,Neuroendocrine tumors,Neuroendocrine Tumors,Neoplasms
+mouth tumor,,210,"Benign neoplasm of lip, oral cavity, and pharynx",Benign Neoplasms,Neoplasms
+nasopharynx tumor,,210,"Benign neoplasm of lip, oral cavity, and pharynx",Benign Neoplasms,Neoplasms
+familial adenomatous polyposis,,211,Benign neoplasm of other parts of digestive system,Benign Neoplasms,Neoplasms
+insulinoma,,211,Benign neoplasm of other parts of digestive system,Benign Neoplasms,Neoplasms
+intestinal polyp,,211,Benign neoplasm of other parts of digestive system,Benign Neoplasms,Neoplasms
+lipoma,,214,Lipoma,Benign Neoplasms,Neoplasms
+papulosis,,216,Benign neoplasm of skin,Benign Neoplasms,Neoplasms
+dysplastic nevus syndrome,,216,Benign neoplasm of skin,Benign Neoplasms,Neoplasms
+angiomyolipoma,,223,Benign neoplasm of kidney and other urinary organs,Benign Neoplasms,Neoplasms
+conjunctival neoplasm,,224,Benign neoplasm of eye,Benign Neoplasms,Neoplasms
+brain tumor,,225,Benign neoplasm of brain and other parts of nervous system,Benign Neoplasms,Neoplasms
+neoplastic meningitis,,225,Benign neoplasm of brain and other parts of nervous system,Benign Neoplasms,Neoplasms
+ependymoma,,225,Benign neoplasm of brain and other parts of nervous system,Benign Neoplasms,Neoplasms
+acoustic neuroma,,225,Benign neoplasm of brain and other parts of nervous system,Benign Neoplasms,Neoplasms
+meningioma,,225,Benign neoplasm of brain and other parts of nervous system,Benign Neoplasms,Neoplasms
+pheochromocytoma,,227,Benign neoplasm of other endocrine glands and related structures,Benign Neoplasms,Neoplasms
+adrenal gland tumor,,227,Benign neoplasm of other endocrine glands and related structures,Benign Neoplasms,Neoplasms
+adenoma,,227,Benign neoplasm of other endocrine glands and related structures,Benign Neoplasms,Neoplasms
+hemangioma,,228,"Hemangioma and lymphangioma, any site",Benign Neoplasms,Neoplasms
+carcinoma,,233,Carcinoma in situ of breast and genitourinary system,Carcinoma In Situ,Neoplasms
+bowen disease,,233,Carcinoma in situ of breast and genitourinary system,Carcinoma In Situ,Neoplasms
+esophagus tumor,,235,Neoplasm of uncertain behavior of digestive and respiratory systems,Neoplasms Of Uncertain Behavior,Neoplasms
+vipoma,,235,Neoplasm of uncertain behavior of digestive and respiratory systems,Neoplasms Of Uncertain Behavior,Neoplasms
+neurofibromatosis,,237,Neoplasm of uncertain behavior of endocrine glands and nervous system,Neoplasms Of Uncertain Behavior,Neoplasms
+neurofibromatosis type i,,237,Neoplasm of uncertain behavior of endocrine glands and nervous system,Neoplasms Of Uncertain Behavior,Neoplasms
+neurofibromatosis type ii,,237,Neoplasm of uncertain behavior of endocrine glands and nervous system,Neoplasms Of Uncertain Behavior,Neoplasms
+gastrointestinal tumor,,238,Neoplasm of uncertain behavior of other and unspecified sites and tissues,Neoplasms Of Uncertain Behavior,Neoplasms
+myeloproliferative disorder,,238,Neoplasm of uncertain behavior of other and unspecified sites and tissues,Neoplasms Of Uncertain Behavior,Neoplasms
+lymphoproliferative disease,,238,Neoplasm of uncertain behavior of other and unspecified sites and tissues,Neoplasms Of Uncertain Behavior,Neoplasms
+myelodysplastic syndrome,,238,Neoplasm of uncertain behavior of other and unspecified sites and tissues,Neoplasms Of Uncertain Behavior,Neoplasms
+plasmacytoma,,238,Neoplasm of uncertain behavior of other and unspecified sites and tissues,Neoplasms Of Uncertain Behavior,Neoplasms
+thrombocythemia,,238,Neoplasm of uncertain behavior of other and unspecified sites and tissues,Neoplasms Of Uncertain Behavior,Neoplasms
+gastrointestinal stromal tumor,,238,Neoplasm of uncertain behavior of other and unspecified sites and tissues,Neoplasms Of Uncertain Behavior,Neoplasms
+post transplant lymphoproliferative disease,,238,Neoplasm of uncertain behavior of other and unspecified sites and tissues,Neoplasms Of Uncertain Behavior,Neoplasms
+bladder tumor,,239,Neoplasms of unspecified nature,Neoplasms Of Unspecified Nature,Neoplasms
+breast tumor,,239,Neoplasms of unspecified nature,Neoplasms Of Unspecified Nature,Neoplasms
+neoplasm,,239,Neoplasms of unspecified nature,Neoplasms Of Unspecified Nature,Neoplasms
+cancer,,239,Neoplasms of unspecified nature,Neoplasms Of Unspecified Nature,Neoplasms
+ocular tumor,,239,Neoplasms of unspecified nature,Neoplasms Of Unspecified Nature,Neoplasms
+urinary tract tumor,,239,Neoplasms of unspecified nature,Neoplasms Of Unspecified Nature,Neoplasms
+respiratory tract tumor,,239,Neoplasms of unspecified nature,Neoplasms Of Unspecified Nature,Neoplasms
+nerve tumor,,239,Neoplasms of unspecified nature,Neoplasms Of Unspecified Nature,Neoplasms
+pituitary tumor,,239,Neoplasms of unspecified nature,Neoplasms Of Unspecified Nature,Neoplasms
+thyroid tumor,,239,Neoplasms of unspecified nature,Neoplasms Of Unspecified Nature,Neoplasms
+pancreatic endocrine tumor,,239,Neoplasms of unspecified nature,Neoplasms Of Unspecified Nature,Neoplasms
+vascular neoplasm,,239,Neoplasms of unspecified nature,Neoplasms Of Unspecified Nature,Neoplasms
+penis tumor,,239,Neoplasms of unspecified nature,Neoplasms Of Unspecified Nature,Neoplasms
+anal tumor,,239,Neoplasms of unspecified nature,Neoplasms Of Unspecified Nature,Neoplasms
+lymphoplasmacytoid lymphoma,,273,Disorders of plasma protein metabolism,Other Metabolic And Immunity Disorders,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+tumor lysis syndrome,,277,Other and unspecified disorders of metabolism,Other Metabolic And Immunity Disorders,"Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+cancer pain,,338,"Pain, not elsewhere classified",Pain,Diseases Of The Nervous System And Sense Organs
+pseudotumor cerebri,,348,Other conditions of brain,Other Disorders Of The Central Nervous System,Diseases Of The Nervous System And Sense Organs
+cholesteatoma,,385,Other disorders of middle ear and mastoid,Diseases Of The Ear And Mastoid Process,Diseases Of The Nervous System And Sense Organs
+peritoneal tumor,,568,Other disorders of peritoneum,Other Diseases Of Intestines And Peritoneum,Diseases Of The Digestive System
+genitourinary tract tumor,,580,Acute glomerulonephritis,"Nephritis, Nephrotic Syndrome, And Nephrosis",Diseases Of The Genitourinary System
+uterus tumor,,654,Abnormality of organs and soft tissues of pelvis,"Normal Delivery, And Other Indications For Care In Pregnancy, Labor, And Delivery","Complications Of Pregnancy, Childbirth, And The Puerperium"
+cystic hygroma,,655,Known or suspected fetal abnormality affecting management of mother,"Normal Delivery, And Other Indications For Care In Pregnancy, Labor, And Delivery","Complications Of Pregnancy, Childbirth, And The Puerperium"
+biliary tumor,,,,,
+pituitary adenoma,,,,,
+prolactinoma,,,,,

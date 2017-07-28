@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "rm(list = ls())\n\n#load these packages:\npackages <- c('rio', 'dplyr', 'icd')\n\nfor(package in packages){\n  #INSTALL PACKAGES BEFORE RUNNING SCRIPT FOR FIRST TIME BY UNCOMMENTING LINE BELOW\n  #install.packages(package) #if asked to restart, choose NO\n  library(package, character.only = T)\n}\n\n#we'll use this fabulous function to identify cortellis indications for cancer\nis.cancer <- function(string){\n  \n  string <- string %>% tolower() %>% trimws()\n  cancer.terms <- c('cancer', 'tumor', 'neoplasm', 'leukemia')\n  noncancer.terms <- c('hematoma', 'trachoma', 'condyloma', 'glaucoma')\n  \n  l <- integer(length(cancer.terms))\n  for(i in seq_along(cancer.terms)){\n    l[i] <- grepl(cancer.terms[i], string)\n  }\n  \n  has.cancer.keyword <- max(l)\n  \n  l <- integer(length(cancer.terms))\n  for(i in seq_along(cancer.terms)){\n    l[i] <- grepl(noncancer.terms[i], string)\n  }\n\n  has.noncancer.keyword <- max(l)\n  \n  ends.with.oma <- endsWith(string, 'oma')\n  \n  if(has.noncancer.keyword) return(0)\n  else if(has.cancer.keyword | ends.with.oma) return(1)\n  else(return(0))\n  \n}\n\n\n#load indication -> icd9 crosswalk\nxwalk.icd9 <-\n  import('data/Cortellis_Drug_Indication_ICD9_Crosswalk.dta') %>% \n  filter(condition != 'unidentified indication') \n\nxwalk.icd9$is_cancer <- sapply(xwalk.icd9$condition, is.cancer)\n\n#replace these (incorrect) codings\nxwalk.icd9$icd9[xwalk.icd9$icd9 > 999] <- NA\n\n#use icd package to code as icd9\nxwalk.icd9$icd9 <-\n  xwalk.icd9$icd9 %>%\n  as.character() %>%\n  as.icd9()\n\n#replace icd9s with decimal codings\nxwalk.icd9$icd9 <- icd_short_to_decimal(xwalk.icd9$icd9)\n\n#get condition labels\nxwalk.icd9$icd9_category <- icd_explain_table(xwalk.icd9$icd9)$major\nxwalk.icd9$icd9_sub_chapter <- icd_explain_table(xwalk.icd9$icd9)$sub_chapter\nxwalk.icd9$icd9_chapter <- icd_explain_table(xwalk.icd9$icd9)$chapter\n\n#select variables & sort\nxwalk.icd9 <- \n  xwalk.icd9 %>%\n  select(cortellis_condition = condition,\n         is_cancer, \n         starts_with('icd9')\n         ) %>% \n  arrange(as.numeric(icd9))\n\nxwalk.icd9 %>%\n  filter(is_cancer == 1 | icd9_chapter == 'Neoplasms') %>%\n  mutate(revised_icd9 = NA) %>% \n  select(-is_cancer) %>% \n  select(cortellis_condition, revised_icd9, everything()) %>% \n  export('data/Cortellis_Drug_Indication_ICD9_Crosswalk_Cancer.csv')\n\nxwalk.icd9 %>%\n  filter(is_cancer != 1 & icd9_chapter != 'Neoplasms') %>%\n  mutate(revised_icd9 = NA) %>% \n  select(-is_cancer) %>% \n  select(cortellis_condition, revised_icd9, everything()) %>% \n  export('data/Cortellis_Drug_Indication_ICD9_Crosswalk_Noncancer.csv')\n\n#write to disk\nexport(xwalk.icd9, 'data/Cortellis_Drug_Indication_ICD9_Crosswalk_withCategories.csv')\n\n\n",
+    "created" : 1501252729963.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1006602659",
+    "id" : "648C26",
+    "lastKnownWriteTime" : 1501253224,
+    "last_content_update" : 1501253224560,
+    "path" : "C:/Users/bergerb/Dropbox/bkthruWork_local/indicationXwalk/source/build_xwalks_4_revision.R",
+    "project_path" : "source/build_xwalks_4_revision.R",
+    "properties" : {
+        "tempName" : "Untitled4"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

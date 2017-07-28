@@ -1,0 +1,1942 @@
+icd9,condition
+46,measles virus infection
+706,acne
+42,acquired immune deficiency syndrome
+253,acromegaly
+255,addisons disease
+79,adenovirus infection
+769,respiratory distress syndrome
+312,aggression
+42,aids related complex
+303,alcoholism
+995,allergy
+704,alopecia
+331,alzheimers disease
+780,amnesia
+304,amphetamine dependence
+281,anemia
+763,anesthesia
+780,pain
+413,angina
+307,anorexia nervosa
+300,anxiety disorder
+540,appendicitis
+427,heart arrhythmia
+714,arthritis
+117,aspergillus infection
+493,asthma
+440,atherosclerosis
+314,attention deficit hyperactivity disorder
+279,autoimmune disease
+349,autonomic nervous system disease
+22,bacillus anthracis infection
+41,bacterial infection
+763,birth complication
+239,bladder tumor
+999,blood transfusion
+733,bone disease
+2042,bone marrow transplantation
+33,bordetella pertussis infection
+88,borrelia burgdorferi infection
+239,breast tumor
+491,bronchitis
+307,bulimia nervosa
+944,skin burns
+771,candida albicans infection
+233,carcinoma
+428,cardiac failure
+410,ischemic heart disease
+429,cardiovascular disease
+366,cataract
+46,central nervous system disease
+799,cerebral hypoxia
+434,cerebral infarction
+348,cerebral edema
+436,cerebrovascular disease
+997,stroke
+655,charcot marie tooth disease
+79,chlamydia trachomatis infection
+584,renal failure
+571,liver cirrhosis
+5,clostridium botulinum infection
+41,clostridium tetani infection
+339,cluster headache
+286,blood clotting disorder
+304,cocaine addiction
+372,conjunctivitis
+2025,contraception
+371,corneal disease
+414,coronary artery disease
+32,corynebacterium diphtheriae infection
+786,cough
+46,creutzfeldt jakob disease
+555,crohns disease
+117,cryptococcus infection
+117,cryptococcus neoformans infection
+255,cushings disease
+277,cystic fibrosis
+771,cytomegalovirus infection
+294,dementia
+341,demyelinating disease
+311,depression
+692,dermatitis
+703,dermatological disease
+477,dermatophagoides farinae infection
+250,diabetes mellitus
+250,diabetic cataract
+250,diabetic complication
+583,diabetic nephropathy
+357,diabetic neuropathy
+787,diarrhea
+286,disseminated intravascular coagulation
+758,down syndrome
+625,dysmenorrhea
+307,eating disorder
+75,infectious mononucleosis
+692,eczema
+787,emesis
+492,emphysema
+259,endocrine disease
+617,endometriosis
+995,sepsis
+682,entamoeba histolytica infection
+41,enterobacter infection
+41,enterococcus faecium infection
+79,enterovirus infection
+345,epilepsy
+41,escherichia coli infection
+286,factor viii deficiency
+66,flavivirus infection
+655,fragile x syndrome
+117,fungal infection
+575,gallbladder disease
+574,gallstones
+209,stomach tumor
+535,gastritis
+536,gastrointestinal disease
+238,gastrointestinal tumor
+272,gaucher disease
+7,giardia lamblia infection
+365,glaucoma
+583,glomerulonephritis
+274,gout
+41,gram negative bacterium infection
+41,gram positive bacterium infection
+242,graves disease
+253,growth disorder
+339,guillain barre syndrome
+289,hematological disease
+280,hemolytic anemia
+283,hemolytic uremic syndrome
+41,haemophilus influenzae infection
+785,hemorrhagic shock
+455,hemorrhoids
+784,headache
+41,helicobacter pylori infection
+128,helminth infection
+70,hepatitis a virus infection
+70,hepatitis b virus infection
+70,hepatitis c virus infection
+573,hepatitis
+70,hepatitis virus infection
+277,hereditary angioedema
+54,herpes simplex virus infection
+42,hiv infection
+79,hiv-1 infection
+79,hiv-2 infection
+201,hodgkins disease
+54,hsv-1 infection
+54,hsv-2 infection
+79,human t cell leukemia virus 1 infection
+79,human t cell leukemia virus 2 infection
+333,huntingtons chorea
+255,hyperaldosteronism
+277,hyperbilirubinemia
+275,hypercalcemia
+272,hypercholesterolemia
+272,hyperlipidemia
+252,hyperparathyroidism
+253,hyperprolactinemia
+401,hypertension
+242,hyperthyroidism
+790,hyperuricemia
+244,hypothyroidism
+41,streptococcus group b infection
+279,immune disorder
+302,erectile dysfunction
+788,urinary incontinence
+614,inflammatory disease
+555,inflammatory bowel disease
+487,influenza virus infection
+564,irritable bowel syndrome
+171,sarcoma
+482,klebsiella pneumoniae infection
+41,legionella infection
+85,leishmania tropica infection
+277,lesch nyhan syndrome
+208,leukemia
+27,listeria monocytogenes infection
+571,liver disease
+155,liver tumor
+202,lymphoma
+173,melanoma
+320,meningitis
+2011,psychiatric disorder
+318,mental deficiency
+346,migraine
+78,molluscum contagiosum infection
+335,motor neurone disease
+340,multiple sclerosis
+359,muscular dystrophy
+2013,musculoskeletal disease
+332,paralysis
+31,mycobacterium infection
+30,mycobacterium leprae infection
+11,mycobacterium tuberculosis infection
+41,mycoplasma infection
+205,myeloid leukemia
+410,myocardial infarction
+422,myocarditis
+787,nausea
+98,neisseria gonorrhoeae infection
+98,neisseria infection
+127,nematode infection
+239,neoplasm
+583,nephritis
+171,nervous system tumor
+294,neurodegenerative disease
+358,neuromuscular disease
+305,nicotine dependence
+272,niemann pick disease
+8,norwalk virus infection
+278,obesity
+270,ocular disease
+365,ocular hypertension
+921,ocular injury
+304,opiate dependence
+715,osteoarthritis
+733,osteoporosis
+577,pancreas disease
+157,pancreas tumor
+577,pancreatitis
+79,papovavirus infection
+2012,parasitic infection
+332,parkinsons disease
+132,louse infestation
+2012,peptic ulcer
+337,peripheral neuropathy
+443,peripheral vascular disease
+78,pestivirus infection
+227,pheochromocytoma
+270,phenylketonuria
+79,picornavirus infection
+283,plasmodium falciparum infection
+283,plasmodium infection
+289,plasmodium vivax infection
+42,pneumocystis carinii infection
+45,poliovirus infection
+238,myeloproliferative disorder
+59,pox virus infection
+185,prostate tumor
+791,proteinuria
+136,protozoal infection
+698,pruritus
+41,pseudomonas aeruginosa infection
+696,psoriasis
+292,psychotic disorder
+518,lung disease
+590,pyelonephritis
+71,rabies virus infection
+593,renal disease
+79,respiratory syncytial virus infection
+362,retinopathy
+190,retinoblastoma
+79,retrovirus infection
+714,rheumatoid arthritis
+79,rhinovirus infection
+83,rickettsia infection
+8,rotavirus infection
+3,salmonella infection
+2002,salmonella typhimurium infection
+120,schistosomiasis
+295,schizophrenia
+690,seborrheic dermatitis
+4,shigella infection
+785,shock
+282,sickle cell anemia
+327,sleep disorder
+786,snoring
+741,spina bifida
+173,squamous cell carcinoma
+41,staphylococcus aureus infection
+41,staphylococcus infection
+200,t-cell lymphoma
+41,streptococcus infection
+482,streptococcus pneumoniae infection
+431,brain hemorrhage
+202,b-cell lymphoma
+710,systemic lupus erythematosus
+202,non-hodgkin lymphoma
+333,tardive dyskinesia
+282,thalassemia
+641,planned abortion
+287,thrombocytopenia
+88,thromboembolism
+242,thyroid disease
+710,topical anesthesia
+130,toxoplasma infection
+440,restenosis
+102,treponema pallidum infection
+646,trichomonas infection
+110,trichophyton infection
+86,trypanosoma cruzi infection
+86,trypanosomiasis
+556,ulcerative colitis
+788,uremia
+760,urinary tract disease
+708,urticaria
+360,uveitis
+1,vibrio cholerae infection
+79,viral infection
+374,vitiligo
+998,wound healing
+2,salmonella typhi infection
+284,bone marrow failure
+995,chemotherapy-induced emesis
+331,cognitive disorder
+250,diabetic macroangiopathy
+728,muscle spasm
+788,diuresis
+481,pneumonia
+70,hepatitis d virus infection
+256,hormone deficiency
+626,menstruation disorder
+580,genitourinary disease
+990,radiation sickness
+307,movement disorder
+607,male sexual dysfunction
+531,ulcer
+259,estrogen deficiency
+536,gastric motility disorder
+2024,parturition
+70,hepatitis e virus infection
+519,respiratory congestion
+51,vaccination
+985,metal intoxication
+88,lyme disease
+36,neisseria meningitidis infection
+53,varicella zoster virus infection
+79,scabies infection
+382,otitis media
+536,gastrointestinal function disorder
+2012,papillomavirus infection
+720,ankylosing spondylitis
+780,hypersomnia
+684,impetigo
+782,edema
+595,cystitis
+564,constipation
+655,turners syndrome
+728,muscle wasting disease
+458,hypotension
+698,pregnancy disorder
+427,bradycardia
+2006,immunization
+523,periodontal disease
+713,respiratory disorder
+530,achalasia
+459,angiogenesis disorder
+299,autism
+23,brucella infection
+799,cachexia
+41,campylobacter infection
+180,uterine cervix tumor
+8,clostridium infection
+79,coxsackie virus infection
+123,cysticercosis
+536,dyspepsia
+781,dysuria
+83,endocarditis
+121,fasciola hepatica infection
+787,flatulence
+78,foot and mouth disease virus infection
+629,gynecological disorder
+286,hemophilia
+536,hyperchlorhydria
+251,hyperinsulinemia
+987,hyperoxia
+995,hyperthermia
+275,hypocalcemia
+251,hypoglycemia
+676,lactation disorder
+771,mastitis
+136,microsporidial infection
+322,mumps virus infection
+583,nephrotoxicity
+79,parainfluenza virus infection
+567,peritonitis
+462,pharyngitis
+788,pollakiuria
+644,premature labor
+41,proteus mirabilis infection
+268,rickets
+56,rubella virus infection
+701,scar tissue
+701,skin atrophy
+949,thermal injury
+46,vaccinia virus infection
+756,thrombocytosis
+300,obsessive compulsive disorder
+523,gingivitis
+704,hirsutism
+991,hypothermia
+601,prostatitis
+977,poison intoxication
+477,rhinitis
+443,raynauds disease
+625,premenstrual syndrome
+780,consciousness disorder
+788,urinary dysfunction
+686,skin infection
+41,bacterial skin infection
+596,bladder disease
+284,parvovirus infection
+79,viral skin infection
+795,dna virus infection
+758,genital system disease
+250,skin manifestation
+706,sebaceous gland disease
+704,hair disease
+333,extrapyramidal syndrome
+84,plasmodium malariae infection
+279,immune deficiency
+995,hypersensitivity
+287,immediate type hypersensitivity
+465,respiratory tract infection
+477,respiratory tract allergy
+460,lower respiratory tract infection
+709,pigment disorder
+465,lung infection
+996,transplant rejection
+465,upper respiratory tract infection
+460,common cold
+567,abdominal cavity inflammation
+791,abnormal urine composition
+255,adrenal disease
+296,mood disorder
+136,amoeba infection
+995,angioedema
+429,arteriosclerosis
+443,artery disease
+715,joint disease
+608,atrophy
+279,autosomal recessive disorder
+576,biliary tract disease
+456,bleeding
+286,blood clotting factor deficiency
+730,bone and joint infection
+289,bone marrow disease
+331,brain disease
+611,breast disease
+519,bronchus disease
+785,cardiovascular inflammation
+333,cervical dystonia
+392,chorea
+78,chorioretinitis
+710,collagen disease
+569,colon disease
+710,connective tissue disease
+371,corneal dystrophy
+370,corneal ulcer
+453,deep vein thrombosis
+362,diabetic retinopathy
+536,gastrointestinal infection
+569,gastrointestinal inflammation
+531,gastrointestinal ulcer
+271,carbohydrate metabolism disorder
+272,cholesterol metabolism disorder
+272,lipid metabolism disorder
+304,drug dependence
+333,dystonia
+385,ear disease
+1094,otorhinolaryngological disease
+785,endotoxic shock
+555,enteritis
+41,enterobacteriaceae infection
+564,intestine disease
+709,erythematosquamous skin disease
+289,erythrocyte disorder
+286,factor vii deficiency
+185,female genital tract tumor
+740,genetic disorder
+288,genital tract inflammation
+580,genitourinary tract tumor
+523,gingiva disease
+256,gonadal disease
+279,graft versus host disease
+282,hemoglobinopathy
+41,hemolytic streptococcus infection
+195,head and neck tumor
+429,heart disease
+41,helicobacter infection
+573,hepatobiliary disease
+155,hepatobiliary system tumor
+126,hookworm infection
+253,pituitary disease
+374,hypotrichosis
+277,inborn error of metabolism
+435,ischemia
+41,klebsiella infection
+669,labor complication
+79,leukemia virus infection
+460,lung inflammation
+272,lysosome storage disease
+239,cancer
+260,malnutrition
+296,bipolar disorder
+733,metabolic bone disease
+277,metabolic disorder
+38,micrococcaceae infection
+385,middle ear disease
+133,mite infection
+78,mouth disease
+528,mouth ulcer
+728,muscle weakness
+729,musculoskeletal system inflammation
+425,myocardial disease
+359,myopathy
+304,narcotic dependence
+320,nervous system inflammation
+349,neurological disease
+356,neuropathy
+288,leukopenia
+263,nutritional disorder
+996,ocular inflammation
+239,ocular tumor
+41,esophageal function disorder
+251,pancreas islet disease
+480,paramyxovirus infection
+27,pasteurellaceae infection
+132,pediculosis capitis infestation
+300,phobia
+511,pleural disease
+2007,prophylaxis
+516,pulmonary fibrosis
+770,respiratory disease
+465,respiratory tract inflammation
+573,rna virus infection
+345,seizure disorder
+290,senile dementia
+301,sexual deviation
+527,sialadenitis
+171,skin tumor
+707,skin ulcer
+301,antisocial personality disorder
+209,solid tumor
+728,spinal muscular atrophy
+785,tachycardia
+287,thrombocyte disorder
+989,toxicity
+239,urinary tract tumor
+654,uterus tumor
+454,varicosis
+443,vascular disease
+459,vein disease
+410,infarction
+136,infectious disease
+711,infectious arthritis
+959,injury
+780,insomnia
+8,intestine infection
+303,intoxication
+162,lung tumor
+239,respiratory tract tumor
+2009,multidrug resistant infection
+200,central nervous system tumor
+225,brain tumor
+192,spinal cord tumor
+239,nerve tumor
+153,intestine tumor
+152,large intestine tumor
+153,colon tumor
+136,behcets disease
+959,head injury
+272,fabry disease
+363,retinitis
+571,fatty liver disease
+79,chlamydia infection
+457,lymphatic system disease
+446,kawasaki disease
+323,encephalitis
+323,allergic encephalitis
+785,lymphadenopathy
+405,renovascular hypertension
+707,foot ulcer
+250,diabetic foot ulcer
+200,burkitts lymphoma
+210,mouth tumor
+146,pharynx tumor
+210,nasopharynx tumor
+861,lung malformation
+183,ovary tumor
+537,stomach disease
+531,stomach ulcer
+532,duodenal ulcer
+456,esophagitis
+333,tremor
+334,ataxia
+998,septic shock
+722,degeneration
+780,fatigue
+959,brain injury
+250,insulin dependent diabetes
+250,non-insulin dependent diabetes
+775,myasthenia gravis
+358,muscle hypertonia
+176,kaposis sarcoma
+257,hypogonadism
+277,x-linked genetic disorder
+153,colorectal tumor
+8,clostridium difficile infection
+389,hearing disorder
+388,tinnitus
+189,renal tumor
+907,nervous system injury
+275,hyperphosphatemia
+209,endocrine tumor
+284,aplastic anemia
+288,leukopenia drug induced
+760,urinary tract infection
+112,urogenital tract infection
+235,esophagus tumor
+170,bone tumor
+525,tooth disease
+527,salivary gland disease
+528,stomatitis
+270,acidemia
+276,acidosis
+388,inner ear disease
+998,reperfusion injury
+70,hepatitis g virus infection
+646,female genital tract infection
+614,female genital tract inflammation
+601,prostate disease
+78,arenavirus infection
+79,bunyavirus infection
+79,hantavirus infection
+78,vesicular stomatitis virus infection
+331,hydrocephalus
+709,granulomatosis
+135,sarcoidosis
+238,lymphoproliferative disease
+728,muscle disease
+729,myalgia
+692,sunburn
+259,aging
+272,hyperlipoproteinemia
+592,urolithiasis
+78,marburg virus infection
+78,ebola virus infection
+780,hallucination
+727,bursitis
+799,hypoxia
+186,testis tumor
+154,rectal tumor
+757,ichthyosis
+702,keratosis
+780,chronic fatigue syndrome
+271,glycogen storage disease
+184,precancer
+473,sinusitis
+527,xerostomia
+742,brain malformation
+494,chronic obstructive airway disease
+199,metastasis
+709,papular skin disease
+697,lichen
+558,colitis
+8,pseudomembranous colitis
+41,haemophilus infection
+453,thrombosis
+415,embolism
+415,lung embolism
+628,infertility
+628,female infertility
+606,male infertility
+275,calcium metabolism disorder
+728,calcification
+314,hyperactivity
+704,alopecia drug-induced
+573,nausea drug-induced
+995,neurotoxicity drug-induced
+285,cardiotoxicity drug-induced
+730,bone injury
+253,amenorrhea
+256,ovary disease
+275,iron metabolism disorder
+995,skin allergy
+691,atopic dermatitis
+692,contact dermatitis
+995,delayed hypersensitivity
+701,scleroderma
+477,allergic rhinitis
+191,glioma
+111,dermatomycosis
+111,tinea
+757,epidermolysis bullosa
+694,pemphigoid
+694,pemphigus
+202,mycosis fungoides
+200,skin lymphoma
+252,hypoparathyroidism
+228,hemangioma
+58,herpesvirus type 6 infection
+58,herpesvirus type 8 infection
+58,herpesvirus infection
+78,verruca vulgaris
+117,cryptosporidium infection
+516,fibrosis
+209,neuroendocrine tumor
+239,pituitary tumor
+287,purpura
+287,thrombocytopenic purpura
+239,thyroid tumor
+730,osteomyelitis
+85,leishmania infection
+85,leishmania donovani infection
+85,leishmania braziliensis infection
+782,jaundice
+272,proteinosis
+277,amyloidosis
+271,storage disease
+370,keratitis
+372,conjunctiva disease
+190,lacrimal gland disease
+710,sjoegrens syndrome
+994,motion sickness
+491,chronic obstructive pulmonary disease
+362,age related macular degeneration
+286,factor ix deficiency
+286,von willebrands disease
+78,condyloma
+259,precocious puberty
+622,dysplasia
+622,cervical dysplasia
+163,mesothelioma
+600,prostate hyperplasia
+536,stomach function disorder
+530,gastroesophageal reflux
+275,iron overload
+204,lymphoid leukemia
+276,hyponatremia
+295,schizoaffective disorder
+952,spinal cord injury
+642,pre-eclampsia
+437,aneurysm
+162,small-cell lung cancer
+162,non-small-cell lung cancer
+528,mucositis
+273,macroglobulinemia
+756,osteopetrosis
+277,progestogen deficiency
+41,mrsa infection
+2009,vrsa infection
+564,functional bowel disorder
+50,variola virus infection
+289,heparin induced thrombocytopenia
+238,myelodysplastic syndrome
+530,barretts esophagus
+302,premature ejaculation
+294,hiv associated dementia
+302,female sexual dysfunction
+211,familial adenomatous polyposis
+528,leukoplakia
+300,panic disorder
+275,hypophosphatemia
+66,west nile virus infection
+62,st louis encephalitis virus infection
+62,japanese encephalitis virus infection
+60,yellow fever virus infection
+78,alphavirus infection
+62,western equine encephalitis virus infection
+66,venezuelan equine encephalitis virus infection
+62,eastern equine encephalitis virus infection
+78,filovirus infection
+78,cmv retinitis
+785,castlemans disease
+349,neuropathic pain
+370,keratoconjunctivitis
+283,paroxysmal nocturnal hemoglobinuria
+273,alpha-1 antitrypsin deficiency
+348,transmissible spongiform encephalopathy
+46,variant creutzfeldt jakob disease
+117,aspergillus fumigatus infection
+112,candida infection
+112,candida krusei infection
+112,candida glabrata infection
+115,histoplasma infection
+116,blastomyces infection
+114,coccidioides infection
+110,epidermophyton infection
+110,microsporum infection
+370,cladophialophora infection
+117,exophiala infection
+118,fusarium infection
+117,scedosporium infection
+112,saccharomyces infection
+117,zygomycete infection
+117,mucor infection
+136,rhizomucor infection
+117,rhizopus infection
+117,absidia infection
+32,corynebacterium infection
+41,bacteroides infection
+41,bacteroides fragilis infection
+79,chlamydiae infection
+20,yersinia pestis infection
+41,bacillus infection
+41,staphylococceae infection
+41,streptococcaceae infection
+788,clostridiaceae infection
+83,bartonella infection
+780,ehrlichia infection
+486,burkholderia infection
+41,citrobacter infection
+41,morganella infection
+41,proteus infection
+796,providencia infection
+785,serratia infection
+8,yersinia infection
+83,coxiella infection
+482,legionella pneumophila infection
+995,acinetobacter infection
+41,moraxella infection
+38,moraxella catarrhalis infection
+41,pseudomonas infection
+21,francisella tularensis infection
+460,leptospiraceae infection
+8,treponema infection
+41,beta-hemolytic streptococcus infection
+30,group a streptococcus infection
+41,streptococcus pyogenes infection
+41,streptococcus agalactiae infection
+41,enterococcus infection
+41,enterococcus faecalis infection
+519,bacterial respiratory tract infection
+519,viral respiratory tract infection
+796,fungal respiratory tract infection
+466,acute bronchitis
+491,chronic bronchitis
+861,lung injury
+780,sleep apnea
+4,shigella flexneri infection
+4,shigella sonnei infection
+202,shigella boydii infection
+4,shigella dysenteriae infection
+8,campylobacter jejuni infection
+537,stomach infection
+569,anorectal disease
+565,anal fissure
+556,proctitis
+157,pancreatic ductal adenocarcinoma
+157,pancreatic cystadenocarcinoma
+239,pancreatic endocrine tumor
+211,insulinoma
+251,zollinger-ellison syndrome
+235,vipoma
+2045,biliary tumor
+156,biliary cancer
+751,anal dysplasia
+560,ileus
+347,narcolepsy
+665,obstetrics
+627,menopause
+634,spontaneous abortion
+643,hyperemesis gravidarum
+643,morning sickness
+588,diabetes insipidus
+571,liver failure
+330,canavan disease
+420,pericarditis
+287,vasculitis
+446,polyarteritis nodosa
+239,vascular neoplasm
+746,congenital heart defect
+427,atrial fibrillation
+427,atrial flutter
+426,long qt syndrome
+427,ventricular tachycardia
+427,ventricular fibrillation
+421,bacterial endocarditis
+427,cardiac arrest
+428,congestive heart failure
+785,cardiogenic shock
+428,cardiac edema
+394,heart valve disease
+395,aortic valve disease
+746,aortic valve stenosis
+425,hypertrophic cardiomyopathy
+425,chagas cardiomyopathy
+413,variant angina pectoris
+411,unstable angina
+277,syndrome x
+411,coronary thrombosis
+416,pulmonary heart disease
+443,peripheral arterial occlusive disease
+478,telangiectasis
+443,erythromelalgia
+443,thromboangiitis obliterans
+441,aortic aneurysm
+759,hippel lindau syndrome
+433,carotid stenosis
+996,renal artery obstruction
+747,arteriovenous malformation
+448,capillary leak syndrome
+443,diabetic angiopathy
+414,coronary atherosclerosis
+996,vascular fistula
+434,brain infarction
+432,intracranial hemorrhage
+779,periventricular leukomalacia
+290,vascular dementia
+779,brain hypoxia-ischemia
+435,brain ischemia
+435,intracranial vasospasm
+411,occlusive coronary artery disease
+443,arterial occlusive disease
+194,adrenal cortical carcinoma
+255,adrenal gland hypofunction
+277,adrenoleukodystrophy
+255,congenital adrenal hyperplasia
+610,fibrocystic breast disease
+611,gynecomastia
+676,galactorrhea
+588,secondary hyperparathyroidism
+253,gigantism
+253,dwarfism
+588,nephrogenic diabetes insipidus
+253,wolfram syndrome
+253,inappropriate adh syndrome
+255,nelson syndrome
+240,goiter
+242,nodular goiter
+255,hyperandrogenism
+628,anovulation
+634,polycystic ovary syndrome
+256,premature ovarian failure
+256,ovarian hyperstimulation syndrome
+183,endometrioid carcinoma
+257,testicular disease
+579,steatorrhea
+208,acute leukemia
+204,acute lymphoblastic leukemia
+204,b-cell acute lymphoblastic leukemia
+204,t-cell acute lymphoblastic leukemia
+205,acute myelogenous leukemia
+205,acute promyelocytic leukemia
+208,chronic leukemia
+204,chronic lymphocytic leukemia
+205,chronic myelocytic leukemia
+202,hairy cell leukemia
+208,prolymphocytic leukemia
+273,lymphoplasmacytoid lymphoma
+200,mantle cell lymphoma
+202,follicle center lymphoma
+200,marginal zone b-cell lymphoma
+238,plasmacytoma
+202,diffuse large b-cell lymphoma
+202,peripheral t-cell lymphoma
+202,cutaneous t-cell lymphoma
+200,anaplastic large cell lymphoma
+202,sezary syndrome
+204,adult t-cell lymphoma
+208,t-cell large granular lymphocyte leukemia
+173,basal cell carcinoma
+155,cholangiocarcinoma
+189,renal cell carcinoma
+155,hepatocellular carcinoma
+198,nasopharyngeal carcinoma
+189,renal sarcoma
+189,nephroblastoma
+189,transitional cell carcinoma
+170,osteosarcoma
+333,restless legs syndrome
+110,onychomycosis
+52,adult varicella zoster virus infection
+53,pediatric varicella zoster virus infection
+996,female contraception
+2025,male contraception
+654,uterine fibroids
+696,psoriatic arthritis
+79,coronavirus infection
+79,sars coronavirus infection
+259,andrology
+607,balanitis
+607,penile induration
+239,penis tumor
+607,priapism
+604,epididymitis
+98,epididymo-orchitis
+599,bacterial urinary tract infection
+599,fungal urinary tract infection
+320,bacterial cns infection
+320,bacterial meningitis
+321,fungal meningitis
+47,viral meningitis
+36,neisseria meningitidis meningitis
+323,viral encephalitis
+117,cryptococcus neoformans meningitis
+225,neoplastic meningitis
+482,bacterial pneumonia
+484,fungal pneumonia
+480,viral pneumonia
+483,chlamydia pneumoniae infection
+270,ornithine transcarbamylase deficiency
+790,hyperglycemia
+271,hyperoxaluria
+270,methylmalonic acidemia
+289,polycythemia
+203,multiple myeloma
+170,bone metastases
+2012,pituitary adenoma
+2012,prolactinoma
+780,fever
+995,malignant hyperthermia
+458,orthostatic hypotension
+334,ataxia telangiectasia
+671,phlebothrombosis
+250,diabetic microangiopathy
+447,temporal arteritis
+333,shy drager syndrome
+348,intracranial hypertension
+446,microangiopathy
+443,intermittent claudication
+747,patent ductus arteriosus
+416,pulmonary hypertension
+426,atrioventricular block
+448,hereditary hemorrhagic telangiectasia
+348,pseudotumor cerebri
+457,lymphedema
+446,wegener granulomatosis
+429,cardiac hypertrophy
+276,hypovolemia
+307,binge eating disorder
+312,impulse control disorder
+312,intermittent explosive disorder
+312,compulsive gambling
+301,borderline personality disorder
+300,agoraphobia
+2011,post traumatic stress disorder
+308,acute stress disorder
+300,generalized anxiety disorder
+290,pediatric psychiatric disorder
+299,pervasive child developmental disorder
+299,asperger syndrome
+314,attention deficit-disruptive behaviour disorder
+312,conduct disorder
+296,mania
+296,seasonal affective disorder
+785,palpitation
+246,hashimotos disease
+571,alcoholic hepatitis
+288,granulocytopenia
+288,neutropenia
+288,lymphocytopenia
+275,hemochromatosis
+571,primary biliary cirrhosis
+333,akathesia
+46,progressive multifocal leukoencephalopathy
+333,progressive supranuclear palsy
+2017,tay sachs disease
+344,tropical spastic paraparesis
+259,werner syndrome
+365,retinitis pigmentosa
+360,myopia
+709,hyperpigmentation
+709,melasma
+575,cholecystitis
+359,duchenne dystrophy
+756,ehlers danlos syndrome
+788,enuresis
+695,erythema
+272,lecithin cholesterol acetyltransferase deficiency
+581,glomerular disease
+288,hypereosinophilic syndrome
+2045,kidney dialysis
+302,hypoactive sexual desire disorder
+753,autosomal dominant disorder
+227,adrenal gland tumor
+627,menorrhagia
+279,wiskott-aldrich syndrome
+195,hematological neoplasm
+330,santavuori-haltia disease
+330,jansky-bielschowsky disease
+330,spielmeyer-vogt disease
+330,batten disease
+289,antiphospholipid syndrome
+569,anusitis
+919,blister
+275,calciphylaxis
+110,dermatophytosis
+562,diverticulitis
+562,diverticulosis
+564,dumping syndrome
+787,dysphagia
+745,eisenmenger syndrome
+556,enterocolitis
+35,erysipelas
+536,gastroparesis
+705,hidradenitis
+102,hyperkeratosis
+536,indigestion
+759,kartagener syndrome
+703,nail disease
+448,nevus
+759,noonan syndrome
+216,papulosis
+696,pityriasis
+569,protein losing enteropathy
+698,prurigo
+64,pseudoobstruction
+556,rectosigmoiditis
+695,rosacea
+186,seminoma
+579,short bowel syndrome
+173,skin cancer
+745,tetralogy of fallot
+456,varices
+435,vasospasm
+578,gastrointestinal bleeding
+239,anal tumor
+568,peritoneal disease
+789,ascites
+572,hepatorenal syndrome
+574,cholangitis
+576,cholestasis
+275,wilson disease
+527,sialorrhea
+289,splenomegaly
+780,hyperhidrosis
+381,salpingitis
+616,vaginitis
+616,vulvovaginitis
+616,vulva disease
+996,vaginal infection
+373,blepharitis
+374,ptosis
+272,hypertriglyceridemia
+631,biliary tract infection
+333,blepharospasm
+616,bacterial vaginosis
+787,fecal incontinence
+183,fallopian tube tumor
+183,fallopian tube cancer
+272,gauchers disease type i
+272,gauchers disease type iii
+770,meconium aspiration syndrome
+277,mucopolysaccharidosis
+277,mucopolysaccharidosis type i
+277,hurler syndrome
+277,hunter syndrome
+277,sanfilippo syndrome
+277,morquio syndrome
+277,maroteaux-lamy syndrome
+277,sly syndrome
+287,immune thrombocytopenic purpura
+271,pompes disease
+555,coris disease
+271,andersen disease
+271,alpha mannosidosis
+918,corneal injury
+102,rhinopharyngitis
+270,hermansky-pudlak syndrome
+250,albuminuria
+270,cystinuria
+791,glycosuria
+753,polycystic kidney disease
+753,autosomal recessive polycystic kidney disease
+753,autosomal dominant polycystic kidney disease
+270,citrullinuria
+2018,methylmalonicaciduria
+581,nephrotic syndrome
+341,neuromyelitis optica
+238,thrombocythemia
+571,liver fibrosis
+289,polycythemia vera
+388,deafness
+389,hearing loss
+387,otosclerosis
+464,laryngitis
+465,laryngopharyngitis
+475,peritonsillitis
+463,tonsillitis
+529,glossitis
+523,pericoronitis
+523,periodontitis
+277,enzyme deficiency
+282,beta thalassemia
+282,thalassemia intermedia
+282,thalassemia major
+596,overactive bladder
+788,urge urinary incontinence
+788,stress urinary incontinence
+188,bladder cancer
+357,chronic inflammatory demyelinating polyneuropathy
+600,urinary retention
+396,aortic stenosis
+41,dacryocystitis
+327,circadian rhythm sleep disorder
+279,agammaglobulinemia
+756,achondroplasia
+151,adenocarcinoma
+756,craniofacial dysostosis
+583,lupus nephritis
+334,spinocerebellar ataxia
+446,churg-strauss syndrome
+759,cockayne syndrome
+759,alagille syndrome
+290,subcortical vascular dementia
+277,crigler-najjar syndrome
+277,adenosine deaminase deficiency
+996,vascular injury
+272,sitosterolemia
+331,frontotemporal dementia
+110,tinea capitis
+110,tinea corporis
+110,tinea cruris
+110,tinea pedis
+268,osteomalacia
+494,bronchiectasis
+386,vertigo
+731,osteitis
+289,myelofibrosis
+510,empyema
+365,allergic conjunctivitis
+524,arthralgia
+729,musculoskeletal pain
+368,vision disorder
+369,blindness
+171,angiosarcoma
+171,chondrosarcoma
+171,fibrosarcoma
+171,leiomyosarcoma
+171,liposarcoma
+171,rhabdomyosarcoma
+192,astrocytoma
+191,glioblastoma
+225,ependymoma
+76,trachoma
+61,dengue virus infection
+63,tick borne encephalitis virus infection
+315,dyslexia
+225,acoustic neuroma
+237,neurofibromatosis
+516,interstitial lung disease
+569,pouchitis
+726,periarthritis
+733,cartilage disease
+733,polychondritis
+728,myositis
+710,dermatomyositis
+710,polymyositis
+576,primary sclerosing cholangitis
+362,retinopathy of prematurity
+378,strabismus
+307,stutter
+727,synovitis
+727,tenosynovitis
+336,spinal disease
+383,mastoiditis
+379,scleritis
+756,osteogenesis imperfecta
+125,filariasis
+125,onchocerciasis
+782,hyperalgesia
+279,immunoglobulin g deficiency
+595,interstitial cystitis
+363,choroiditis
+364,iritis
+371,keratoconus
+277,insulin resistance
+600,hypertrophy
+379,vitreous hemorrhage
+768,asphyxia
+682,cellulitis
+642,eclampsia
+729,fibromyalgia
+572,hepatic encephalopathy
+627,hot flashes
+191,medulloblastoma
+259,laron syndrome
+253,growth hormone deficiency
+723,torticollis
+571,biliary cirrhosis
+199,carcinoid tumor
+579,celiac disease
+277,mitochondrial disease
+277,mitochondrial encephalomyopathy
+277,melas syndrome
+330,metachromatic leukodystrophy
+788,nocturia
+996,ocular infection
+173,dermatofibrosarcoma
+733,male osteoporosis
+733,postmenopausal osteoporosis
+724,sciatica
+333,stiff person syndrome
+493,status asthmaticus
+704,folliculitis
+695,cutaneous lupus erythematosus
+695,discoid lupus erythematosus
+372,infectious keratoconjunctivitis
+518,adult respiratory distress syndrome
+770,neonatal respiratory distress syndrome
+704,alopecia areata
+356,polyneuropathy
+192,anaplastic astrocytoma
+707,decubitus ulcer
+269,vitamin k deficiency
+781,dysgeusia
+270,albinism
+379,mydriasis
+379,miosis
+501,asbestosis
+770,atelectasis
+790,azotemia
+281,folic acid deficiency
+281,vitamin b12 deficiency
+349,peripheral nervous system disease
+354,carpal tunnel syndrome
+355,complex regional pain syndrome
+343,cerebral palsy
+272,lipoprotein lipase deficiency
+574,cholelithiasis
+712,chondrocalcinosis
+117,chromoblastomycosis
+571,steatohepatitis
+571,non-alcoholic steatohepatitis
+259,testosterone deficiency
+279,common variable immunodeficiency
+272,lipodystrophy
+272,hiv-associated lipodystrophy
+283,autoimmune hemolytic anemia
+283,cold agglutinin disease
+273,paraproteinemia
+273,cryoglobulinemia
+359,myotonic dystrophy
+359,myotonic dystrophy type 1
+359,myotonic dystrophy type 2
+362,retinal venous occlusion
+362,proliferative diabetic retinopathy
+250,diabetic macular edema
+718,contracture
+728,dupuytren contracture
+608,dyspareunia
+784,dysphonia
+358,lambert-eaton syndrome
+924,contusion
+633,ectopic pregnancy
+376,exophthalmos
+271,galactosemia
+194,neuroblastoma
+191,gliosarcoma
+330,globoid cell leukodystrophy
+333,hallervorden-spatz syndrome
+276,hyperkalemia
+276,hypernatremia
+275,copper metabolism disorder
+629,hematocele
+729,hematoma
+286,factor i deficiency
+626,hypermenorrhea
+364,hyphema
+263,protein energy deficiency
+78,lassa fever
+214,lipoma
+223,angiomyolipoma
+457,elephantiasis
+611,mastalgia
+757,mastocytosis
+351,facial nerve disease
+386,meniere disease
+386,labyrinthitis
+225,meningioma
+323,myelitis
+333,myoclonus
+377,optic nerve disorder
+386,vestibulocochlear nerve disorder
+272,niemann pick disease type b
+272,niemann pick disease type c1
+368,nyctalopia
+733,ostealgia
+731,pagets bone disease
+170,giant bone cell tumor
+733,osteonecrosis
+733,osteopenia
+284,pancytopenia
+695,lupus erythematosus panniculitis
+360,endophthalmitis
+360,panophthalmitis
+377,papilledema
+194,paraganglioma
+2013,polymyalgia rheumatica
+277,hepatic porphyria
+759,prader-willi syndrome
+66,rift valley fever
+780,rocky mountain spotted fever
+759,rubinstein-taybi syndrome
+330,sandhoff disease
+336,spinal cord disease
+721,spondylarthritis
+268,vitamin e deficiency
+526,jaw disease
+524,temporomandibular joint syndrome
+95,tendon disease
+726,tendinitis
+164,thymus neoplasm
+164,thymoma
+784,tourette syndrome
+277,tumor lysis syndrome
+99,urethritis
+738,weight gain
+783,weight loss
+385,cholesteatoma
+692,drug eruption
+695,toxic epidermal necrolysis
+259,carcinoid syndrome
+242,thyroid associated ophthalmopathy
+66,phlebovirus infection
+760,fetal alcohol syndrome
+79,metapneumovirus infection
+334,friedreich ataxia
+170,ewing sarcoma
+466,bronchiolitis
+100,aseptic meningitis
+995,general anesthesia
+2064,surgical procedure
+996,transplantation
+996,heart transplantation
+50,liver transplantation
+2042,kidney transplantation
+996,heart transplant rejection
+996,liver transplant rejection
+996,kidney transplant rejection
+208,stem cell transplantation
+626,uterine hemorrhage
+345,tonic clonic epilepsy
+780,absence seizure
+572,liver abscess
+572,amoebic liver abscess
+25,melioidosis
+277,acute intermittent porphyria
+518,acute lung injury
+461,acute sinusitis
+473,chronic sinusitis
+277,adrenomyeloneuropathy
+714,juvenile rheumatoid arthritis
+2042,organ transplantation
+478,nasal congestion
+997,central nervous system injury
+990,radiotherapy induced emesis
+521,dental caries
+267,xerophthalmia
+99,haemophilus ducreyi infection
+782,skin rash
+279,tissue transplantation
+2042,corneal transplantation
+516,lymphangioleiomyomatosis
+250,diabetic ketoacidosis
+535,hypertrophic gastritis
+270,type i tyrosinemia
+345,status epilepticus
+556,ulcerative proctitis
+66,ross river virus infection
+79,punta toro virus infection
+307,appetite loss
+706,acne vulgaris
+997,cardiovascular surgical procedure
+428,cardiac surgical procedure
+66,chikungunya virus infection
+250,latent autoimmune adult diabetes
+112,mucocutaneous candidiasis
+695,erythema multiforme
+695,stevens johnson syndrome
+565,fistula
+565,anal fistula
+566,perianal fistula
+454,varicosis ulcer
+293,delirium
+331,lewy body dementia
+571,autoimmune hepatitis
+362,stargardt disease
+271,lactose intolerance
+81,spondylosyndesis
+588,cystinosis
+288,chronic granulomatous disease
+530,eosinophilic esophagitis
+583,iga nephropathy
+759,alport syndrome
+288,genital tract infection
+682,abscess
+567,abdominal abscess
+568,peritoneal tumor
+581,focal segmental glomerulosclerosis
+78,henipavirus infection
+79,nipah virus infection
+323,hendra virus infection
+475,otorhinolaryngological infection
+519,bronchospasm
+789,gastrointestinal injury
+799,emotional lability
+277,multiple organ failure
+427,ventricular arrhythmia
+707,leg ulcer
+345,infantile spasms
+273,hypoalbuminemia
+2084,li fraumeni syndrome
+996,bone marrow transplant rejection
+728,heterotopic ossification
+256,fetal growth restriction
+273,hypogelsolinemia
+624,vulvar intraepithelial neoplasia
+586,renal injury
+861,heart injury
+728,muscle injury
+296,bipolar i disorder
+296,bipolar ii disorder
+2062,suicidal ideation
+295,catatonia
+330,rett syndrome
+292,drug withdrawal syndrome
+331,mild cognitive impairment
+277,cerebral amyloid angiopathy
+334,spastic paraplegia
+335,spinal and bulbar muscular atrophy
+759,tuberous sclerosis
+345,myoclonic seizure
+345,juvenile myoclonic epilepsy
+345,lennox gastaut syndrome
+724,spinal stenosis
+362,choroidal neovascularization
+614,pelvic inflammatory disease
+996,lung transplant rejection
+996,pancreas transplant rejection
+270,n-acetylglutamate synthase deficiency
+270,hyperammonemia
+54,herpetic keratitis
+156,gallbladder tumor
+365,open angle glaucoma
+365,angle closure glaucoma
+300,social phobia
+142,adenoid tumor
+453,budd chiari syndrome
+379,vitreous humor disease
+280,henoch schonlein purpura
+88,babesia infection
+280,iron deficiency anemia
+985,heavy metal poisoning
+608,reproductive disorder
+161,larynx tumor
+259,hutchinson gilford progeria syndrome
+477,perennial allergic rhinitis
+477,seasonal allergic rhinitis
+250,diabetic gastroparesis
+272,familial hypercholesterolemia
+238,gastrointestinal stromal tumor
+362,macular disease
+362,macular degeneration
+473,nasal polyps
+528,oral mucositis
+728,sarcopenia
+338,cancer pain
+270,homocystinuria
+756,osteodystrophy
+271,sucrase isomaltase deficiency
+459,venous insufficiency
+347,cataplexy
+728,fibrodysplasia ossificans progressiva
+995,systemic inflammatory response syndrome
+724,back pain
+277,muckle wells syndrome
+786,cheynes stokes breathing
+377,optic neuritis
+34,streptococcus mutans infection
+272,cerebrotendinous xanthomatosis
+781,decompression sickness
+602,prostatic intraepithelial neoplasia
+59,monkeypox virus infection
+577,exocrine pancreatic insufficiency
+79,polyomavirus infection
+209,merkel cell carcinoma
+368,achromatopsia
+361,retinoschisis
+572,portal hypertension
+193,medullary thyroid cancer
+380,otitis externa
+357,poems syndrome
+277,familial mediterranean fever
+185,hormone refractory prostate cancer
+185,hormone dependent prostate cancer
+65,junin virus infection
+287,thrombasthenia
+359,limb girdle muscular dystrophy
+585,end stage renal disease
+379,nystagmus
+41,bifidobacterium infection
+172,stage i melanoma
+172,stage iii melanoma
+172,stage iv melanoma
+411,acute coronary syndrome
+41,haemophilus parainfluenzae infection
+996,serratia marcescens infection
+41,morganella morganii infection
+41,bacteroides thetaiotaomicron infection
+41,enterobacter cloacae infection
+41,propionibacterium infection
+41,fusobacterium infection
+41,staphylococcus epidermidis infection
+587,renal fibrosis
+342,hemiplegia
+368,amblyopia
+517,acute chest syndrome
+304,cannabis dependence
+998,ocular surgical procedure
+272,cholesteryl ester storage disease
+330,pelizaeus merzbacher disease
+571,non alcoholic fatty liver disease
+359,becker muscular dystrophy
+184,vaginal cancer
+277,metabolic syndrome x
+692,polymorphus light eruption
+428,diastolic heart failure
+428,systolic heart failure
+75,epstein barr virus infection
+53,postherpetic neuralgia
+41,viridans group streptococcus infection
+41,peptostreptococcus infection
+41,bacteroides uniformis infection
+482,prevotella infection
+8,enterobacter aerogenes infection
+483,mycoplasma pneumoniae infection
+41,staphylococcus saprophyticus infection
+482,acinetobacter lwoffii infection
+41,micrococcus infection
+41,streptococcus mitis infection
+8,streptococcus oralis infection
+482,streptococcus constellatus infection
+41,clostridium perfringens infection
+41,bacteroides vulgatus infection
+41,streptococcus intermedius infection
+41,ureaplasma urealyticum infection
+482,klebsiella granulomatis infection
+88,borrelia recurrentis infection
+558,campylobacter fetus infection
+88,bartonella bacilliformis infection
+39,actinomyces israelii infection
+41,haemophilus aegyptus infection
+41,acinetobacter baumanii infection
+41,bacteroides caccae infection
+350,trigeminal neuralgia
+193,papillary thyroid tumor
+362,macular edema
+362,wet age related macular degeneration
+362,dry age related macular degeneration
+759,usher syndrome
+694,usher syndrome i
+362,usher syndrome ii
+727,tendon injury
+759,angelman syndrome
+401,essential hypertension
+359,emery dreifuss muscular dystrophy
+786,respiratory insufficiency
+311,respiratory depression
+757,pachyonychia congenita
+571,non segmental vitiligo
+81,scrub typhus
+176,soft tissue sarcoma
+759,marfan syndrome
+334,spinocerebellar degenerations
+759,basal cell nevus syndrome
+86,trypanosoma brucei infection
+425,lipotoxic cardiomyopathy
+570,acute liver failure
+277,familial amyloid neuropathy
+588,renal tubule disease
+443,vascular occlusive disease
+573,venous occlusive disease
+431,cerebral hemorrhage
+614,tissue adhesions
+372,pterygium
+733,bone cyst
+757,congenital ichthyosiform erythroderma
+425,dilated cardiomyopathy
+286,factor xiii deficiency
+272,hyperlipoproteinemia type i
+272,hyperlipoproteinemia type iii
+211,intestinal polyp
+204,lymphoblastic leukemia
+724,lower back pain
+360,degenerative myopia
+345,partial seizure
+345,complex partial seizure
+582,membranous glomerulonephritis
+626,metrorrhagia
+733,bone resorption
+996,osteolysis
+359,inclusion body myositis
+362,retinal dystrophy
+362,lebers congential amaurosis
+377,mitochondrial optic neuropathy
+377,lebers hereditary optic atrophy
+493,asthma attack
+780,dizziness
+487,influenza virus a infection
+487,influenza virus b infection
+151,metastatic gastrointestinal cancer
+151,metastatic liver cancer
+188,metastatic bladder cancer
+151,metastatic renal cancer
+272,niemann pick disease type c
+289,protein c deficiency
+191,metastatic brain cancer
+789,abdominal pain
+789,infant colic
+389,sensorineural hearing loss
+389,noise induced hearing loss
+52,islet cell transplant rejection
+332,parkinsonism
+331,parkinsons disease dementia
+255,cushings syndrome
+349,facial hemiatrophy
+277,al amyloidosis
+253,female hypogonadism
+257,male hypogonadism
+284,fanconi anemia
+790,glucose intolerance
+79,bk virus infection
+2072,surgical preparation procedure
+358,neuromuscular blockade
+65,crimean congo fever virus infection
+65,viral hemorrhagic fever
+728,aggressive fibromatosis
+41,propionibacterium acnes infection
+482,stenotrophomonas maltophilia infection
+952,spinal injury
+416,pulmonary artery hypertension
+428,left heart disease pulmonary hypertension
+416,lung disease pulmonary hypertension
+416,chronic thromboembolic pulmonary hypertension
+648,postnatal depression
+365,glaucoma surgical procedure
+686,pyoderma gangrenosum
+327,obstructive sleep apnea
+216,dysplastic nevus syndrome
+237,neurofibromatosis type i
+237,neurofibromatosis type ii
+272,lysosomal acid lipase deficiency
+183,ovarian clear cell carcinoma
+277,carnitine palmitoyltransferase deficiency
+238,post transplant lymphoproliferative disease
+719,pigmented villonodular synovitis
+757,x linked hypohidrotic ectodermal dysplasia
+571,alcoholic fatty liver disease
+729,neuritis
+648,gestational diabetes
+270,nephropathic cystinosis
+270,ocular cystinosis
+705,hidradenitis suppurativa
+78,enterovirus 71 infection
+518,pulmonary edema
+782,hepatic edema
+999,serum sickness
+757,ichthyosis vulgaris
+571,alcoholic liver cirrhosis
+751,polycystic liver disease
+282,sickle cell crisis
+277,molybdenum cofactor deficiency
+757,netherton syndrome
+258,multiple endocrine neoplasia
+130,toxoplasma gondii infection
+611,necrosis
+785,gangrene
+281,pernicious anemia
+333,multiple system atrophy
+367,presbyopia
+757,lamellar ichthyosis
+695,erythema nodosum leprae
+371,corneal opacity
+495,extrinsic allergic alveolitis
+337,type i complex regional pain syndrome
+726,epicondylitis
+726,lateral epicondylitis
+757,dyskeratosis congenita
+759,cryopyrin associated periodic syndrome
+277,familial cold autoinflammatory syndrome
+277,cinca syndrome
+362,coats disease
+307,agitation
+995,food hypersensitivity
+995,peanut hypersensitivity
+995,egg hypersensitivity
+279,severe combined immunodeficiency syndrome
+726,adhesive capsulitis
+330,leigh disease
+756,polyostotic fibrous dysplasia
+444,arterial thrombosis
+459,cardiac reperfusion injury
+569,anus pain
+789,gastrointestinal pain
+616,cervix disease
+622,cervix injury
+631,uterus infection
+646,cervix infection
+789,gastric injury
+174,metastatic breast cancer
+153,metastatic colorectal cancer
+401,arterial hypertension
+282,persistent pulmonary hypertension of the newborn
+416,idiopathic pulmonary arterial hypertension
+416,secondary pulmonary arterial hypertension
+401,resistant hypertension
+151,metastatic prostate cancer
+151,metastatic non small cell lung cancer
+151,metastatic stomach cancer
+151,metastatic esophageal cancer
+151,metastatic lung cancer
+151,metastatic pancreas cancer
+151,metastatic rectal cancer
+153,metastatic colon cancer
+151,metastatic head and neck cancer
+435,cerebrovascular ischemia
+434,ischemic stroke
+189,urethral cancer
+346,migraine with aura
+864,liver injury
+398,acute decompensated heart failure
+356,charcot marie tooth type 1 disease
+571,compensated liver cirrhosis
+968,drug overdose
+972,digoxin overdose
+965,paracetamol overdose
+964,anticoagulant overdose
+443,thrombotic microangiopathy
+227,adenoma
+270,alkaptonuria
+780,apnea
+140,advanced solid tumor
+583,immune complex disease
+233,bowen disease
+202,systemic mastocytosis
+854,traumatic brain injury
+646,habitual abortion
+170,chordoma
+186,germ cell and embryonic cancer
+270,fatty acid oxidation disorder
+271,glycogen storage disease 1a
+757,epidermolysis bullosa dystrophica
+359,facioscapulohumeral muscular dystrophy
+987,gas poisoning
+341,central nervous system demyelinating disease
+719,joint injury
+959,knee injury
+955,nerve injury
+379,ocular pain
+362,vascular eye disease
+370,bacterial eye infection
+79,viral eye infection
+759,smith lemli opitz syndrome
+359,sporadic inclusion body myositis
+193,anaplastic thyroid cancer
+275,x linked dominant hypophosphatemic rickets
+516,idiopathic pulmonary fibrosis
+702,seborrheic keratosis
+302,sexual dysfunction
+277,erythropoietic protoporphyria
+474,adenoid hypertrophy
+379,asteroid hyalosis
+421,infectious endocarditis
+371,lentigo senilis
+286,factor ii deficiency
+579,fat malabsorption
+277,choline deficiency
+376,orbital inflammatory disease
+224,conjunctival neoplasm
+190,uveal melanoma
+172,ocular melanoma
+268,vitamin d deficiency
+275,hypophosphatasia
+382,otitis
+380,acute external otitis
+596,neurogenic bladder
+780,febrile neutropenia
+588,renal osteodystrophy
+536,gastrointestinal motility disorder
+777,necrotizing enterocolitis
+616,bartholinitis
+98,cervicitis
+289,bone marrow depression
+277,familial dysautonomia
+284,diamond blackfan anemia
+617,adenomyosis
+363,choroideremia
+456,esophageal varices
+279,hypogammaglobulinemia
+581,membranoproliferative glomerulonephritis
+757,port wine stain
+616,genital ulcer
+427,paroxysmal supraventricular tachycardia
+289,lymphadenitis
+457,lymphangitis
+698,prurigo nodularis
+787,chemotherapy induced nausea and vomiting
+627,atrophic vaginitis
+2012,transient ischemic attack
+272,hypoalphalipoproteinemia
+270,carbamoyl phosphate synthase i deficiency
+54,herpetic stromal keratitis
+362,macular telangiectasia 2
+323,autoimmune encephalomyelitis
+441,abdominal aortic aneurysm
+282,sickle beta 0 thalassemia
+564,constipation predominant irritable bowel syndrome
+564,diarrhea predominant irritable bowel syndrome
+564,alternating stool pattern irritable bowel syndrome
+54,genital herpes
+151,metastatic ovary cancer
+655,cystic hygroma
+996,corneal transplant rejection
+996,organ transplant rejection
+513,lung abscess
+41,hematopoietic stem cell transplantation
+996,umbilical cord stem cell transplantation
+365,ocular neovascular disorder
+495,fungal allergy
+829,lower limb fracture
+681,complicated skin and skin structure infection
+599,complicated urinary tract infection
+8,norovirus infection
+79,parechovirus infection
+459,vein graft failure
+286,congenital hemophilia
+573,hepatic insufficiency
+577,necrotizing acute pancreatitis
+919,skin injury
+518,respiratory failure
+595,bladder pain
+733,bone infection
+715,joint infection
+722,intervertebral disc disease
+722,degenerative disc disease
+250,diabetic peripheral neuropathy
+571,alcoholic liver disease
+174,inflammatory breast cancer
+333,essential tremor
+277,histiocytosis
+83,q fever
+296,major depressive disorder
+289,methemoglobinemia
+270,glutaric aciduria
+759,menkes syndrome
+279,barth syndrome
+272,wolman disease
+,unidentified indication

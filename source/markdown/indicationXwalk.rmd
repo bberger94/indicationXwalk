@@ -1,0 +1,106 @@
+---
+title: "Indication Crosswalk"
+author: "Ben Berger"
+date: "June 5, 2017"
+output:
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(rio)
+library(dplyr)
+
+data <- import('data/drugapproval_tempfile.dta')
+data <- data[-nrow(data),] #remove last row
+colnames(data)[colnames(data) == "indication"] <- "condition"
+
+ind2icd9.xwalk <- import('data/Cortellis_Drug_Indication_ICD9_Crosswalk.dta')
+icd92hcc.xwalk <- import('data/icd2hccxw2014.dta')
+icd92ccs.xwalk <- import('data/dxicd2ccsxw.dta')
+
+icd92ccs.xwalk <- icd92ccs.xwalk[-1, ]
+
+```
+
+##Goal:
+Match descriptive condition categories to dataset of drug approvals. 
+
+##Issues:
+Cortellis indication categories are too fine, as are 3-digit ICD-9 groupings, and it is not obvious how we should proceed in aggregating them into coarser groupings.
+
+##What we have:
+
+__1. Dataset of drug approvals with Cortellis Indications.__
+
+```{r approval.data, echo = FALSE, comment = NA}
+table <- head(data)[,c("brandname", "condition")]
+print.data.frame(table, row.names = FALSE)
+```
+
+__2. Crosswalk of Cortellis Indications -> 3-digit ICD-9 codes.__
+
+```{r ind2icd9.xwalk, echo = FALSE, comment = NA}
+table <- head(ind2icd9.xwalk)
+print.data.frame(table, row.names = FALSE)
+
+cat("Sorted by ICD-9 code....")
+table <- head(ind2icd9.xwalk[order(ind2icd9.xwalk$icd9),]) 
+print.data.frame(table, row.names = FALSE)
+
+```
+
+\pagebreak  
+__3. ICD-9 to HCC or CCS crosswalks.__
+
+* [ICD-9 -> HCC crosswalk from NBER](http://www.nber.org/data/icd-hcc-crosswalk-icd-rxhcc-crosswalk.html)  
+The first three digits of each ICD-9 correspond to the three-digit groupings used in the Indication -> ICD-9 crosswalk. Note these 3-digit ICD-9 groupings __do not__ in general map to a single HCC. Also note that only HCCs that are included in CMS's risk-adjustment model in a particular year are present. 
+
+```{r icd92hcc.xwalk, echo = FALSE, comment = NA}
+table <- head(icd92hcc.xwalk[,c(1,2,6)])
+print.data.frame(table, row.names = FALSE)
+
+```
+  
+  
+* [ICD-9 -> CCS crosswalk from NBER](http://www.nber.org/data/icd-ccs-crosswalk.html)  
+Unlike the HCC crosswalk, the CCS crosswalk is year-invariant (ICD-9 codes map to the same HCC regardless of year) and includes a much larger set of ICD-9 codes. Three-digit ICD-9 groupings __do not__ in general map to a single CCS. CCS codes, category labels, and associated ICD-9s are listed _[here](https://www.hcup-us.ahrq.gov/toolssoftware/ccs/AppendixASingleDX.txt)_. CCS categories tend to be granular enough to distinguish between related conditions while still aggregating into useful categories (e.g. all leukemias are coded CCS 39).
+
+```{r icd92ccs.xwalk, echo = FALSE, comment = NA}
+table <- head(icd92ccs.xwalk[,c(1:4)], n = 10)
+print.data.frame(table, row.names = FALSE)
+
+```
+
+##Summary Statistics:
+```{r sumstats, echo=FALSE, comment = NA}
+nInd.Xwalk <- length(ind2icd9.xwalk$condition)
+nInd.data <- length(unique(data$condition))
+
+cat("There are", nInd.Xwalk, "unique Cortellis indications in the Indication -> 3-digit ICD-9 Crosswalk.")
+cat("Of these,", nInd.data, "indications are represented in the drug approval data.")
+
+cat(sum(table(data$icd9)==1), "drug approvals map to a unique 3-digit ICD-9 code.")
+cat(sum(table(data$icd9[data$breakthrough == 1]) == 1), "breakthrough drug approvals map to a unique 3-digit ICD-9 code.")
+
+cat("On average, a 3-digit ICD-9 group contains", mean(table(data$icd9)) %>% round(digits = 2), "drugs, with a median of", median(table(data$icd9)), ".")
+
+
+icd92ccs.xwalk$icd.3 <- substr(icd92ccs.xwalk$icd, 1, 3)
+grouped.xwalk <- icd92ccs.xwalk %>% group_by(icd.3) %>% summarise(unique_ccs = n_distinct(ccs))
+
+cat("On average, a 3-digit ICD-9 group corresponds to", mean(grouped.xwalk$unique_ccs) %>% round(digits = 2), "unique CCS codes.")
+
+pct <- table(grouped.xwalk$unique_ccs)/length(grouped.xwalk$unique_ccs) %>% round(digits = 2)
+barplot(pct, main = 'Number of Associated HCCs for 3-digit ICD-9 Groupings', xlab = 'Number of HCCs', ylab = 'Percent of 3-digit Groups')
+
+```
+
+##Recommendation:
+I recommend we aggregate indications into CCS codes. Although there are over 1,900 Cortellis indications in the Indication -> 3-digit ICD-9 crosswalk, only around 300 unique indications are present in the drug approval data.  
+We can either do this by  
+
+1. Looking up the entire 4-or-5-digit ICD-9 code for the indication and mapping that to a CCS code using a crosswalk, or  
+2. Looking up the CCS code alone.  
+  
+I am happy to work on this and don't expect it to take ridiculously long.

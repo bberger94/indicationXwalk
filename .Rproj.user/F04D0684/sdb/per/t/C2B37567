@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "#get condition labels\nxwalk.icd9$icd9_category <- icd_explain_table(xwalk.icd9$icd9)$major\nxwalk.icd9$icd9_sub_chapter <- icd_explain_table(xwalk.icd9$icd9)$sub_chapter\nxwalk.icd9$icd9_chapter <- icd_explain_table(xwalk.icd9$icd9)$chapter\n\n#select variables & sort\nxwalk.icd9 <- \n  xwalk.icd9 %>%\n  select(cortellis_condition = condition,\n         starts_with('icd9'),\n         malignant_not_specified\n  ) %>% \n  arrange(as.numeric(icd9))\n\nxwalk.icd9 %>%\n  export('data/Cortellis_Drug_Indication_ICD9_Crosswalk_cancerValidated.csv')\n",
+    "created" : 1501257315467.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3707865552",
+    "id" : "C2B37567",
+    "lastKnownWriteTime" : 1501269935,
+    "last_content_update" : 1501269935678,
+    "path" : "C:/Users/bergerb/Dropbox/bkthruWork_local/indicationXwalk/source/add_icd_hierarchy.R",
+    "project_path" : "source/add_icd_hierarchy.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

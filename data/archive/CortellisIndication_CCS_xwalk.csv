@@ -1,0 +1,1942 @@
+indication,icd9,ccs,ccs_label,nccs,cancer
+mycobacterium tuberculosis infection,11,1,Tuberculosis,1,0
+micrococcaceae infection,38,2,Septicemia (except in labor),1,0
+moraxella catarrhalis infection,38,2,Septicemia (except in labor),1,0
+francisella tularensis infection,21,3,Bacterial infection; unspecified site,5,0
+bacillus anthracis infection,22,3,Bacterial infection; unspecified site,5,0
+brucella infection,23,3,Bacterial infection; unspecified site,1,0
+melioidosis,25,3,Bacterial infection; unspecified site,1,0
+listeria monocytogenes infection,27,3,Bacterial infection; unspecified site,1,0
+pasteurellaceae infection,27,3,Bacterial infection; unspecified site,1,0
+mycobacterium leprae infection,30,3,Bacterial infection; unspecified site,1,0
+group a streptococcus infection,30,3,Bacterial infection; unspecified site,1,0
+mycobacterium infection,31,3,Bacterial infection; unspecified site,3,0
+bordetella pertussis infection,33,3,Bacterial infection; unspecified site,1,0
+neisseria meningitidis infection,36,3,Bacterial infection; unspecified site,6,0
+neisseria meningitidis meningitis,36,3,Bacterial infection; unspecified site,6,0
+actinomyces israelii infection,39,3,Bacterial infection; unspecified site,3,0
+bacterial infection,41,3,Bacterial infection; unspecified site,1,0
+clostridium tetani infection,41,3,Bacterial infection; unspecified site,1,0
+enterobacter infection,41,3,Bacterial infection; unspecified site,1,0
+enterococcus faecium infection,41,3,Bacterial infection; unspecified site,1,0
+escherichia coli infection,41,3,Bacterial infection; unspecified site,1,0
+gram negative bacterium infection,41,3,Bacterial infection; unspecified site,1,0
+gram positive bacterium infection,41,3,Bacterial infection; unspecified site,1,0
+haemophilus influenzae infection,41,3,Bacterial infection; unspecified site,1,0
+helicobacter pylori infection,41,3,Bacterial infection; unspecified site,1,0
+streptococcus group b infection,41,3,Bacterial infection; unspecified site,1,0
+legionella infection,41,3,Bacterial infection; unspecified site,1,0
+mycoplasma infection,41,3,Bacterial infection; unspecified site,1,0
+pseudomonas aeruginosa infection,41,3,Bacterial infection; unspecified site,1,0
+staphylococcus aureus infection,41,3,Bacterial infection; unspecified site,1,0
+staphylococcus infection,41,3,Bacterial infection; unspecified site,1,0
+streptococcus infection,41,3,Bacterial infection; unspecified site,1,0
+campylobacter infection,41,3,Bacterial infection; unspecified site,1,0
+proteus mirabilis infection,41,3,Bacterial infection; unspecified site,1,0
+bacterial skin infection,41,3,Bacterial infection; unspecified site,1,0
+enterobacteriaceae infection,41,3,Bacterial infection; unspecified site,1,0
+hemolytic streptococcus infection,41,3,Bacterial infection; unspecified site,1,0
+helicobacter infection,41,3,Bacterial infection; unspecified site,1,0
+klebsiella infection,41,3,Bacterial infection; unspecified site,1,0
+esophageal function disorder,41,3,Bacterial infection; unspecified site,1,0
+haemophilus infection,41,3,Bacterial infection; unspecified site,1,0
+mrsa infection,41,3,Bacterial infection; unspecified site,1,0
+bacteroides infection,41,3,Bacterial infection; unspecified site,1,0
+bacteroides fragilis infection,41,3,Bacterial infection; unspecified site,1,0
+bacillus infection,41,3,Bacterial infection; unspecified site,1,0
+staphylococceae infection,41,3,Bacterial infection; unspecified site,1,0
+streptococcaceae infection,41,3,Bacterial infection; unspecified site,1,0
+citrobacter infection,41,3,Bacterial infection; unspecified site,1,0
+morganella infection,41,3,Bacterial infection; unspecified site,1,0
+proteus infection,41,3,Bacterial infection; unspecified site,1,0
+moraxella infection,41,3,Bacterial infection; unspecified site,1,0
+pseudomonas infection,41,3,Bacterial infection; unspecified site,1,0
+beta-hemolytic streptococcus infection,41,3,Bacterial infection; unspecified site,1,0
+streptococcus pyogenes infection,41,3,Bacterial infection; unspecified site,1,0
+streptococcus agalactiae infection,41,3,Bacterial infection; unspecified site,1,0
+enterococcus infection,41,3,Bacterial infection; unspecified site,1,0
+enterococcus faecalis infection,41,3,Bacterial infection; unspecified site,1,0
+dacryocystitis,41,3,Bacterial infection; unspecified site,1,0
+bifidobacterium infection,41,3,Bacterial infection; unspecified site,1,0
+haemophilus parainfluenzae infection,41,3,Bacterial infection; unspecified site,1,0
+morganella morganii infection,41,3,Bacterial infection; unspecified site,1,0
+bacteroides thetaiotaomicron infection,41,3,Bacterial infection; unspecified site,1,0
+enterobacter cloacae infection,41,3,Bacterial infection; unspecified site,1,0
+propionibacterium infection,41,3,Bacterial infection; unspecified site,1,0
+fusobacterium infection,41,3,Bacterial infection; unspecified site,1,0
+staphylococcus epidermidis infection,41,3,Bacterial infection; unspecified site,1,0
+viridans group streptococcus infection,41,3,Bacterial infection; unspecified site,1,0
+peptostreptococcus infection,41,3,Bacterial infection; unspecified site,1,0
+bacteroides uniformis infection,41,3,Bacterial infection; unspecified site,1,0
+staphylococcus saprophyticus infection,41,3,Bacterial infection; unspecified site,1,0
+micrococcus infection,41,3,Bacterial infection; unspecified site,1,0
+streptococcus mitis infection,41,3,Bacterial infection; unspecified site,1,0
+clostridium perfringens infection,41,3,Bacterial infection; unspecified site,1,0
+bacteroides vulgatus infection,41,3,Bacterial infection; unspecified site,1,0
+streptococcus intermedius infection,41,3,Bacterial infection; unspecified site,1,0
+ureaplasma urealyticum infection,41,3,Bacterial infection; unspecified site,1,0
+haemophilus aegyptus infection,41,3,Bacterial infection; unspecified site,1,0
+acinetobacter baumanii infection,41,3,Bacterial infection; unspecified site,1,0
+bacteroides caccae infection,41,3,Bacterial infection; unspecified site,1,0
+propionibacterium acnes infection,41,3,Bacterial infection; unspecified site,1,0
+hematopoietic stem cell transplantation,41,3,Bacterial infection; unspecified site,1,0
+chorea,392,3,Bacterial infection; unspecified site,2,0
+trichophyton infection,110,4,Mycoses,1,0
+epidermophyton infection,110,4,Mycoses,1,0
+microsporum infection,110,4,Mycoses,1,0
+onychomycosis,110,4,Mycoses,1,0
+dermatophytosis,110,4,Mycoses,1,0
+tinea capitis,110,4,Mycoses,1,0
+tinea corporis,110,4,Mycoses,1,0
+tinea cruris,110,4,Mycoses,1,0
+tinea pedis,110,4,Mycoses,1,0
+dermatomycosis,111,4,Mycoses,1,0
+tinea,111,4,Mycoses,1,0
+urogenital tract infection,112,4,Mycoses,4,0
+candida infection,112,4,Mycoses,4,0
+candida krusei infection,112,4,Mycoses,4,0
+candida glabrata infection,112,4,Mycoses,4,0
+saccharomyces infection,112,4,Mycoses,4,0
+mucocutaneous candidiasis,112,4,Mycoses,4,0
+histoplasma infection,115,4,Mycoses,5,0
+blastomyces infection,116,4,Mycoses,1,0
+aspergillus infection,117,4,Mycoses,1,0
+cryptococcus infection,117,4,Mycoses,1,0
+cryptococcus neoformans infection,117,4,Mycoses,1,0
+fungal infection,117,4,Mycoses,1,0
+cryptosporidium infection,117,4,Mycoses,1,0
+aspergillus fumigatus infection,117,4,Mycoses,1,0
+exophiala infection,117,4,Mycoses,1,0
+scedosporium infection,117,4,Mycoses,1,0
+zygomycete infection,117,4,Mycoses,1,0
+mucor infection,117,4,Mycoses,1,0
+rhizopus infection,117,4,Mycoses,1,0
+absidia infection,117,4,Mycoses,1,0
+cryptococcus neoformans meningitis,117,4,Mycoses,1,0
+chromoblastomycosis,117,4,Mycoses,1,0
+fusarium infection,118,4,Mycoses,1,0
+acquired immune deficiency syndrome,42,5,HIV infection,1,0
+aids related complex,42,5,HIV infection,1,0
+hiv infection,42,5,HIV infection,1,0
+pneumocystis carinii infection,42,5,HIV infection,1,0
+hiv-1 infection,42,5,HIV infection,1,0
+hiv-2 infection,42,5,HIV infection,1,0
+hepatitis a virus infection,70,6,Hepatitis,1,0
+hepatitis b virus infection,70,6,Hepatitis,1,0
+hepatitis c virus infection,70,6,Hepatitis,1,0
+hepatitis virus infection,70,6,Hepatitis,1,0
+hepatitis d virus infection,70,6,Hepatitis,1,0
+hepatitis e virus infection,70,6,Hepatitis,1,0
+hepatitis g virus infection,70,6,Hepatitis,1,0
+variola virus infection,50,7,Viral infection,1,0
+liver transplantation,50,7,Viral infection,1,0
+vaccination,51,7,Viral infection,1,0
+adult varicella zoster virus infection,52,7,Viral infection,3,0
+islet cell transplant rejection,52,7,Viral infection,3,0
+varicella zoster virus infection,53,7,Viral infection,3,0
+pediatric varicella zoster virus infection,53,7,Viral infection,3,0
+postherpetic neuralgia,53,7,Viral infection,3,0
+herpes simplex virus infection,54,7,Viral infection,5,0
+hsv-1 infection,54,7,Viral infection,5,0
+hsv-2 infection,54,7,Viral infection,5,0
+herpetic keratitis,54,7,Viral infection,5,0
+herpetic stromal keratitis,54,7,Viral infection,5,0
+genital herpes,54,7,Viral infection,5,0
+rubella virus infection,56,7,Viral infection,3,0
+herpesvirus type 6 infection,58,7,Viral infection,2,0
+herpesvirus type 8 infection,58,7,Viral infection,2,0
+herpesvirus infection,58,7,Viral infection,2,0
+pox virus infection,59,7,Viral infection,1,0
+monkeypox virus infection,59,7,Viral infection,1,0
+yellow fever virus infection,60,7,Viral infection,1,0
+dengue virus infection,61,7,Viral infection,1,0
+junin virus infection,65,7,Viral infection,1,0
+crimean congo fever virus infection,65,7,Viral infection,1,0
+viral hemorrhagic fever,65,7,Viral infection,1,0
+flavivirus infection,66,7,Viral infection,2,0
+west nile virus infection,66,7,Viral infection,2,0
+venezuelan equine encephalitis virus infection,66,7,Viral infection,2,0
+rift valley fever,66,7,Viral infection,2,0
+phlebovirus infection,66,7,Viral infection,2,0
+ross river virus infection,66,7,Viral infection,2,0
+chikungunya virus infection,66,7,Viral infection,2,0
+rabies virus infection,71,7,Viral infection,1,0
+infectious mononucleosis,75,7,Viral infection,1,0
+epstein barr virus infection,75,7,Viral infection,1,0
+molluscum contagiosum infection,78,7,Viral infection,1,0
+pestivirus infection,78,7,Viral infection,1,0
+foot and mouth disease virus infection,78,7,Viral infection,1,0
+chorioretinitis,78,7,Viral infection,1,0
+mouth disease,78,7,Viral infection,1,0
+arenavirus infection,78,7,Viral infection,1,0
+vesicular stomatitis virus infection,78,7,Viral infection,1,0
+marburg virus infection,78,7,Viral infection,1,0
+ebola virus infection,78,7,Viral infection,1,0
+verruca vulgaris,78,7,Viral infection,1,0
+condyloma,78,7,Viral infection,1,0
+alphavirus infection,78,7,Viral infection,1,0
+filovirus infection,78,7,Viral infection,1,0
+cmv retinitis,78,7,Viral infection,1,0
+lassa fever,78,7,Viral infection,1,0
+henipavirus infection,78,7,Viral infection,1,0
+enterovirus 71 infection,78,7,Viral infection,1,0
+adenovirus infection,79,7,Viral infection,2,0
+chlamydia trachomatis infection,79,7,Viral infection,2,0
+enterovirus infection,79,7,Viral infection,2,0
+human t cell leukemia virus 1 infection,79,7,Viral infection,2,0
+human t cell leukemia virus 2 infection,79,7,Viral infection,2,0
+papovavirus infection,79,7,Viral infection,2,0
+picornavirus infection,79,7,Viral infection,2,0
+respiratory syncytial virus infection,79,7,Viral infection,2,0
+retrovirus infection,79,7,Viral infection,2,0
+rhinovirus infection,79,7,Viral infection,2,0
+viral infection,79,7,Viral infection,2,0
+scabies infection,79,7,Viral infection,2,0
+coxsackie virus infection,79,7,Viral infection,2,0
+parainfluenza virus infection,79,7,Viral infection,2,0
+viral skin infection,79,7,Viral infection,2,0
+leukemia virus infection,79,7,Viral infection,2,0
+chlamydia infection,79,7,Viral infection,2,0
+bunyavirus infection,79,7,Viral infection,2,0
+hantavirus infection,79,7,Viral infection,2,0
+chlamydiae infection,79,7,Viral infection,2,0
+coronavirus infection,79,7,Viral infection,2,0
+sars coronavirus infection,79,7,Viral infection,2,0
+metapneumovirus infection,79,7,Viral infection,2,0
+punta toro virus infection,79,7,Viral infection,2,0
+nipah virus infection,79,7,Viral infection,2,0
+polyomavirus infection,79,7,Viral infection,2,0
+bk virus infection,79,7,Viral infection,2,0
+viral eye infection,79,7,Viral infection,2,0
+parechovirus infection,79,7,Viral infection,2,0
+papillomavirus infection,79,7,Viral infection,2,0
+spondylosyndesis,81,8,Other infections; including parasitic,1,0
+scrub typhus,81,8,Other infections; including parasitic,1,0
+rickettsia infection,83,8,Other infections; including parasitic,2,0
+endocarditis,83,8,Other infections; including parasitic,2,0
+bartonella infection,83,8,Other infections; including parasitic,2,0
+coxiella infection,83,8,Other infections; including parasitic,2,0
+q fever,83,8,Other infections; including parasitic,2,0
+plasmodium malariae infection,84,8,Other infections; including parasitic,1,0
+leishmania tropica infection,85,8,Other infections; including parasitic,1,0
+leishmania infection,85,8,Other infections; including parasitic,1,0
+leishmania donovani infection,85,8,Other infections; including parasitic,1,0
+leishmania braziliensis infection,85,8,Other infections; including parasitic,1,0
+trypanosoma cruzi infection,86,8,Other infections; including parasitic,1,0
+trypanosomiasis,86,8,Other infections; including parasitic,1,0
+trypanosoma brucei infection,86,8,Other infections; including parasitic,1,0
+borrelia burgdorferi infection,88,8,Other infections; including parasitic,1,0
+thromboembolism,88,8,Other infections; including parasitic,1,0
+lyme disease,88,8,Other infections; including parasitic,1,0
+babesia infection,88,8,Other infections; including parasitic,1,0
+borrelia recurrentis infection,88,8,Other infections; including parasitic,1,0
+bartonella bacilliformis infection,88,8,Other infections; including parasitic,1,0
+aseptic meningitis,100,8,Other infections; including parasitic,2,0
+treponema pallidum infection,102,8,Other infections; including parasitic,1,0
+hyperkeratosis,102,8,Other infections; including parasitic,1,0
+rhinopharyngitis,102,8,Other infections; including parasitic,1,0
+schistosomiasis,120,8,Other infections; including parasitic,1,0
+fasciola hepatica infection,121,8,Other infections; including parasitic,1,0
+cysticercosis,123,8,Other infections; including parasitic,1,0
+filariasis,125,8,Other infections; including parasitic,1,0
+onchocerciasis,125,8,Other infections; including parasitic,1,0
+hookworm infection,126,8,Other infections; including parasitic,1,0
+nematode infection,127,8,Other infections; including parasitic,1,0
+helminth infection,128,8,Other infections; including parasitic,1,0
+toxoplasma infection,130,8,Other infections; including parasitic,5,0
+toxoplasma gondii infection,130,8,Other infections; including parasitic,5,0
+louse infestation,132,8,Other infections; including parasitic,1,0
+pediculosis capitis infestation,132,8,Other infections; including parasitic,1,0
+mite infection,133,8,Other infections; including parasitic,1,0
+sarcoidosis,135,8,Other infections; including parasitic,1,0
+protozoal infection,136,8,Other infections; including parasitic,2,0
+microsporidial infection,136,8,Other infections; including parasitic,2,0
+amoeba infection,136,8,Other infections; including parasitic,2,0
+infectious disease,136,8,Other infections; including parasitic,2,0
+behcets disease,136,8,Other infections; including parasitic,2,0
+rhizomucor infection,136,8,Other infections; including parasitic,2,0
+tendon disease,95,9,Sexually transmitted infections (not HIV or hepatitis),1,0
+neisseria gonorrhoeae infection,98,9,Sexually transmitted infections (not HIV or hepatitis),1,0
+neisseria infection,98,9,Sexually transmitted infections (not HIV or hepatitis),1,0
+epididymo-orchitis,98,9,Sexually transmitted infections (not HIV or hepatitis),1,0
+cervicitis,98,9,Sexually transmitted infections (not HIV or hepatitis),1,0
+urethritis,99,9,Sexually transmitted infections (not HIV or hepatitis),1,0
+haemophilus ducreyi infection,99,9,Sexually transmitted infections (not HIV or hepatitis),1,0
+advanced solid tumor,140,11,Cancer of head and neck,1,1
+adenoid tumor,142,11,Cancer of head and neck,1,1
+pharynx tumor,146,11,Cancer of head and neck,1,1
+larynx tumor,161,11,Cancer of head and neck,1,1
+adenocarcinoma,151,13,Cancer of stomach,1,1
+metastatic gastrointestinal cancer,151,13,Cancer of stomach,1,1
+metastatic liver cancer,151,13,Cancer of stomach,1,1
+metastatic renal cancer,151,13,Cancer of stomach,1,1
+metastatic prostate cancer,151,13,Cancer of stomach,1,1
+metastatic non small cell lung cancer,151,13,Cancer of stomach,1,1
+metastatic stomach cancer,151,13,Cancer of stomach,1,1
+metastatic esophageal cancer,151,13,Cancer of stomach,1,1
+metastatic lung cancer,151,13,Cancer of stomach,1,1
+metastatic pancreas cancer,151,13,Cancer of stomach,1,1
+metastatic rectal cancer,151,13,Cancer of stomach,1,1
+metastatic head and neck cancer,151,13,Cancer of stomach,1,1
+metastatic ovary cancer,151,13,Cancer of stomach,1,1
+intestine tumor,153,14,Cancer of colon,1,1
+colon tumor,153,14,Cancer of colon,1,1
+colorectal tumor,153,14,Cancer of colon,1,1
+metastatic colorectal cancer,153,14,Cancer of colon,1,1
+metastatic colon cancer,153,14,Cancer of colon,1,1
+rectal tumor,154,15,Cancer of rectum and anus,1,1
+providencia infection,796,15,Cancer of rectum and anus,7,1
+fungal respiratory tract infection,796,15,Cancer of rectum and anus,7,1
+liver tumor,155,16,Cancer of liver and intrahepatic bile duct,1,1
+hepatobiliary system tumor,155,16,Cancer of liver and intrahepatic bile duct,1,1
+cholangiocarcinoma,155,16,Cancer of liver and intrahepatic bile duct,1,1
+hepatocellular carcinoma,155,16,Cancer of liver and intrahepatic bile duct,1,1
+pancreas tumor,157,17,Cancer of pancreas,1,1
+pancreatic ductal adenocarcinoma,157,17,Cancer of pancreas,1,1
+pancreatic cystadenocarcinoma,157,17,Cancer of pancreas,1,1
+large intestine tumor,152,18,Cancer of other GI organs; peritoneum,1,1
+biliary cancer,156,18,Cancer of other GI organs; peritoneum,1,1
+gallbladder tumor,156,18,Cancer of other GI organs; peritoneum,1,1
+lung tumor,162,19,Cancer of bronchus; lung,2,1
+small-cell lung cancer,162,19,Cancer of bronchus; lung,2,1
+non-small-cell lung cancer,162,19,Cancer of bronchus; lung,2,1
+mesothelioma,163,20,Cancer; other respiratory and intrathoracic,1,1
+bone tumor,170,21,Cancer of bone and connective tissue,1,1
+osteosarcoma,170,21,Cancer of bone and connective tissue,1,1
+bone metastases,170,21,Cancer of bone and connective tissue,1,1
+giant bone cell tumor,170,21,Cancer of bone and connective tissue,1,1
+ewing sarcoma,170,21,Cancer of bone and connective tissue,1,1
+chordoma,170,21,Cancer of bone and connective tissue,1,1
+sarcoma,171,21,Cancer of bone and connective tissue,1,1
+nervous system tumor,171,21,Cancer of bone and connective tissue,1,1
+skin tumor,171,21,Cancer of bone and connective tissue,1,1
+angiosarcoma,171,21,Cancer of bone and connective tissue,1,1
+chondrosarcoma,171,21,Cancer of bone and connective tissue,1,1
+fibrosarcoma,171,21,Cancer of bone and connective tissue,1,1
+leiomyosarcoma,171,21,Cancer of bone and connective tissue,1,1
+liposarcoma,171,21,Cancer of bone and connective tissue,1,1
+rhabdomyosarcoma,171,21,Cancer of bone and connective tissue,1,1
+stage i melanoma,172,22,Melanomas of skin,1,1
+stage iii melanoma,172,22,Melanomas of skin,1,1
+stage iv melanoma,172,22,Melanomas of skin,1,1
+ocular melanoma,172,22,Melanomas of skin,1,1
+melanoma,173,23,Other non-epithelial cancer of skin,1,1
+squamous cell carcinoma,173,23,Other non-epithelial cancer of skin,1,1
+basal cell carcinoma,173,23,Other non-epithelial cancer of skin,1,1
+skin cancer,173,23,Other non-epithelial cancer of skin,1,1
+dermatofibrosarcoma,173,23,Other non-epithelial cancer of skin,1,1
+metastatic breast cancer,174,24,Cancer of breast,1,1
+inflammatory breast cancer,174,24,Cancer of breast,1,1
+uterine cervix tumor,180,26,Cancer of cervix,1,1
+dna virus infection,795,26,Cancer of cervix,12,1
+ovary tumor,183,28,Cancer of other female genital organs,2,1
+endometrioid carcinoma,183,28,Cancer of other female genital organs,2,1
+fallopian tube tumor,183,28,Cancer of other female genital organs,2,1
+fallopian tube cancer,183,28,Cancer of other female genital organs,2,1
+ovarian clear cell carcinoma,183,28,Cancer of other female genital organs,2,1
+precancer,184,28,Cancer of other female genital organs,1,1
+vaginal cancer,184,28,Cancer of other female genital organs,1,1
+carcinoma,233,28,Cancer of other female genital organs,8,1
+bowen disease,233,28,Cancer of other female genital organs,8,1
+prostate tumor,185,29,Cancer of prostate,1,1
+female genital tract tumor,185,29,Cancer of prostate,1,1
+hormone refractory prostate cancer,185,29,Cancer of prostate,1,1
+hormone dependent prostate cancer,185,29,Cancer of prostate,1,1
+testis tumor,186,30,Cancer of testis,1,1
+seminoma,186,30,Cancer of testis,1,1
+germ cell and embryonic cancer,186,30,Cancer of testis,1,1
+bladder cancer,188,32,Cancer of bladder,1,1
+metastatic bladder cancer,188,32,Cancer of bladder,1,1
+renal tumor,189,34,Cancer of other urinary organs,2,1
+renal cell carcinoma,189,34,Cancer of other urinary organs,2,1
+renal sarcoma,189,34,Cancer of other urinary organs,2,1
+nephroblastoma,189,34,Cancer of other urinary organs,2,1
+transitional cell carcinoma,189,34,Cancer of other urinary organs,2,1
+urethral cancer,189,34,Cancer of other urinary organs,2,1
+glioma,191,35,Cancer of brain and nervous system,1,1
+glioblastoma,191,35,Cancer of brain and nervous system,1,1
+medulloblastoma,191,35,Cancer of brain and nervous system,1,1
+gliosarcoma,191,35,Cancer of brain and nervous system,1,1
+metastatic brain cancer,191,35,Cancer of brain and nervous system,1,1
+spinal cord tumor,192,35,Cancer of brain and nervous system,1,1
+astrocytoma,192,35,Cancer of brain and nervous system,1,1
+anaplastic astrocytoma,192,35,Cancer of brain and nervous system,1,1
+medullary thyroid cancer,193,36,Cancer of thyroid,1,1
+papillary thyroid tumor,193,36,Cancer of thyroid,1,1
+anaplastic thyroid cancer,193,36,Cancer of thyroid,1,1
+hodgkins disease,201,37,Hodgkin`s disease,1,1
+t-cell lymphoma,200,38,Non-Hodgkin`s lymphoma,1,1
+central nervous system tumor,200,38,Non-Hodgkin`s lymphoma,1,1
+burkitts lymphoma,200,38,Non-Hodgkin`s lymphoma,1,1
+skin lymphoma,200,38,Non-Hodgkin`s lymphoma,1,1
+mantle cell lymphoma,200,38,Non-Hodgkin`s lymphoma,1,1
+marginal zone b-cell lymphoma,200,38,Non-Hodgkin`s lymphoma,1,1
+anaplastic large cell lymphoma,200,38,Non-Hodgkin`s lymphoma,1,1
+lymphoma,202,38,Non-Hodgkin`s lymphoma,3,1
+b-cell lymphoma,202,38,Non-Hodgkin`s lymphoma,3,1
+non-hodgkin lymphoma,202,38,Non-Hodgkin`s lymphoma,3,1
+mycosis fungoides,202,38,Non-Hodgkin`s lymphoma,3,1
+shigella boydii infection,202,38,Non-Hodgkin`s lymphoma,3,1
+hairy cell leukemia,202,38,Non-Hodgkin`s lymphoma,3,1
+follicle center lymphoma,202,38,Non-Hodgkin`s lymphoma,3,1
+diffuse large b-cell lymphoma,202,38,Non-Hodgkin`s lymphoma,3,1
+peripheral t-cell lymphoma,202,38,Non-Hodgkin`s lymphoma,3,1
+cutaneous t-cell lymphoma,202,38,Non-Hodgkin`s lymphoma,3,1
+sezary syndrome,202,38,Non-Hodgkin`s lymphoma,3,1
+systemic mastocytosis,202,38,Non-Hodgkin`s lymphoma,3,1
+lymphoid leukemia,204,39,Leukemias,1,1
+acute lymphoblastic leukemia,204,39,Leukemias,1,1
+b-cell acute lymphoblastic leukemia,204,39,Leukemias,1,1
+t-cell acute lymphoblastic leukemia,204,39,Leukemias,1,1
+chronic lymphocytic leukemia,204,39,Leukemias,1,1
+adult t-cell lymphoma,204,39,Leukemias,1,1
+lymphoblastic leukemia,204,39,Leukemias,1,1
+myeloid leukemia,205,39,Leukemias,1,1
+acute myelogenous leukemia,205,39,Leukemias,1,1
+acute promyelocytic leukemia,205,39,Leukemias,1,1
+chronic myelocytic leukemia,205,39,Leukemias,1,1
+leukemia,208,39,Leukemias,1,1
+acute leukemia,208,39,Leukemias,1,1
+chronic leukemia,208,39,Leukemias,1,1
+prolymphocytic leukemia,208,39,Leukemias,1,1
+t-cell large granular lymphocyte leukemia,208,39,Leukemias,1,1
+stem cell transplantation,208,39,Leukemias,1,1
+multiple myeloma,203,40,Multiple myeloma,2,1
+thymus neoplasm,164,41,Cancer; other and unspecified primary,1,1
+thymoma,164,41,Cancer; other and unspecified primary,1,1
+kaposis sarcoma,176,41,Cancer; other and unspecified primary,1,1
+soft tissue sarcoma,176,41,Cancer; other and unspecified primary,1,1
+retinoblastoma,190,41,Cancer; other and unspecified primary,1,1
+lacrimal gland disease,190,41,Cancer; other and unspecified primary,1,1
+uveal melanoma,190,41,Cancer; other and unspecified primary,1,1
+adrenal cortical carcinoma,194,41,Cancer; other and unspecified primary,1,1
+neuroblastoma,194,41,Cancer; other and unspecified primary,1,1
+paraganglioma,194,41,Cancer; other and unspecified primary,1,1
+head and neck tumor,195,41,Cancer; other and unspecified primary,2,1
+hematological neoplasm,195,41,Cancer; other and unspecified primary,2,1
+nasopharyngeal carcinoma,198,42,Secondary malignancies,1,1
+metastasis,199,43,Malignant neoplasm without specification of site,1,1
+carcinoid tumor,199,43,Malignant neoplasm without specification of site,1,1
+esophagus tumor,235,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+vipoma,235,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+neurofibromatosis,237,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+neurofibromatosis type i,237,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+neurofibromatosis type ii,237,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+gastrointestinal tumor,238,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+myeloproliferative disorder,238,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+lymphoproliferative disease,238,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+myelodysplastic syndrome,238,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+plasmacytoma,238,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+thrombocythemia,238,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+gastrointestinal stromal tumor,238,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+post transplant lymphoproliferative disease,238,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+bladder tumor,239,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+breast tumor,239,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+neoplasm,239,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+cancer,239,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+ocular tumor,239,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+urinary tract tumor,239,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+respiratory tract tumor,239,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+nerve tumor,239,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+pituitary tumor,239,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+thyroid tumor,239,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+pancreatic endocrine tumor,239,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+vascular neoplasm,239,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+penis tumor,239,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+anal tumor,239,44,Neoplasms of unspecified nature or uncertain behavior,1,1
+stomach tumor,209,47,Other and unspecified benign neoplasm,11,0
+solid tumor,209,47,Other and unspecified benign neoplasm,11,0
+endocrine tumor,209,47,Other and unspecified benign neoplasm,11,0
+neuroendocrine tumor,209,47,Other and unspecified benign neoplasm,11,0
+merkel cell carcinoma,209,47,Other and unspecified benign neoplasm,11,0
+mouth tumor,210,47,Other and unspecified benign neoplasm,1,0
+nasopharynx tumor,210,47,Other and unspecified benign neoplasm,1,0
+familial adenomatous polyposis,211,47,Other and unspecified benign neoplasm,1,0
+insulinoma,211,47,Other and unspecified benign neoplasm,1,0
+intestinal polyp,211,47,Other and unspecified benign neoplasm,1,0
+lipoma,214,47,Other and unspecified benign neoplasm,1,0
+papulosis,216,47,Other and unspecified benign neoplasm,1,0
+dysplastic nevus syndrome,216,47,Other and unspecified benign neoplasm,1,0
+angiomyolipoma,223,47,Other and unspecified benign neoplasm,1,0
+conjunctival neoplasm,224,47,Other and unspecified benign neoplasm,1,0
+brain tumor,225,47,Other and unspecified benign neoplasm,1,0
+neoplastic meningitis,225,47,Other and unspecified benign neoplasm,1,0
+ependymoma,225,47,Other and unspecified benign neoplasm,1,0
+acoustic neuroma,225,47,Other and unspecified benign neoplasm,1,0
+meningioma,225,47,Other and unspecified benign neoplasm,1,0
+pheochromocytoma,227,47,Other and unspecified benign neoplasm,1,0
+adrenal gland tumor,227,47,Other and unspecified benign neoplasm,1,0
+adenoma,227,47,Other and unspecified benign neoplasm,1,0
+hemangioma,228,47,Other and unspecified benign neoplasm,1,0
+goiter,240,48,Thyroid disorders,1,0
+graves disease,242,48,Thyroid disorders,1,0
+hyperthyroidism,242,48,Thyroid disorders,1,0
+thyroid disease,242,48,Thyroid disorders,1,0
+nodular goiter,242,48,Thyroid disorders,1,0
+thyroid associated ophthalmopathy,242,48,Thyroid disorders,1,0
+hypothyroidism,244,48,Thyroid disorders,1,0
+hashimotos disease,246,48,Thyroid disorders,1,0
+diabetes mellitus,250,50,Diabetes mellitus with complications,2,0
+diabetic cataract,250,50,Diabetes mellitus with complications,2,0
+diabetic complication,250,50,Diabetes mellitus with complications,2,0
+diabetic macroangiopathy,250,50,Diabetes mellitus with complications,2,0
+skin manifestation,250,50,Diabetes mellitus with complications,2,0
+diabetic foot ulcer,250,50,Diabetes mellitus with complications,2,0
+insulin dependent diabetes,250,50,Diabetes mellitus with complications,2,0
+non-insulin dependent diabetes,250,50,Diabetes mellitus with complications,2,0
+diabetic microangiopathy,250,50,Diabetes mellitus with complications,2,0
+albuminuria,250,50,Diabetes mellitus with complications,2,0
+diabetic macular edema,250,50,Diabetes mellitus with complications,2,0
+diabetic ketoacidosis,250,50,Diabetes mellitus with complications,2,0
+latent autoimmune adult diabetes,250,50,Diabetes mellitus with complications,2,0
+diabetic gastroparesis,250,50,Diabetes mellitus with complications,2,0
+diabetic peripheral neuropathy,250,50,Diabetes mellitus with complications,2,0
+hyperinsulinemia,251,51,Other endocrine disorders,1,0
+hypoglycemia,251,51,Other endocrine disorders,1,0
+pancreas islet disease,251,51,Other endocrine disorders,1,0
+zollinger-ellison syndrome,251,51,Other endocrine disorders,1,0
+hyperparathyroidism,252,51,Other endocrine disorders,1,0
+hypoparathyroidism,252,51,Other endocrine disorders,1,0
+acromegaly,253,51,Other endocrine disorders,1,0
+growth disorder,253,51,Other endocrine disorders,1,0
+hyperprolactinemia,253,51,Other endocrine disorders,1,0
+pituitary disease,253,51,Other endocrine disorders,1,0
+amenorrhea,253,51,Other endocrine disorders,1,0
+gigantism,253,51,Other endocrine disorders,1,0
+dwarfism,253,51,Other endocrine disorders,1,0
+wolfram syndrome,253,51,Other endocrine disorders,1,0
+inappropriate adh syndrome,253,51,Other endocrine disorders,1,0
+growth hormone deficiency,253,51,Other endocrine disorders,1,0
+female hypogonadism,253,51,Other endocrine disorders,1,0
+addisons disease,255,51,Other endocrine disorders,1,0
+cushings disease,255,51,Other endocrine disorders,1,0
+hyperaldosteronism,255,51,Other endocrine disorders,1,0
+adrenal disease,255,51,Other endocrine disorders,1,0
+adrenal gland hypofunction,255,51,Other endocrine disorders,1,0
+congenital adrenal hyperplasia,255,51,Other endocrine disorders,1,0
+nelson syndrome,255,51,Other endocrine disorders,1,0
+hyperandrogenism,255,51,Other endocrine disorders,1,0
+cushings syndrome,255,51,Other endocrine disorders,1,0
+hormone deficiency,256,51,Other endocrine disorders,2,0
+gonadal disease,256,51,Other endocrine disorders,2,0
+ovary disease,256,51,Other endocrine disorders,2,0
+premature ovarian failure,256,51,Other endocrine disorders,2,0
+ovarian hyperstimulation syndrome,256,51,Other endocrine disorders,2,0
+fetal growth restriction,256,51,Other endocrine disorders,2,0
+hypogonadism,257,51,Other endocrine disorders,1,0
+testicular disease,257,51,Other endocrine disorders,1,0
+male hypogonadism,257,51,Other endocrine disorders,1,0
+multiple endocrine neoplasia,258,51,Other endocrine disorders,2,0
+endocrine disease,259,51,Other endocrine disorders,1,0
+estrogen deficiency,259,51,Other endocrine disorders,1,0
+aging,259,51,Other endocrine disorders,1,0
+precocious puberty,259,51,Other endocrine disorders,1,0
+andrology,259,51,Other endocrine disorders,1,0
+werner syndrome,259,51,Other endocrine disorders,1,0
+laron syndrome,259,51,Other endocrine disorders,1,0
+testosterone deficiency,259,51,Other endocrine disorders,1,0
+carcinoid syndrome,259,51,Other endocrine disorders,1,0
+hutchinson gilford progeria syndrome,259,51,Other endocrine disorders,1,0
+malnutrition,260,52,Nutritional deficiencies,1,0
+nutritional disorder,263,52,Nutritional deficiencies,1,0
+protein energy deficiency,263,52,Nutritional deficiencies,1,0
+xerophthalmia,267,52,Nutritional deficiencies,1,0
+rickets,268,52,Nutritional deficiencies,1,0
+osteomalacia,268,52,Nutritional deficiencies,1,0
+vitamin e deficiency,268,52,Nutritional deficiencies,1,0
+vitamin d deficiency,268,52,Nutritional deficiencies,1,0
+vitamin k deficiency,269,52,Nutritional deficiencies,1,0
+gaucher disease,272,53,Disorders of lipid metabolism,2,0
+hypercholesterolemia,272,53,Disorders of lipid metabolism,2,0
+hyperlipidemia,272,53,Disorders of lipid metabolism,2,0
+niemann pick disease,272,53,Disorders of lipid metabolism,2,0
+cholesterol metabolism disorder,272,53,Disorders of lipid metabolism,2,0
+lipid metabolism disorder,272,53,Disorders of lipid metabolism,2,0
+lysosome storage disease,272,53,Disorders of lipid metabolism,2,0
+fabry disease,272,53,Disorders of lipid metabolism,2,0
+hyperlipoproteinemia,272,53,Disorders of lipid metabolism,2,0
+proteinosis,272,53,Disorders of lipid metabolism,2,0
+lecithin cholesterol acetyltransferase deficiency,272,53,Disorders of lipid metabolism,2,0
+hypertriglyceridemia,272,53,Disorders of lipid metabolism,2,0
+gauchers disease type i,272,53,Disorders of lipid metabolism,2,0
+gauchers disease type iii,272,53,Disorders of lipid metabolism,2,0
+sitosterolemia,272,53,Disorders of lipid metabolism,2,0
+lipoprotein lipase deficiency,272,53,Disorders of lipid metabolism,2,0
+lipodystrophy,272,53,Disorders of lipid metabolism,2,0
+hiv-associated lipodystrophy,272,53,Disorders of lipid metabolism,2,0
+niemann pick disease type b,272,53,Disorders of lipid metabolism,2,0
+niemann pick disease type c1,272,53,Disorders of lipid metabolism,2,0
+familial hypercholesterolemia,272,53,Disorders of lipid metabolism,2,0
+cerebrotendinous xanthomatosis,272,53,Disorders of lipid metabolism,2,0
+cholesteryl ester storage disease,272,53,Disorders of lipid metabolism,2,0
+hyperlipoproteinemia type i,272,53,Disorders of lipid metabolism,2,0
+hyperlipoproteinemia type iii,272,53,Disorders of lipid metabolism,2,0
+niemann pick disease type c,272,53,Disorders of lipid metabolism,2,0
+lysosomal acid lipase deficiency,272,53,Disorders of lipid metabolism,2,0
+hypoalphalipoproteinemia,272,53,Disorders of lipid metabolism,2,0
+wolman disease,272,53,Disorders of lipid metabolism,2,0
+gout,274,54,Gout and other crystal arthropathies,1,0
+chondrocalcinosis,712,54,Gout and other crystal arthropathies,1,0
+acidosis,276,55,Fluid and electrolyte disorders,2,0
+hyponatremia,276,55,Fluid and electrolyte disorders,2,0
+hypovolemia,276,55,Fluid and electrolyte disorders,2,0
+hyperkalemia,276,55,Fluid and electrolyte disorders,2,0
+hypernatremia,276,55,Fluid and electrolyte disorders,2,0
+autoimmune disease,279,57,Immunity disorders,3,0
+immune disorder,279,57,Immunity disorders,3,0
+immune deficiency,279,57,Immunity disorders,3,0
+autosomal recessive disorder,279,57,Immunity disorders,3,0
+graft versus host disease,279,57,Immunity disorders,3,0
+wiskott-aldrich syndrome,279,57,Immunity disorders,3,0
+agammaglobulinemia,279,57,Immunity disorders,3,0
+immunoglobulin g deficiency,279,57,Immunity disorders,3,0
+common variable immunodeficiency,279,57,Immunity disorders,3,0
+tissue transplantation,279,57,Immunity disorders,3,0
+severe combined immunodeficiency syndrome,279,57,Immunity disorders,3,0
+hypogammaglobulinemia,279,57,Immunity disorders,3,0
+barth syndrome,279,57,Immunity disorders,3,0
+ocular disease,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+phenylketonuria,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+acidemia,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+ornithine transcarbamylase deficiency,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+methylmalonic acidemia,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+hermansky-pudlak syndrome,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+cystinuria,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+citrullinuria,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+albinism,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+type i tyrosinemia,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+n-acetylglutamate synthase deficiency,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+hyperammonemia,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+homocystinuria,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+nephropathic cystinosis,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+ocular cystinosis,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+alkaptonuria,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+fatty acid oxidation disorder,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+carbamoyl phosphate synthase i deficiency,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+glutaric aciduria,270,58,Other nutritional; endocrine; and metabolic disorders,1,0
+carbohydrate metabolism disorder,271,58,Other nutritional; endocrine; and metabolic disorders,1,0
+glycogen storage disease,271,58,Other nutritional; endocrine; and metabolic disorders,1,0
+storage disease,271,58,Other nutritional; endocrine; and metabolic disorders,1,0
+hyperoxaluria,271,58,Other nutritional; endocrine; and metabolic disorders,1,0
+pompes disease,271,58,Other nutritional; endocrine; and metabolic disorders,1,0
+andersen disease,271,58,Other nutritional; endocrine; and metabolic disorders,1,0
+alpha mannosidosis,271,58,Other nutritional; endocrine; and metabolic disorders,1,0
+galactosemia,271,58,Other nutritional; endocrine; and metabolic disorders,1,0
+lactose intolerance,271,58,Other nutritional; endocrine; and metabolic disorders,1,0
+sucrase isomaltase deficiency,271,58,Other nutritional; endocrine; and metabolic disorders,1,0
+glycogen storage disease 1a,271,58,Other nutritional; endocrine; and metabolic disorders,1,0
+macroglobulinemia,273,58,Other nutritional; endocrine; and metabolic disorders,1,0
+alpha-1 antitrypsin deficiency,273,58,Other nutritional; endocrine; and metabolic disorders,1,0
+lymphoplasmacytoid lymphoma,273,58,Other nutritional; endocrine; and metabolic disorders,1,0
+paraproteinemia,273,58,Other nutritional; endocrine; and metabolic disorders,1,0
+cryoglobulinemia,273,58,Other nutritional; endocrine; and metabolic disorders,1,0
+hypoalbuminemia,273,58,Other nutritional; endocrine; and metabolic disorders,1,0
+hypogelsolinemia,273,58,Other nutritional; endocrine; and metabolic disorders,1,0
+hypercalcemia,275,58,Other nutritional; endocrine; and metabolic disorders,1,0
+hypocalcemia,275,58,Other nutritional; endocrine; and metabolic disorders,1,0
+hyperphosphatemia,275,58,Other nutritional; endocrine; and metabolic disorders,1,0
+calcium metabolism disorder,275,58,Other nutritional; endocrine; and metabolic disorders,1,0
+iron metabolism disorder,275,58,Other nutritional; endocrine; and metabolic disorders,1,0
+iron overload,275,58,Other nutritional; endocrine; and metabolic disorders,1,0
+hypophosphatemia,275,58,Other nutritional; endocrine; and metabolic disorders,1,0
+hemochromatosis,275,58,Other nutritional; endocrine; and metabolic disorders,1,0
+calciphylaxis,275,58,Other nutritional; endocrine; and metabolic disorders,1,0
+wilson disease,275,58,Other nutritional; endocrine; and metabolic disorders,1,0
+copper metabolism disorder,275,58,Other nutritional; endocrine; and metabolic disorders,1,0
+x linked dominant hypophosphatemic rickets,275,58,Other nutritional; endocrine; and metabolic disorders,1,0
+hypophosphatasia,275,58,Other nutritional; endocrine; and metabolic disorders,1,0
+cystic fibrosis,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+hereditary angioedema,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+hyperbilirubinemia,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+lesch nyhan syndrome,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+inborn error of metabolism,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+metabolic disorder,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+x-linked genetic disorder,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+amyloidosis,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+progestogen deficiency,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+syndrome x,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+adrenoleukodystrophy,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+mucopolysaccharidosis,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+mucopolysaccharidosis type i,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+hurler syndrome,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+hunter syndrome,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+sanfilippo syndrome,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+morquio syndrome,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+maroteaux-lamy syndrome,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+sly syndrome,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+enzyme deficiency,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+crigler-najjar syndrome,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+adenosine deaminase deficiency,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+insulin resistance,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+mitochondrial disease,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+mitochondrial encephalomyopathy,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+melas syndrome,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+hepatic porphyria,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+tumor lysis syndrome,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+acute intermittent porphyria,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+adrenomyeloneuropathy,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+multiple organ failure,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+cerebral amyloid angiopathy,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+muckle wells syndrome,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+familial mediterranean fever,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+metabolic syndrome x,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+familial amyloid neuropathy,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+al amyloidosis,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+carnitine palmitoyltransferase deficiency,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+molybdenum cofactor deficiency,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+familial cold autoinflammatory syndrome,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+cinca syndrome,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+erythropoietic protoporphyria,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+choline deficiency,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+familial dysautonomia,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+histiocytosis,277,58,Other nutritional; endocrine; and metabolic disorders,3,0
+obesity,278,58,Other nutritional; endocrine; and metabolic disorders,1,0
+weight loss,783,58,Other nutritional; endocrine; and metabolic disorders,2,0
+hemolytic anemia,280,59,Deficiency and other anemia,1,0
+henoch schonlein purpura,280,59,Deficiency and other anemia,1,0
+iron deficiency anemia,280,59,Deficiency and other anemia,1,0
+anemia,281,59,Deficiency and other anemia,1,0
+folic acid deficiency,281,59,Deficiency and other anemia,1,0
+vitamin b12 deficiency,281,59,Deficiency and other anemia,1,0
+pernicious anemia,281,59,Deficiency and other anemia,1,0
+sickle cell anemia,282,59,Deficiency and other anemia,2,0
+thalassemia,282,59,Deficiency and other anemia,2,0
+hemoglobinopathy,282,59,Deficiency and other anemia,2,0
+beta thalassemia,282,59,Deficiency and other anemia,2,0
+thalassemia intermedia,282,59,Deficiency and other anemia,2,0
+thalassemia major,282,59,Deficiency and other anemia,2,0
+sickle cell crisis,282,59,Deficiency and other anemia,2,0
+persistent pulmonary hypertension of the newborn,282,59,Deficiency and other anemia,2,0
+sickle beta 0 thalassemia,282,59,Deficiency and other anemia,2,0
+hemolytic uremic syndrome,283,59,Deficiency and other anemia,1,0
+plasmodium falciparum infection,283,59,Deficiency and other anemia,1,0
+plasmodium infection,283,59,Deficiency and other anemia,1,0
+paroxysmal nocturnal hemoglobinuria,283,59,Deficiency and other anemia,1,0
+autoimmune hemolytic anemia,283,59,Deficiency and other anemia,1,0
+cold agglutinin disease,283,59,Deficiency and other anemia,1,0
+bone marrow failure,284,59,Deficiency and other anemia,1,0
+parvovirus infection,284,59,Deficiency and other anemia,1,0
+aplastic anemia,284,59,Deficiency and other anemia,1,0
+pancytopenia,284,59,Deficiency and other anemia,1,0
+fanconi anemia,284,59,Deficiency and other anemia,1,0
+diamond blackfan anemia,284,59,Deficiency and other anemia,1,0
+cardiotoxicity drug-induced,285,59,Deficiency and other anemia,3,0
+blood clotting disorder,286,62,Coagulation and hemorrhagic disorders,1,0
+disseminated intravascular coagulation,286,62,Coagulation and hemorrhagic disorders,1,0
+factor viii deficiency,286,62,Coagulation and hemorrhagic disorders,1,0
+hemophilia,286,62,Coagulation and hemorrhagic disorders,1,0
+blood clotting factor deficiency,286,62,Coagulation and hemorrhagic disorders,1,0
+factor vii deficiency,286,62,Coagulation and hemorrhagic disorders,1,0
+factor ix deficiency,286,62,Coagulation and hemorrhagic disorders,1,0
+von willebrands disease,286,62,Coagulation and hemorrhagic disorders,1,0
+factor i deficiency,286,62,Coagulation and hemorrhagic disorders,1,0
+factor xiii deficiency,286,62,Coagulation and hemorrhagic disorders,1,0
+factor ii deficiency,286,62,Coagulation and hemorrhagic disorders,1,0
+congenital hemophilia,286,62,Coagulation and hemorrhagic disorders,1,0
+thrombocytopenia,287,62,Coagulation and hemorrhagic disorders,2,0
+immediate type hypersensitivity,287,62,Coagulation and hemorrhagic disorders,2,0
+thrombocyte disorder,287,62,Coagulation and hemorrhagic disorders,2,0
+purpura,287,62,Coagulation and hemorrhagic disorders,2,0
+thrombocytopenic purpura,287,62,Coagulation and hemorrhagic disorders,2,0
+vasculitis,287,62,Coagulation and hemorrhagic disorders,2,0
+immune thrombocytopenic purpura,287,62,Coagulation and hemorrhagic disorders,2,0
+thrombasthenia,287,62,Coagulation and hemorrhagic disorders,2,0
+genital tract inflammation,288,63,Diseases of white blood cells,1,0
+leukopenia,288,63,Diseases of white blood cells,1,0
+leukopenia drug induced,288,63,Diseases of white blood cells,1,0
+granulocytopenia,288,63,Diseases of white blood cells,1,0
+neutropenia,288,63,Diseases of white blood cells,1,0
+lymphocytopenia,288,63,Diseases of white blood cells,1,0
+hypereosinophilic syndrome,288,63,Diseases of white blood cells,1,0
+chronic granulomatous disease,288,63,Diseases of white blood cells,1,0
+genital tract infection,288,63,Diseases of white blood cells,1,0
+hematological disease,289,64,Other hematologic conditions,4,0
+plasmodium vivax infection,289,64,Other hematologic conditions,4,0
+bone marrow disease,289,64,Other hematologic conditions,4,0
+erythrocyte disorder,289,64,Other hematologic conditions,4,0
+heparin induced thrombocytopenia,289,64,Other hematologic conditions,4,0
+polycythemia,289,64,Other hematologic conditions,4,0
+antiphospholipid syndrome,289,64,Other hematologic conditions,4,0
+splenomegaly,289,64,Other hematologic conditions,4,0
+polycythemia vera,289,64,Other hematologic conditions,4,0
+myelofibrosis,289,64,Other hematologic conditions,4,0
+protein c deficiency,289,64,Other hematologic conditions,4,0
+bone marrow depression,289,64,Other hematologic conditions,4,0
+lymphadenitis,289,64,Other hematologic conditions,4,0
+methemoglobinemia,289,64,Other hematologic conditions,4,0
+viral meningitis,47,76,Meningitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+meningitis,320,76,Meningitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+nervous system inflammation,320,76,Meningitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+bacterial cns infection,320,76,Meningitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+bacterial meningitis,320,76,Meningitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+fungal meningitis,321,76,Meningitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+mumps virus infection,322,76,Meningitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+st louis encephalitis virus infection,62,77,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+japanese encephalitis virus infection,62,77,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+western equine encephalitis virus infection,62,77,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+eastern equine encephalitis virus infection,62,77,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+tick borne encephalitis virus infection,63,77,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+pseudoobstruction,64,77,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+encephalitis,323,77,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+allergic encephalitis,323,77,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+viral encephalitis,323,77,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+myelitis,323,77,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+hendra virus infection,323,77,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+autoimmune encephalomyelitis,323,77,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+poliovirus infection,45,78,Other CNS infection and poliomyelitis,1,0
+measles virus infection,46,78,Other CNS infection and poliomyelitis,2,0
+central nervous system disease,46,78,Other CNS infection and poliomyelitis,2,0
+creutzfeldt jakob disease,46,78,Other CNS infection and poliomyelitis,2,0
+vaccinia virus infection,46,78,Other CNS infection and poliomyelitis,2,0
+variant creutzfeldt jakob disease,46,78,Other CNS infection and poliomyelitis,2,0
+progressive multifocal leukoencephalopathy,46,78,Other CNS infection and poliomyelitis,2,0
+paralysis,332,79,Parkinson`s disease,2,0
+parkinsons disease,332,79,Parkinson`s disease,2,0
+parkinsonism,332,79,Parkinson`s disease,2,0
+multiple sclerosis,340,80,Multiple sclerosis,1,0
+canavan disease,330,81,Other hereditary and degenerative nervous system conditions,1,0
+santavuori-haltia disease,330,81,Other hereditary and degenerative nervous system conditions,1,0
+jansky-bielschowsky disease,330,81,Other hereditary and degenerative nervous system conditions,1,0
+spielmeyer-vogt disease,330,81,Other hereditary and degenerative nervous system conditions,1,0
+batten disease,330,81,Other hereditary and degenerative nervous system conditions,1,0
+metachromatic leukodystrophy,330,81,Other hereditary and degenerative nervous system conditions,1,0
+globoid cell leukodystrophy,330,81,Other hereditary and degenerative nervous system conditions,1,0
+sandhoff disease,330,81,Other hereditary and degenerative nervous system conditions,1,0
+rett syndrome,330,81,Other hereditary and degenerative nervous system conditions,1,0
+pelizaeus merzbacher disease,330,81,Other hereditary and degenerative nervous system conditions,1,0
+leigh disease,330,81,Other hereditary and degenerative nervous system conditions,1,0
+alzheimers disease,331,81,Other hereditary and degenerative nervous system conditions,3,0
+cognitive disorder,331,81,Other hereditary and degenerative nervous system conditions,3,0
+brain disease,331,81,Other hereditary and degenerative nervous system conditions,3,0
+hydrocephalus,331,81,Other hereditary and degenerative nervous system conditions,3,0
+frontotemporal dementia,331,81,Other hereditary and degenerative nervous system conditions,3,0
+lewy body dementia,331,81,Other hereditary and degenerative nervous system conditions,3,0
+mild cognitive impairment,331,81,Other hereditary and degenerative nervous system conditions,3,0
+parkinsons disease dementia,331,81,Other hereditary and degenerative nervous system conditions,3,0
+huntingtons chorea,333,81,Other hereditary and degenerative nervous system conditions,2,0
+tardive dyskinesia,333,81,Other hereditary and degenerative nervous system conditions,2,0
+extrapyramidal syndrome,333,81,Other hereditary and degenerative nervous system conditions,2,0
+cervical dystonia,333,81,Other hereditary and degenerative nervous system conditions,2,0
+dystonia,333,81,Other hereditary and degenerative nervous system conditions,2,0
+tremor,333,81,Other hereditary and degenerative nervous system conditions,2,0
+restless legs syndrome,333,81,Other hereditary and degenerative nervous system conditions,2,0
+shy drager syndrome,333,81,Other hereditary and degenerative nervous system conditions,2,0
+akathesia,333,81,Other hereditary and degenerative nervous system conditions,2,0
+progressive supranuclear palsy,333,81,Other hereditary and degenerative nervous system conditions,2,0
+blepharospasm,333,81,Other hereditary and degenerative nervous system conditions,2,0
+stiff person syndrome,333,81,Other hereditary and degenerative nervous system conditions,2,0
+hallervorden-spatz syndrome,333,81,Other hereditary and degenerative nervous system conditions,2,0
+myoclonus,333,81,Other hereditary and degenerative nervous system conditions,2,0
+multiple system atrophy,333,81,Other hereditary and degenerative nervous system conditions,2,0
+essential tremor,333,81,Other hereditary and degenerative nervous system conditions,2,0
+ataxia,334,81,Other hereditary and degenerative nervous system conditions,1,0
+ataxia telangiectasia,334,81,Other hereditary and degenerative nervous system conditions,1,0
+spinocerebellar ataxia,334,81,Other hereditary and degenerative nervous system conditions,1,0
+friedreich ataxia,334,81,Other hereditary and degenerative nervous system conditions,1,0
+spastic paraplegia,334,81,Other hereditary and degenerative nervous system conditions,1,0
+spinocerebellar degenerations,334,81,Other hereditary and degenerative nervous system conditions,1,0
+motor neurone disease,335,81,Other hereditary and degenerative nervous system conditions,1,0
+spinal and bulbar muscular atrophy,335,81,Other hereditary and degenerative nervous system conditions,1,0
+spinal disease,336,81,Other hereditary and degenerative nervous system conditions,1,0
+spinal cord disease,336,81,Other hereditary and degenerative nervous system conditions,1,0
+peripheral neuropathy,337,81,Other hereditary and degenerative nervous system conditions,2,0
+type i complex regional pain syndrome,337,81,Other hereditary and degenerative nervous system conditions,2,0
+hemiplegia,342,82,Paralysis,1,0
+cerebral palsy,343,82,Paralysis,1,0
+tropical spastic paraparesis,344,82,Paralysis,2,0
+epilepsy,345,83,Epilepsy; convulsions,1,0
+seizure disorder,345,83,Epilepsy; convulsions,1,0
+tonic clonic epilepsy,345,83,Epilepsy; convulsions,1,0
+status epilepticus,345,83,Epilepsy; convulsions,1,0
+infantile spasms,345,83,Epilepsy; convulsions,1,0
+myoclonic seizure,345,83,Epilepsy; convulsions,1,0
+juvenile myoclonic epilepsy,345,83,Epilepsy; convulsions,1,0
+lennox gastaut syndrome,345,83,Epilepsy; convulsions,1,0
+partial seizure,345,83,Epilepsy; convulsions,1,0
+complex partial seizure,345,83,Epilepsy; convulsions,1,0
+cluster headache,339,84,Headache; including migraine,1,0
+guillain barre syndrome,339,84,Headache; including migraine,1,0
+migraine,346,84,Headache; including migraine,2,0
+migraine with aura,346,84,Headache; including migraine,2,0
+cataract,366,86,Cataract,1,0
+retinoschisis,361,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+retinopathy,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+diabetic retinopathy,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+age related macular degeneration,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+retinopathy of prematurity,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+retinal venous occlusion,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+proliferative diabetic retinopathy,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+stargardt disease,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+choroidal neovascularization,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+macular disease,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+macular degeneration,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+macular edema,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+wet age related macular degeneration,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+dry age related macular degeneration,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+usher syndrome ii,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+retinal dystrophy,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+lebers congential amaurosis,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+coats disease,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+vascular eye disease,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+macular telangiectasia 2,362,87,Retinal detachments; defects; vascular occlusion; and retinopathy,1,0
+glaucoma,365,88,Glaucoma,1,0
+ocular hypertension,365,88,Glaucoma,1,0
+retinitis pigmentosa,365,88,Glaucoma,1,0
+allergic conjunctivitis,365,88,Glaucoma,1,0
+open angle glaucoma,365,88,Glaucoma,1,0
+angle closure glaucoma,365,88,Glaucoma,1,0
+glaucoma surgical procedure,365,88,Glaucoma,1,0
+ocular neovascular disorder,365,88,Glaucoma,1,0
+presbyopia,367,89,Blindness and vision defects,1,0
+vision disorder,368,89,Blindness and vision defects,1,0
+nyctalopia,368,89,Blindness and vision defects,1,0
+achromatopsia,368,89,Blindness and vision defects,1,0
+amblyopia,368,89,Blindness and vision defects,1,0
+blindness,369,89,Blindness and vision defects,1,0
+trachoma,76,90,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),1,0
+corneal ulcer,370,90,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),2,0
+keratitis,370,90,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),2,0
+keratoconjunctivitis,370,90,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),2,0
+cladophialophora infection,370,90,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),2,0
+bacterial eye infection,370,90,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),2,0
+blepharitis,373,90,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),2,0
+uveitis,360,91,Other eye disorders,2,0
+myopia,360,91,Other eye disorders,2,0
+endophthalmitis,360,91,Other eye disorders,2,0
+panophthalmitis,360,91,Other eye disorders,2,0
+degenerative myopia,360,91,Other eye disorders,2,0
+retinitis,363,91,Other eye disorders,2,0
+choroiditis,363,91,Other eye disorders,2,0
+choroideremia,363,91,Other eye disorders,2,0
+iritis,364,91,Other eye disorders,2,0
+hyphema,364,91,Other eye disorders,2,0
+corneal disease,371,91,Other eye disorders,1,0
+corneal dystrophy,371,91,Other eye disorders,1,0
+keratoconus,371,91,Other eye disorders,1,0
+corneal opacity,371,91,Other eye disorders,1,0
+lentigo senilis,371,91,Other eye disorders,1,0
+conjunctivitis,372,91,Other eye disorders,2,0
+conjunctiva disease,372,91,Other eye disorders,2,0
+infectious keratoconjunctivitis,372,91,Other eye disorders,2,0
+pterygium,372,91,Other eye disorders,2,0
+vitiligo,374,91,Other eye disorders,1,0
+hypotrichosis,374,91,Other eye disorders,1,0
+ptosis,374,91,Other eye disorders,1,0
+exophthalmos,376,91,Other eye disorders,2,0
+orbital inflammatory disease,376,91,Other eye disorders,2,0
+optic nerve disorder,377,91,Other eye disorders,2,0
+papilledema,377,91,Other eye disorders,2,0
+optic neuritis,377,91,Other eye disorders,2,0
+mitochondrial optic neuropathy,377,91,Other eye disorders,2,0
+lebers hereditary optic atrophy,377,91,Other eye disorders,2,0
+strabismus,378,91,Other eye disorders,1,0
+scleritis,379,91,Other eye disorders,2,0
+vitreous hemorrhage,379,91,Other eye disorders,2,0
+mydriasis,379,91,Other eye disorders,2,0
+miosis,379,91,Other eye disorders,2,0
+vitreous humor disease,379,91,Other eye disorders,2,0
+nystagmus,379,91,Other eye disorders,2,0
+ocular pain,379,91,Other eye disorders,2,0
+asteroid hyalosis,379,91,Other eye disorders,2,0
+salpingitis,381,92,Otitis media and related conditions,1,0
+otitis media,382,92,Otitis media and related conditions,1,0
+otitis,382,92,Otitis media and related conditions,1,0
+mastoiditis,383,92,Otitis media and related conditions,1,0
+ear disease,385,92,Otitis media and related conditions,2,0
+middle ear disease,385,92,Otitis media and related conditions,2,0
+cholesteatoma,385,92,Otitis media and related conditions,2,0
+otosclerosis,387,92,Otitis media and related conditions,1,0
+vertigo,386,93,Conditions associated with dizziness or vertigo,1,0
+meniere disease,386,93,Conditions associated with dizziness or vertigo,1,0
+labyrinthitis,386,93,Conditions associated with dizziness or vertigo,1,0
+vestibulocochlear nerve disorder,386,93,Conditions associated with dizziness or vertigo,1,0
+otitis externa,380,94,Other ear and sense organ disorders,1,0
+acute external otitis,380,94,Other ear and sense organ disorders,1,0
+tinnitus,388,94,Other ear and sense organ disorders,1,0
+inner ear disease,388,94,Other ear and sense organ disorders,1,0
+deafness,388,94,Other ear and sense organ disorders,1,0
+hearing disorder,389,94,Other ear and sense organ disorders,1,0
+hearing loss,389,94,Other ear and sense organ disorders,1,0
+sensorineural hearing loss,389,94,Other ear and sense organ disorders,1,0
+noise induced hearing loss,389,94,Other ear and sense organ disorders,1,0
+cancer pain,338,95,Other nervous system disorders,1,0
+demyelinating disease,341,95,Other nervous system disorders,2,0
+neuromyelitis optica,341,95,Other nervous system disorders,2,0
+central nervous system demyelinating disease,341,95,Other nervous system disorders,2,0
+narcolepsy,347,95,Other nervous system disorders,1,0
+cataplexy,347,95,Other nervous system disorders,1,0
+cerebral edema,348,95,Other nervous system disorders,2,0
+transmissible spongiform encephalopathy,348,95,Other nervous system disorders,2,0
+intracranial hypertension,348,95,Other nervous system disorders,2,0
+pseudotumor cerebri,348,95,Other nervous system disorders,2,0
+autonomic nervous system disease,349,95,Other nervous system disorders,3,0
+neurological disease,349,95,Other nervous system disorders,3,0
+neuropathic pain,349,95,Other nervous system disorders,3,0
+peripheral nervous system disease,349,95,Other nervous system disorders,3,0
+facial hemiatrophy,349,95,Other nervous system disorders,3,0
+trigeminal neuralgia,350,95,Other nervous system disorders,1,0
+facial nerve disease,351,95,Other nervous system disorders,1,0
+carpal tunnel syndrome,354,95,Other nervous system disorders,1,0
+complex regional pain syndrome,355,95,Other nervous system disorders,1,0
+neuropathy,356,95,Other nervous system disorders,1,0
+polyneuropathy,356,95,Other nervous system disorders,1,0
+charcot marie tooth type 1 disease,356,95,Other nervous system disorders,1,0
+diabetic neuropathy,357,95,Other nervous system disorders,2,0
+chronic inflammatory demyelinating polyneuropathy,357,95,Other nervous system disorders,2,0
+poems syndrome,357,95,Other nervous system disorders,2,0
+neuromuscular disease,358,95,Other nervous system disorders,1,0
+muscle hypertonia,358,95,Other nervous system disorders,1,0
+lambert-eaton syndrome,358,95,Other nervous system disorders,1,0
+neuromuscular blockade,358,95,Other nervous system disorders,1,0
+muscular dystrophy,359,95,Other nervous system disorders,1,0
+myopathy,359,95,Other nervous system disorders,1,0
+duchenne dystrophy,359,95,Other nervous system disorders,1,0
+myotonic dystrophy,359,95,Other nervous system disorders,1,0
+myotonic dystrophy type 1,359,95,Other nervous system disorders,1,0
+myotonic dystrophy type 2,359,95,Other nervous system disorders,1,0
+limb girdle muscular dystrophy,359,95,Other nervous system disorders,1,0
+becker muscular dystrophy,359,95,Other nervous system disorders,1,0
+emery dreifuss muscular dystrophy,359,95,Other nervous system disorders,1,0
+inclusion body myositis,359,95,Other nervous system disorders,1,0
+facioscapulohumeral muscular dystrophy,359,95,Other nervous system disorders,1,0
+sporadic inclusion body myositis,359,95,Other nervous system disorders,1,0
+dysuria,781,95,Other nervous system disorders,5,0
+dysgeusia,781,95,Other nervous system disorders,5,0
+decompression sickness,781,95,Other nervous system disorders,5,0
+heart valve disease,394,96,Heart valve disorders,1,0
+aortic valve disease,395,96,Heart valve disorders,1,0
+aortic stenosis,396,96,Heart valve disorders,1,0
+acute decompensated heart failure,398,97,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),2,0
+pericarditis,420,97,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),1,0
+bacterial endocarditis,421,97,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),1,0
+infectious endocarditis,421,97,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),1,0
+myocarditis,422,97,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),1,0
+myocardial disease,425,97,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),2,0
+hypertrophic cardiomyopathy,425,97,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),2,0
+chagas cardiomyopathy,425,97,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),2,0
+lipotoxic cardiomyopathy,425,97,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),2,0
+dilated cardiomyopathy,425,97,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),2,0
+hypertension,401,98,Essential hypertension,2,0
+essential hypertension,401,98,Essential hypertension,2,0
+arterial hypertension,401,98,Essential hypertension,2,0
+resistant hypertension,401,98,Essential hypertension,2,0
+renovascular hypertension,405,99,Hypertension with complications and secondary hypertension,1,0
+ischemic heart disease,410,100,Acute myocardial infarction,1,0
+myocardial infarction,410,100,Acute myocardial infarction,1,0
+infarction,410,100,Acute myocardial infarction,1,0
+unstable angina,411,101,Coronary atherosclerosis and other heart disease,1,0
+coronary thrombosis,411,101,Coronary atherosclerosis and other heart disease,1,0
+occlusive coronary artery disease,411,101,Coronary atherosclerosis and other heart disease,1,0
+acute coronary syndrome,411,101,Coronary atherosclerosis and other heart disease,1,0
+angina,413,101,Coronary atherosclerosis and other heart disease,1,0
+variant angina pectoris,413,101,Coronary atherosclerosis and other heart disease,1,0
+coronary artery disease,414,101,Coronary atherosclerosis and other heart disease,3,0
+coronary atherosclerosis,414,101,Coronary atherosclerosis and other heart disease,3,0
+embolism,415,103,Pulmonary heart disease,2,0
+lung embolism,415,103,Pulmonary heart disease,2,0
+pulmonary heart disease,416,103,Pulmonary heart disease,1,0
+pulmonary hypertension,416,103,Pulmonary heart disease,1,0
+pulmonary artery hypertension,416,103,Pulmonary heart disease,1,0
+lung disease pulmonary hypertension,416,103,Pulmonary heart disease,1,0
+chronic thromboembolic pulmonary hypertension,416,103,Pulmonary heart disease,1,0
+idiopathic pulmonary arterial hypertension,416,103,Pulmonary heart disease,1,0
+secondary pulmonary arterial hypertension,416,103,Pulmonary heart disease,1,0
+cardiovascular disease,429,104,Other and ill-defined heart disease,3,0
+arteriosclerosis,429,104,Other and ill-defined heart disease,3,0
+heart disease,429,104,Other and ill-defined heart disease,3,0
+cardiac hypertrophy,429,104,Other and ill-defined heart disease,3,0
+long qt syndrome,426,105,Conduction disorders,1,0
+atrioventricular block,426,105,Conduction disorders,1,0
+heart arrhythmia,427,106,Cardiac dysrhythmias,2,0
+bradycardia,427,106,Cardiac dysrhythmias,2,0
+atrial fibrillation,427,106,Cardiac dysrhythmias,2,0
+atrial flutter,427,106,Cardiac dysrhythmias,2,0
+ventricular tachycardia,427,106,Cardiac dysrhythmias,2,0
+ventricular fibrillation,427,106,Cardiac dysrhythmias,2,0
+cardiac arrest,427,106,Cardiac dysrhythmias,2,0
+ventricular arrhythmia,427,106,Cardiac dysrhythmias,2,0
+paroxysmal supraventricular tachycardia,427,106,Cardiac dysrhythmias,2,0
+cardiac failure,428,108,Congestive heart failure; nonhypertensive,1,0
+congestive heart failure,428,108,Congestive heart failure; nonhypertensive,1,0
+cardiac edema,428,108,Congestive heart failure; nonhypertensive,1,0
+cardiac surgical procedure,428,108,Congestive heart failure; nonhypertensive,1,0
+diastolic heart failure,428,108,Congestive heart failure; nonhypertensive,1,0
+systolic heart failure,428,108,Congestive heart failure; nonhypertensive,1,0
+left heart disease pulmonary hypertension,428,108,Congestive heart failure; nonhypertensive,1,0
+brain hemorrhage,431,109,Acute cerebrovascular disease,1,0
+cerebral hemorrhage,431,109,Acute cerebrovascular disease,1,0
+intracranial hemorrhage,432,109,Acute cerebrovascular disease,1,0
+cerebral infarction,434,109,Acute cerebrovascular disease,1,0
+brain infarction,434,109,Acute cerebrovascular disease,1,0
+ischemic stroke,434,109,Acute cerebrovascular disease,1,0
+cerebrovascular disease,436,109,Acute cerebrovascular disease,1,0
+carotid stenosis,433,110,Occlusion or stenosis of precerebral arteries,2,0
+aneurysm,437,111,Other and ill-defined cerebrovascular disease,2,0
+ischemia,435,112,Transient cerebral ischemia,1,0
+brain ischemia,435,112,Transient cerebral ischemia,1,0
+intracranial vasospasm,435,112,Transient cerebral ischemia,1,0
+vasospasm,435,112,Transient cerebral ischemia,1,0
+cerebrovascular ischemia,435,112,Transient cerebral ischemia,1,0
+atherosclerosis,440,114,Peripheral and visceral atherosclerosis,3,0
+restenosis,440,114,Peripheral and visceral atherosclerosis,3,0
+aortic aneurysm,441,115,Aortic; peripheral; and visceral artery aneurysms,1,0
+abdominal aortic aneurysm,441,115,Aortic; peripheral; and visceral artery aneurysms,1,0
+peripheral vascular disease,443,115,Aortic; peripheral; and visceral artery aneurysms,3,0
+raynauds disease,443,115,Aortic; peripheral; and visceral artery aneurysms,3,0
+artery disease,443,115,Aortic; peripheral; and visceral artery aneurysms,3,0
+vascular disease,443,115,Aortic; peripheral; and visceral artery aneurysms,3,0
+peripheral arterial occlusive disease,443,115,Aortic; peripheral; and visceral artery aneurysms,3,0
+erythromelalgia,443,115,Aortic; peripheral; and visceral artery aneurysms,3,0
+thromboangiitis obliterans,443,115,Aortic; peripheral; and visceral artery aneurysms,3,0
+diabetic angiopathy,443,115,Aortic; peripheral; and visceral artery aneurysms,3,0
+arterial occlusive disease,443,115,Aortic; peripheral; and visceral artery aneurysms,3,0
+intermittent claudication,443,115,Aortic; peripheral; and visceral artery aneurysms,3,0
+vascular occlusive disease,443,115,Aortic; peripheral; and visceral artery aneurysms,3,0
+thrombotic microangiopathy,443,115,Aortic; peripheral; and visceral artery aneurysms,3,0
+arterial thrombosis,444,116,Aortic and peripheral arterial embolism or thrombosis,1,0
+kawasaki disease,446,117,Other circulatory disease,1,0
+polyarteritis nodosa,446,117,Other circulatory disease,1,0
+microangiopathy,446,117,Other circulatory disease,1,0
+wegener granulomatosis,446,117,Other circulatory disease,1,0
+churg-strauss syndrome,446,117,Other circulatory disease,1,0
+temporal arteritis,447,117,Other circulatory disease,2,0
+capillary leak syndrome,448,117,Other circulatory disease,1,0
+hereditary hemorrhagic telangiectasia,448,117,Other circulatory disease,1,0
+nevus,448,117,Other circulatory disease,1,0
+hypotension,458,117,Other circulatory disease,2,0
+orthostatic hypotension,458,117,Other circulatory disease,2,0
+deep vein thrombosis,453,118,Phlebitis; thrombophlebitis and thromboembolism,1,0
+thrombosis,453,118,Phlebitis; thrombophlebitis and thromboembolism,1,0
+budd chiari syndrome,453,118,Phlebitis; thrombophlebitis and thromboembolism,1,0
+varicosis,454,119,Varicose veins of lower extremity,1,0
+varicosis ulcer,454,119,Varicose veins of lower extremity,1,0
+hemorrhoids,455,120,Hemorrhoids,1,0
+bleeding,456,121,Other diseases of veins and lymphatics,3,0
+esophagitis,456,121,Other diseases of veins and lymphatics,3,0
+varices,456,121,Other diseases of veins and lymphatics,3,0
+esophageal varices,456,121,Other diseases of veins and lymphatics,3,0
+lymphatic system disease,457,121,Other diseases of veins and lymphatics,1,0
+lymphedema,457,121,Other diseases of veins and lymphatics,1,0
+elephantiasis,457,121,Other diseases of veins and lymphatics,1,0
+lymphangitis,457,121,Other diseases of veins and lymphatics,1,0
+angiogenesis disorder,459,121,Other diseases of veins and lymphatics,2,0
+vein disease,459,121,Other diseases of veins and lymphatics,2,0
+venous insufficiency,459,121,Other diseases of veins and lymphatics,2,0
+cardiac reperfusion injury,459,121,Other diseases of veins and lymphatics,2,0
+vein graft failure,459,121,Other diseases of veins and lymphatics,2,0
+yersinia pestis infection,20,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),4,0
+coccidioides infection,114,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),3,0
+paramyxovirus infection,480,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+viral pneumonia,480,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+pneumonia,481,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+klebsiella pneumoniae infection,482,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+streptococcus pneumoniae infection,482,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+legionella pneumophila infection,482,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+bacterial pneumonia,482,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+prevotella infection,482,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+acinetobacter lwoffii infection,482,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+streptococcus constellatus infection,482,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+klebsiella granulomatis infection,482,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+stenotrophomonas maltophilia infection,482,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+chlamydia pneumoniae infection,483,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+mycoplasma pneumoniae infection,483,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+fungal pneumonia,484,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+burkholderia infection,486,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1,0
+lung abscess,513,122,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),2,0
+influenza virus infection,487,123,Influenza,1,0
+influenza virus a infection,487,123,Influenza,1,0
+influenza virus b infection,487,123,Influenza,1,0
+tonsillitis,463,124,Acute and chronic tonsillitis,1,0
+adenoid hypertrophy,474,124,Acute and chronic tonsillitis,1,0
+peritonsillitis,475,124,Acute and chronic tonsillitis,1,0
+otorhinolaryngological infection,475,124,Acute and chronic tonsillitis,1,0
+acute bronchitis,466,125,Acute bronchitis,1,0
+bronchiolitis,466,125,Acute bronchitis,1,0
+corynebacterium diphtheriae infection,32,126,Other upper respiratory infections,7,0
+corynebacterium infection,32,126,Other upper respiratory infections,7,0
+streptococcus mutans infection,34,126,Other upper respiratory infections,2,0
+lower respiratory tract infection,460,126,Other upper respiratory infections,1,0
+common cold,460,126,Other upper respiratory infections,1,0
+lung inflammation,460,126,Other upper respiratory infections,1,0
+leptospiraceae infection,460,126,Other upper respiratory infections,1,0
+acute sinusitis,461,126,Other upper respiratory infections,1,0
+pharyngitis,462,126,Other upper respiratory infections,1,0
+laryngitis,464,126,Other upper respiratory infections,1,0
+respiratory tract infection,465,126,Other upper respiratory infections,1,0
+lung infection,465,126,Other upper respiratory infections,1,0
+upper respiratory tract infection,465,126,Other upper respiratory infections,1,0
+respiratory tract inflammation,465,126,Other upper respiratory infections,1,0
+laryngopharyngitis,465,126,Other upper respiratory infections,1,0
+sinusitis,473,126,Other upper respiratory infections,1,0
+chronic sinusitis,473,126,Other upper respiratory infections,1,0
+nasal polyps,473,126,Other upper respiratory infections,1,0
+bronchitis,491,127,Chronic obstructive pulmonary disease and bronchiectasis,1,0
+chronic obstructive pulmonary disease,491,127,Chronic obstructive pulmonary disease and bronchiectasis,1,0
+chronic bronchitis,491,127,Chronic obstructive pulmonary disease and bronchiectasis,1,0
+emphysema,492,127,Chronic obstructive pulmonary disease and bronchiectasis,1,0
+chronic obstructive airway disease,494,127,Chronic obstructive pulmonary disease and bronchiectasis,1,0
+bronchiectasis,494,127,Chronic obstructive pulmonary disease and bronchiectasis,1,0
+asthma,493,128,Asthma,1,0
+status asthmaticus,493,128,Asthma,1,0
+asthma attack,493,128,Asthma,1,0
+empyema,510,130,Pleurisy; pneumothorax; pulmonary collapse,1,0
+pleural disease,511,130,Pleurisy; pneumothorax; pulmonary collapse,2,0
+lung disease,518,131,Respiratory failure; insufficiency; arrest (adult),5,0
+adult respiratory distress syndrome,518,131,Respiratory failure; insufficiency; arrest (adult),5,0
+acute lung injury,518,131,Respiratory failure; insufficiency; arrest (adult),5,0
+pulmonary edema,518,131,Respiratory failure; insufficiency; arrest (adult),5,0
+respiratory failure,518,131,Respiratory failure; insufficiency; arrest (adult),5,0
+extrinsic allergic alveolitis,495,132,Lung disease due to external agents,1,0
+fungal allergy,495,132,Lung disease due to external agents,1,0
+asbestosis,501,132,Lung disease due to external agents,1,0
+pulmonary fibrosis,516,133,Other lower respiratory disease,1,0
+fibrosis,516,133,Other lower respiratory disease,1,0
+interstitial lung disease,516,133,Other lower respiratory disease,1,0
+lymphangioleiomyomatosis,516,133,Other lower respiratory disease,1,0
+idiopathic pulmonary fibrosis,516,133,Other lower respiratory disease,1,0
+acute chest syndrome,517,133,Other lower respiratory disease,3,0
+cough,786,133,Other lower respiratory disease,3,0
+snoring,786,133,Other lower respiratory disease,3,0
+cheynes stokes breathing,786,133,Other lower respiratory disease,3,0
+respiratory insufficiency,786,133,Other lower respiratory disease,3,0
+dermatophagoides farinae infection,477,134,Other upper respiratory disease,2,0
+rhinitis,477,134,Other upper respiratory disease,2,0
+respiratory tract allergy,477,134,Other upper respiratory disease,2,0
+allergic rhinitis,477,134,Other upper respiratory disease,2,0
+perennial allergic rhinitis,477,134,Other upper respiratory disease,2,0
+seasonal allergic rhinitis,477,134,Other upper respiratory disease,2,0
+telangiectasis,478,134,Other upper respiratory disease,1,0
+nasal congestion,478,134,Other upper respiratory disease,1,0
+respiratory congestion,519,134,Other upper respiratory disease,3,0
+bronchus disease,519,134,Other upper respiratory disease,3,0
+bacterial respiratory tract infection,519,134,Other upper respiratory disease,3,0
+viral respiratory tract infection,519,134,Other upper respiratory disease,3,0
+bronchospasm,519,134,Other upper respiratory disease,3,0
+headache,784,134,Other upper respiratory disease,6,0
+dysphonia,784,134,Other upper respiratory disease,6,0
+tourette syndrome,784,134,Other upper respiratory disease,6,0
+vibrio cholerae infection,1,135,Intestinal infection,1,0
+salmonella typhi infection,2,135,Intestinal infection,1,0
+salmonella infection,3,135,Intestinal infection,5,0
+shigella infection,4,135,Intestinal infection,1,0
+shigella flexneri infection,4,135,Intestinal infection,1,0
+shigella sonnei infection,4,135,Intestinal infection,1,0
+shigella dysenteriae infection,4,135,Intestinal infection,1,0
+clostridium botulinum infection,5,135,Intestinal infection,1,0
+giardia lamblia infection,7,135,Intestinal infection,1,0
+norwalk virus infection,8,135,Intestinal infection,1,0
+rotavirus infection,8,135,Intestinal infection,1,0
+clostridium infection,8,135,Intestinal infection,1,0
+intestine infection,8,135,Intestinal infection,1,0
+clostridium difficile infection,8,135,Intestinal infection,1,0
+pseudomembranous colitis,8,135,Intestinal infection,1,0
+yersinia infection,8,135,Intestinal infection,1,0
+treponema infection,8,135,Intestinal infection,1,0
+campylobacter jejuni infection,8,135,Intestinal infection,1,0
+enterobacter aerogenes infection,8,135,Intestinal infection,1,0
+streptococcus oralis infection,8,135,Intestinal infection,1,0
+norovirus infection,8,135,Intestinal infection,1,0
+dental caries,521,136,Disorders of teeth and jaw,1,0
+periodontal disease,523,136,Disorders of teeth and jaw,1,0
+gingivitis,523,136,Disorders of teeth and jaw,1,0
+gingiva disease,523,136,Disorders of teeth and jaw,1,0
+pericoronitis,523,136,Disorders of teeth and jaw,1,0
+periodontitis,523,136,Disorders of teeth and jaw,1,0
+arthralgia,524,136,Disorders of teeth and jaw,1,0
+temporomandibular joint syndrome,524,136,Disorders of teeth and jaw,1,0
+tooth disease,525,136,Disorders of teeth and jaw,1,0
+jaw disease,526,136,Disorders of teeth and jaw,1,0
+sialadenitis,527,137,Diseases of mouth; excluding dental,1,0
+salivary gland disease,527,137,Diseases of mouth; excluding dental,1,0
+xerostomia,527,137,Diseases of mouth; excluding dental,1,0
+sialorrhea,527,137,Diseases of mouth; excluding dental,1,0
+mouth ulcer,528,137,Diseases of mouth; excluding dental,2,0
+stomatitis,528,137,Diseases of mouth; excluding dental,2,0
+mucositis,528,137,Diseases of mouth; excluding dental,2,0
+leukoplakia,528,137,Diseases of mouth; excluding dental,2,0
+oral mucositis,528,137,Diseases of mouth; excluding dental,2,0
+glossitis,529,137,Diseases of mouth; excluding dental,1,0
+achalasia,530,138,Esophageal disorders,3,0
+gastroesophageal reflux,530,138,Esophageal disorders,3,0
+barretts esophagus,530,138,Esophageal disorders,3,0
+eosinophilic esophagitis,530,138,Esophageal disorders,3,0
+ulcer,531,139,Gastroduodenal ulcer (except hemorrhage),2,0
+gastrointestinal ulcer,531,139,Gastroduodenal ulcer (except hemorrhage),2,0
+stomach ulcer,531,139,Gastroduodenal ulcer (except hemorrhage),2,0
+duodenal ulcer,532,139,Gastroduodenal ulcer (except hemorrhage),2,0
+gastritis,535,140,Gastritis and duodenitis,2,0
+hypertrophic gastritis,535,140,Gastritis and duodenitis,2,0
+gastrointestinal disease,536,141,Other disorders of stomach and duodenum,2,0
+gastric motility disorder,536,141,Other disorders of stomach and duodenum,2,0
+gastrointestinal function disorder,536,141,Other disorders of stomach and duodenum,2,0
+dyspepsia,536,141,Other disorders of stomach and duodenum,2,0
+hyperchlorhydria,536,141,Other disorders of stomach and duodenum,2,0
+gastrointestinal infection,536,141,Other disorders of stomach and duodenum,2,0
+stomach function disorder,536,141,Other disorders of stomach and duodenum,2,0
+gastroparesis,536,141,Other disorders of stomach and duodenum,2,0
+indigestion,536,141,Other disorders of stomach and duodenum,2,0
+gastrointestinal motility disorder,536,141,Other disorders of stomach and duodenum,2,0
+stomach disease,537,141,Other disorders of stomach and duodenum,1,0
+stomach infection,537,141,Other disorders of stomach and duodenum,1,0
+appendicitis,540,142,Appendicitis and other appendiceal conditions,1,0
+crohns disease,555,144,Regional enteritis and ulcerative colitis,1,0
+inflammatory bowel disease,555,144,Regional enteritis and ulcerative colitis,1,0
+enteritis,555,144,Regional enteritis and ulcerative colitis,1,0
+coris disease,555,144,Regional enteritis and ulcerative colitis,1,0
+ulcerative colitis,556,144,Regional enteritis and ulcerative colitis,1,0
+proctitis,556,144,Regional enteritis and ulcerative colitis,1,0
+enterocolitis,556,144,Regional enteritis and ulcerative colitis,1,0
+rectosigmoiditis,556,144,Regional enteritis and ulcerative colitis,1,0
+ulcerative proctitis,556,144,Regional enteritis and ulcerative colitis,1,0
+ileus,560,145,Intestinal obstruction without hernia,1,0
+diverticulitis,562,146,Diverticulosis and diverticulitis,1,0
+diverticulosis,562,146,Diverticulosis and diverticulitis,1,0
+anal fissure,565,147,Anal and rectal conditions,1,0
+fistula,565,147,Anal and rectal conditions,1,0
+anal fistula,565,147,Anal and rectal conditions,1,0
+perianal fistula,566,147,Anal and rectal conditions,1,0
+peritonitis,567,148,Peritonitis and intestinal abscess,2,0
+abdominal cavity inflammation,567,148,Peritonitis and intestinal abscess,2,0
+abdominal abscess,567,148,Peritonitis and intestinal abscess,2,0
+gallstones,574,149,Biliary tract disease,1,0
+cholangitis,574,149,Biliary tract disease,1,0
+cholelithiasis,574,149,Biliary tract disease,1,0
+gallbladder disease,575,149,Biliary tract disease,1,0
+cholecystitis,575,149,Biliary tract disease,1,0
+biliary tract disease,576,149,Biliary tract disease,1,0
+cholestasis,576,149,Biliary tract disease,1,0
+primary sclerosing cholangitis,576,149,Biliary tract disease,1,0
+acute liver failure,570,151,Other liver diseases,1,0
+liver cirrhosis,571,151,Other liver diseases,3,0
+liver disease,571,151,Other liver diseases,3,0
+fatty liver disease,571,151,Other liver diseases,3,0
+liver failure,571,151,Other liver diseases,3,0
+alcoholic hepatitis,571,151,Other liver diseases,3,0
+primary biliary cirrhosis,571,151,Other liver diseases,3,0
+liver fibrosis,571,151,Other liver diseases,3,0
+biliary cirrhosis,571,151,Other liver diseases,3,0
+steatohepatitis,571,151,Other liver diseases,3,0
+non-alcoholic steatohepatitis,571,151,Other liver diseases,3,0
+autoimmune hepatitis,571,151,Other liver diseases,3,0
+non alcoholic fatty liver disease,571,151,Other liver diseases,3,0
+non segmental vitiligo,571,151,Other liver diseases,3,0
+alcoholic fatty liver disease,571,151,Other liver diseases,3,0
+alcoholic liver cirrhosis,571,151,Other liver diseases,3,0
+compensated liver cirrhosis,571,151,Other liver diseases,3,0
+alcoholic liver disease,571,151,Other liver diseases,3,0
+hepatorenal syndrome,572,151,Other liver diseases,1,0
+hepatic encephalopathy,572,151,Other liver diseases,1,0
+liver abscess,572,151,Other liver diseases,1,0
+amoebic liver abscess,572,151,Other liver diseases,1,0
+portal hypertension,572,151,Other liver diseases,1,0
+hepatitis,573,151,Other liver diseases,2,0
+hepatobiliary disease,573,151,Other liver diseases,2,0
+rna virus infection,573,151,Other liver diseases,2,0
+nausea drug-induced,573,151,Other liver diseases,2,0
+venous occlusive disease,573,151,Other liver diseases,2,0
+hepatic insufficiency,573,151,Other liver diseases,2,0
+pancreas disease,577,152,Pancreatic disorders (not diabetes),1,0
+pancreatitis,577,152,Pancreatic disorders (not diabetes),1,0
+exocrine pancreatic insufficiency,577,152,Pancreatic disorders (not diabetes),1,0
+necrotizing acute pancreatitis,577,152,Pancreatic disorders (not diabetes),1,0
+gastrointestinal bleeding,578,153,Gastrointestinal hemorrhage,1,0
+colitis,558,154,Noninfectious gastroenteritis,3,0
+campylobacter fetus infection,558,154,Noninfectious gastroenteritis,3,0
+irritable bowel syndrome,564,155,Other gastrointestinal disorders,3,0
+constipation,564,155,Other gastrointestinal disorders,3,0
+intestine disease,564,155,Other gastrointestinal disorders,3,0
+functional bowel disorder,564,155,Other gastrointestinal disorders,3,0
+dumping syndrome,564,155,Other gastrointestinal disorders,3,0
+constipation predominant irritable bowel syndrome,564,155,Other gastrointestinal disorders,3,0
+diarrhea predominant irritable bowel syndrome,564,155,Other gastrointestinal disorders,3,0
+alternating stool pattern irritable bowel syndrome,564,155,Other gastrointestinal disorders,3,0
+peritoneal disease,568,155,Other gastrointestinal disorders,1,0
+peritoneal tumor,568,155,Other gastrointestinal disorders,1,0
+colon disease,569,155,Other gastrointestinal disorders,6,0
+gastrointestinal inflammation,569,155,Other gastrointestinal disorders,6,0
+anorectal disease,569,155,Other gastrointestinal disorders,6,0
+anusitis,569,155,Other gastrointestinal disorders,6,0
+protein losing enteropathy,569,155,Other gastrointestinal disorders,6,0
+pouchitis,569,155,Other gastrointestinal disorders,6,0
+anus pain,569,155,Other gastrointestinal disorders,6,0
+steatorrhea,579,155,Other gastrointestinal disorders,3,0
+short bowel syndrome,579,155,Other gastrointestinal disorders,3,0
+celiac disease,579,155,Other gastrointestinal disorders,3,0
+fat malabsorption,579,155,Other gastrointestinal disorders,3,0
+diarrhea,787,155,Other gastrointestinal disorders,2,0
+emesis,787,155,Other gastrointestinal disorders,2,0
+nausea,787,155,Other gastrointestinal disorders,2,0
+flatulence,787,155,Other gastrointestinal disorders,2,0
+dysphagia,787,155,Other gastrointestinal disorders,2,0
+fecal incontinence,787,155,Other gastrointestinal disorders,2,0
+chemotherapy induced nausea and vomiting,787,155,Other gastrointestinal disorders,2,0
+ascites,789,155,Other gastrointestinal disorders,5,0
+gastrointestinal injury,789,155,Other gastrointestinal disorders,5,0
+abdominal pain,789,155,Other gastrointestinal disorders,5,0
+infant colic,789,155,Other gastrointestinal disorders,5,0
+gastrointestinal pain,789,155,Other gastrointestinal disorders,5,0
+gastric injury,789,155,Other gastrointestinal disorders,5,0
+genitourinary disease,580,156,Nephritis; nephrosis; renal sclerosis,1,0
+genitourinary tract tumor,580,156,Nephritis; nephrosis; renal sclerosis,1,0
+glomerular disease,581,156,Nephritis; nephrosis; renal sclerosis,1,0
+nephrotic syndrome,581,156,Nephritis; nephrosis; renal sclerosis,1,0
+focal segmental glomerulosclerosis,581,156,Nephritis; nephrosis; renal sclerosis,1,0
+membranoproliferative glomerulonephritis,581,156,Nephritis; nephrosis; renal sclerosis,1,0
+membranous glomerulonephritis,582,156,Nephritis; nephrosis; renal sclerosis,1,0
+diabetic nephropathy,583,156,Nephritis; nephrosis; renal sclerosis,1,0
+glomerulonephritis,583,156,Nephritis; nephrosis; renal sclerosis,1,0
+nephritis,583,156,Nephritis; nephrosis; renal sclerosis,1,0
+nephrotoxicity,583,156,Nephritis; nephrosis; renal sclerosis,1,0
+lupus nephritis,583,156,Nephritis; nephrosis; renal sclerosis,1,0
+iga nephropathy,583,156,Nephritis; nephrosis; renal sclerosis,1,0
+immune complex disease,583,156,Nephritis; nephrosis; renal sclerosis,1,0
+renal fibrosis,587,156,Nephritis; nephrosis; renal sclerosis,1,0
+renal failure,584,157,Acute and unspecified renal failure,1,0
+renal injury,586,157,Acute and unspecified renal failure,1,0
+end stage renal disease,585,158,Chronic kidney disease,1,0
+pyelonephritis,590,159,Urinary tract infections,1,0
+cystitis,595,159,Urinary tract infections,1,0
+interstitial cystitis,595,159,Urinary tract infections,1,0
+bladder pain,595,159,Urinary tract infections,1,0
+urolithiasis,592,160,Calculus of urinary tract,1,0
+diabetes insipidus,588,161,Other diseases of kidney and ureters,1,0
+secondary hyperparathyroidism,588,161,Other diseases of kidney and ureters,1,0
+nephrogenic diabetes insipidus,588,161,Other diseases of kidney and ureters,1,0
+cystinosis,588,161,Other diseases of kidney and ureters,1,0
+renal tubule disease,588,161,Other diseases of kidney and ureters,1,0
+renal osteodystrophy,588,161,Other diseases of kidney and ureters,1,0
+renal disease,593,161,Other diseases of kidney and ureters,1,0
+bladder disease,596,162,Other diseases of bladder and urethra,3,0
+overactive bladder,596,162,Other diseases of bladder and urethra,3,0
+neurogenic bladder,596,162,Other diseases of bladder and urethra,3,0
+bacterial urinary tract infection,599,163,Genitourinary symptoms and ill-defined conditions,3,0
+fungal urinary tract infection,599,163,Genitourinary symptoms and ill-defined conditions,3,0
+complicated urinary tract infection,599,163,Genitourinary symptoms and ill-defined conditions,3,0
+urinary incontinence,788,163,Genitourinary symptoms and ill-defined conditions,2,0
+uremia,788,163,Genitourinary symptoms and ill-defined conditions,2,0
+diuresis,788,163,Genitourinary symptoms and ill-defined conditions,2,0
+pollakiuria,788,163,Genitourinary symptoms and ill-defined conditions,2,0
+urinary dysfunction,788,163,Genitourinary symptoms and ill-defined conditions,2,0
+clostridiaceae infection,788,163,Genitourinary symptoms and ill-defined conditions,2,0
+enuresis,788,163,Genitourinary symptoms and ill-defined conditions,2,0
+urge urinary incontinence,788,163,Genitourinary symptoms and ill-defined conditions,2,0
+stress urinary incontinence,788,163,Genitourinary symptoms and ill-defined conditions,2,0
+nocturia,788,163,Genitourinary symptoms and ill-defined conditions,2,0
+proteinuria,791,163,Genitourinary symptoms and ill-defined conditions,2,0
+abnormal urine composition,791,163,Genitourinary symptoms and ill-defined conditions,2,0
+glycosuria,791,163,Genitourinary symptoms and ill-defined conditions,2,0
+prostate hyperplasia,600,164,Hyperplasia of prostate,1,0
+urinary retention,600,164,Hyperplasia of prostate,1,0
+hypertrophy,600,164,Hyperplasia of prostate,1,0
+prostatitis,601,165,Inflammatory conditions of male genital organs,1,0
+prostate disease,601,165,Inflammatory conditions of male genital organs,1,0
+epididymitis,604,165,Inflammatory conditions of male genital organs,1,0
+prostatic intraepithelial neoplasia,602,166,Other male genital disorders,1,0
+male infertility,606,166,Other male genital disorders,1,0
+male sexual dysfunction,607,166,Other male genital disorders,2,0
+balanitis,607,166,Other male genital disorders,2,0
+penile induration,607,166,Other male genital disorders,2,0
+priapism,607,166,Other male genital disorders,2,0
+atrophy,608,166,Other male genital disorders,2,0
+dyspareunia,608,166,Other male genital disorders,2,0
+reproductive disorder,608,166,Other male genital disorders,2,0
+fibrocystic breast disease,610,167,Nonmalignant breast conditions,1,0
+breast disease,611,167,Nonmalignant breast conditions,1,0
+gynecomastia,611,167,Nonmalignant breast conditions,1,0
+mastalgia,611,167,Nonmalignant breast conditions,1,0
+necrosis,611,167,Nonmalignant breast conditions,1,0
+inflammatory disease,614,168,Inflammatory diseases of female pelvic organs,1,0
+female genital tract inflammation,614,168,Inflammatory diseases of female pelvic organs,1,0
+pelvic inflammatory disease,614,168,Inflammatory diseases of female pelvic organs,1,0
+tissue adhesions,614,168,Inflammatory diseases of female pelvic organs,1,0
+vaginitis,616,168,Inflammatory diseases of female pelvic organs,1,0
+vulvovaginitis,616,168,Inflammatory diseases of female pelvic organs,1,0
+vulva disease,616,168,Inflammatory diseases of female pelvic organs,1,0
+bacterial vaginosis,616,168,Inflammatory diseases of female pelvic organs,1,0
+cervix disease,616,168,Inflammatory diseases of female pelvic organs,1,0
+bartholinitis,616,168,Inflammatory diseases of female pelvic organs,1,0
+genital ulcer,616,168,Inflammatory diseases of female pelvic organs,1,0
+endometriosis,617,169,Endometriosis,1,0
+adenomyosis,617,169,Endometriosis,1,0
+menstruation disorder,626,171,Menstrual disorders,2,0
+hypermenorrhea,626,171,Menstrual disorders,2,0
+uterine hemorrhage,626,171,Menstrual disorders,2,0
+metrorrhagia,626,171,Menstrual disorders,2,0
+menopause,627,173,Menopausal disorders,1,0
+menorrhagia,627,173,Menopausal disorders,1,0
+hot flashes,627,173,Menopausal disorders,1,0
+atrophic vaginitis,627,173,Menopausal disorders,1,0
+infertility,628,174,Female infertility,1,0
+female infertility,628,174,Female infertility,1,0
+anovulation,628,174,Female infertility,1,0
+dysplasia,622,175,Other female genital disorders,1,0
+cervical dysplasia,622,175,Other female genital disorders,1,0
+cervix injury,622,175,Other female genital disorders,1,0
+vulvar intraepithelial neoplasia,624,175,Other female genital disorders,1,0
+dysmenorrhea,625,175,Other female genital disorders,3,0
+premenstrual syndrome,625,175,Other female genital disorders,3,0
+gynecological disorder,629,175,Other female genital disorders,2,0
+hematocele,629,175,Other female genital disorders,2,0
+spontaneous abortion,634,177,Spontaneous abortion,1,0
+polycystic ovary syndrome,634,177,Spontaneous abortion,1,0
+ectopic pregnancy,633,180,Ectopic pregnancy,1,0
+biliary tract infection,631,181,Other complications of pregnancy,1,0
+uterus infection,631,181,Other complications of pregnancy,1,0
+hyperemesis gravidarum,643,181,Other complications of pregnancy,1,0
+morning sickness,643,181,Other complications of pregnancy,1,0
+trichomonas infection,646,181,Other complications of pregnancy,1,0
+female genital tract infection,646,181,Other complications of pregnancy,1,0
+cervix infection,646,181,Other complications of pregnancy,1,0
+habitual abortion,646,181,Other complications of pregnancy,1,0
+postnatal depression,648,181,Other complications of pregnancy,4,0
+gestational diabetes,648,181,Other complications of pregnancy,4,0
+planned abortion,641,182,Hemorrhage during pregnancy; abruptio placenta; placenta previa,1,0
+pre-eclampsia,642,183,Hypertension complicating pregnancy; childbirth and the puerperium,1,0
+eclampsia,642,183,Hypertension complicating pregnancy; childbirth and the puerperium,1,0
+premature labor,644,184,Early or threatened labor,1,0
+uterus tumor,654,195,Other complications of birth; puerperium affecting management of mother,2,0
+uterine fibroids,654,195,Other complications of birth; puerperium affecting management of mother,2,0
+charcot marie tooth disease,655,195,Other complications of birth; puerperium affecting management of mother,2,0
+fragile x syndrome,655,195,Other complications of birth; puerperium affecting management of mother,2,0
+turners syndrome,655,195,Other complications of birth; puerperium affecting management of mother,2,0
+cystic hygroma,655,195,Other complications of birth; puerperium affecting management of mother,2,0
+obstetrics,665,195,Other complications of birth; puerperium affecting management of mother,1,0
+labor complication,669,195,Other complications of birth; puerperium affecting management of mother,2,0
+phlebothrombosis,671,195,Other complications of birth; puerperium affecting management of mother,1,0
+lactation disorder,676,195,Other complications of birth; puerperium affecting management of mother,1,0
+galactorrhea,676,195,Other complications of birth; puerperium affecting management of mother,1,0
+erysipelas,35,197,Skin and subcutaneous tissue infections,1,0
+complicated skin and skin structure infection,681,197,Skin and subcutaneous tissue infections,1,0
+entamoeba histolytica infection,682,197,Skin and subcutaneous tissue infections,1,0
+cellulitis,682,197,Skin and subcutaneous tissue infections,1,0
+abscess,682,197,Skin and subcutaneous tissue infections,1,0
+impetigo,684,197,Skin and subcutaneous tissue infections,1,0
+skin infection,686,197,Skin and subcutaneous tissue infections,1,0
+pyoderma gangrenosum,686,197,Skin and subcutaneous tissue infections,1,0
+seborrheic dermatitis,690,198,Other inflammatory condition of skin,1,0
+pemphigoid,694,198,Other inflammatory condition of skin,1,0
+pemphigus,694,198,Other inflammatory condition of skin,1,0
+usher syndrome i,694,198,Other inflammatory condition of skin,1,0
+erythema,695,198,Other inflammatory condition of skin,1,0
+rosacea,695,198,Other inflammatory condition of skin,1,0
+cutaneous lupus erythematosus,695,198,Other inflammatory condition of skin,1,0
+discoid lupus erythematosus,695,198,Other inflammatory condition of skin,1,0
+lupus erythematosus panniculitis,695,198,Other inflammatory condition of skin,1,0
+toxic epidermal necrolysis,695,198,Other inflammatory condition of skin,1,0
+erythema multiforme,695,198,Other inflammatory condition of skin,1,0
+stevens johnson syndrome,695,198,Other inflammatory condition of skin,1,0
+erythema nodosum leprae,695,198,Other inflammatory condition of skin,1,0
+psoriasis,696,198,Other inflammatory condition of skin,1,0
+psoriatic arthritis,696,198,Other inflammatory condition of skin,1,0
+pityriasis,696,198,Other inflammatory condition of skin,1,0
+lichen,697,198,Other inflammatory condition of skin,1,0
+pruritus,698,198,Other inflammatory condition of skin,1,0
+pregnancy disorder,698,198,Other inflammatory condition of skin,1,0
+prurigo,698,198,Other inflammatory condition of skin,1,0
+prurigo nodularis,698,198,Other inflammatory condition of skin,1,0
+skin ulcer,707,199,Chronic ulcer of skin,1,0
+foot ulcer,707,199,Chronic ulcer of skin,1,0
+decubitus ulcer,707,199,Chronic ulcer of skin,1,0
+leg ulcer,707,199,Chronic ulcer of skin,1,0
+scar tissue,701,200,Other skin disorders,1,0
+skin atrophy,701,200,Other skin disorders,1,0
+scleroderma,701,200,Other skin disorders,1,0
+keratosis,702,200,Other skin disorders,1,0
+seborrheic keratosis,702,200,Other skin disorders,1,0
+dermatological disease,703,200,Other skin disorders,1,0
+nail disease,703,200,Other skin disorders,1,0
+alopecia,704,200,Other skin disorders,1,0
+hirsutism,704,200,Other skin disorders,1,0
+hair disease,704,200,Other skin disorders,1,0
+alopecia drug-induced,704,200,Other skin disorders,1,0
+folliculitis,704,200,Other skin disorders,1,0
+alopecia areata,704,200,Other skin disorders,1,0
+hidradenitis,705,200,Other skin disorders,1,0
+hidradenitis suppurativa,705,200,Other skin disorders,1,0
+acne,706,200,Other skin disorders,1,0
+sebaceous gland disease,706,200,Other skin disorders,1,0
+acne vulgaris,706,200,Other skin disorders,1,0
+pigment disorder,709,200,Other skin disorders,1,0
+erythematosquamous skin disease,709,200,Other skin disorders,1,0
+granulomatosis,709,200,Other skin disorders,1,0
+papular skin disease,709,200,Other skin disorders,1,0
+hyperpigmentation,709,200,Other skin disorders,1,0
+melasma,709,200,Other skin disorders,1,0
+infectious arthritis,711,201,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+bone and joint infection,730,201,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+bone injury,730,201,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+osteomyelitis,730,201,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease),1,0
+arthritis,714,202,Rheumatoid arthritis and related disease,1,0
+rheumatoid arthritis,714,202,Rheumatoid arthritis and related disease,1,0
+juvenile rheumatoid arthritis,714,202,Rheumatoid arthritis and related disease,1,0
+osteoarthritis,715,203,Osteoarthritis,1,0
+joint disease,715,203,Osteoarthritis,1,0
+joint infection,715,203,Osteoarthritis,1,0
+respiratory disorder,713,204,Other non-traumatic joint disorders,1,0
+contracture,718,204,Other non-traumatic joint disorders,3,0
+pigmented villonodular synovitis,719,204,Other non-traumatic joint disorders,1,0
+joint injury,719,204,Other non-traumatic joint disorders,1,0
+ankylosing spondylitis,720,205,Spondylosis; intervertebral disc disorders; other back problems,2,0
+spondylarthritis,721,205,Spondylosis; intervertebral disc disorders; other back problems,1,0
+degeneration,722,205,Spondylosis; intervertebral disc disorders; other back problems,1,0
+intervertebral disc disease,722,205,Spondylosis; intervertebral disc disorders; other back problems,1,0
+degenerative disc disease,722,205,Spondylosis; intervertebral disc disorders; other back problems,1,0
+torticollis,723,205,Spondylosis; intervertebral disc disorders; other back problems,1,0
+sciatica,724,205,Spondylosis; intervertebral disc disorders; other back problems,1,0
+spinal stenosis,724,205,Spondylosis; intervertebral disc disorders; other back problems,1,0
+back pain,724,205,Spondylosis; intervertebral disc disorders; other back problems,1,0
+lower back pain,724,205,Spondylosis; intervertebral disc disorders; other back problems,1,0
+weight gain,738,209,Other acquired deformities,1,0
+systemic lupus erythematosus,710,210,Systemic lupus erythematosus and connective tissue disorders,2,0
+topical anesthesia,710,210,Systemic lupus erythematosus and connective tissue disorders,2,0
+collagen disease,710,210,Systemic lupus erythematosus and connective tissue disorders,2,0
+connective tissue disease,710,210,Systemic lupus erythematosus and connective tissue disorders,2,0
+sjoegrens syndrome,710,210,Systemic lupus erythematosus and connective tissue disorders,2,0
+dermatomyositis,710,210,Systemic lupus erythematosus and connective tissue disorders,2,0
+polymyositis,710,210,Systemic lupus erythematosus and connective tissue disorders,2,0
+periarthritis,726,211,Other connective tissue disease,1,0
+tendinitis,726,211,Other connective tissue disease,1,0
+epicondylitis,726,211,Other connective tissue disease,1,0
+lateral epicondylitis,726,211,Other connective tissue disease,1,0
+adhesive capsulitis,726,211,Other connective tissue disease,1,0
+bursitis,727,211,Other connective tissue disease,2,0
+synovitis,727,211,Other connective tissue disease,2,0
+tenosynovitis,727,211,Other connective tissue disease,2,0
+tendon injury,727,211,Other connective tissue disease,2,0
+muscle spasm,728,211,Other connective tissue disease,1,0
+muscle wasting disease,728,211,Other connective tissue disease,1,0
+muscle weakness,728,211,Other connective tissue disease,1,0
+spinal muscular atrophy,728,211,Other connective tissue disease,1,0
+muscle disease,728,211,Other connective tissue disease,1,0
+calcification,728,211,Other connective tissue disease,1,0
+myositis,728,211,Other connective tissue disease,1,0
+dupuytren contracture,728,211,Other connective tissue disease,1,0
+heterotopic ossification,728,211,Other connective tissue disease,1,0
+muscle injury,728,211,Other connective tissue disease,1,0
+sarcopenia,728,211,Other connective tissue disease,1,0
+fibrodysplasia ossificans progressiva,728,211,Other connective tissue disease,1,0
+aggressive fibromatosis,728,211,Other connective tissue disease,1,0
+musculoskeletal system inflammation,729,211,Other connective tissue disease,1,0
+myalgia,729,211,Other connective tissue disease,1,0
+musculoskeletal pain,729,211,Other connective tissue disease,1,0
+fibromyalgia,729,211,Other connective tissue disease,1,0
+hematoma,729,211,Other connective tissue disease,1,0
+neuritis,729,211,Other connective tissue disease,1,0
+osteitis,731,212,Other bone disease and musculoskeletal deformities,1,0
+pagets bone disease,731,212,Other bone disease and musculoskeletal deformities,1,0
+bone disease,733,212,Other bone disease and musculoskeletal deformities,3,0
+osteoporosis,733,212,Other bone disease and musculoskeletal deformities,3,0
+metabolic bone disease,733,212,Other bone disease and musculoskeletal deformities,3,0
+cartilage disease,733,212,Other bone disease and musculoskeletal deformities,3,0
+polychondritis,733,212,Other bone disease and musculoskeletal deformities,3,0
+male osteoporosis,733,212,Other bone disease and musculoskeletal deformities,3,0
+postmenopausal osteoporosis,733,212,Other bone disease and musculoskeletal deformities,3,0
+ostealgia,733,212,Other bone disease and musculoskeletal deformities,3,0
+osteonecrosis,733,212,Other bone disease and musculoskeletal deformities,3,0
+osteopenia,733,212,Other bone disease and musculoskeletal deformities,3,0
+bone cyst,733,212,Other bone disease and musculoskeletal deformities,3,0
+bone resorption,733,212,Other bone disease and musculoskeletal deformities,3,0
+bone infection,733,212,Other bone disease and musculoskeletal deformities,3,0
+eisenmenger syndrome,745,213,Cardiac and circulatory congenital anomalies,1,0
+tetralogy of fallot,745,213,Cardiac and circulatory congenital anomalies,1,0
+congenital heart defect,746,213,Cardiac and circulatory congenital anomalies,1,0
+aortic valve stenosis,746,213,Cardiac and circulatory congenital anomalies,1,0
+arteriovenous malformation,747,213,Cardiac and circulatory congenital anomalies,1,0
+patent ductus arteriosus,747,213,Cardiac and circulatory congenital anomalies,1,0
+anal dysplasia,751,214,Digestive congenital anomalies,1,0
+polycystic liver disease,751,214,Digestive congenital anomalies,1,0
+autosomal dominant disorder,753,215,Genitourinary congenital anomalies,1,0
+polycystic kidney disease,753,215,Genitourinary congenital anomalies,1,0
+autosomal recessive polycystic kidney disease,753,215,Genitourinary congenital anomalies,1,0
+autosomal dominant polycystic kidney disease,753,215,Genitourinary congenital anomalies,1,0
+genetic disorder,740,216,Nervous system congenital anomalies,1,0
+spina bifida,741,216,Nervous system congenital anomalies,1,0
+brain malformation,742,216,Nervous system congenital anomalies,1,0
+thrombocytosis,756,217,Other congenital anomalies,1,0
+osteopetrosis,756,217,Other congenital anomalies,1,0
+ehlers danlos syndrome,756,217,Other congenital anomalies,1,0
+achondroplasia,756,217,Other congenital anomalies,1,0
+craniofacial dysostosis,756,217,Other congenital anomalies,1,0
+osteogenesis imperfecta,756,217,Other congenital anomalies,1,0
+osteodystrophy,756,217,Other congenital anomalies,1,0
+polyostotic fibrous dysplasia,756,217,Other congenital anomalies,1,0
+ichthyosis,757,217,Other congenital anomalies,1,0
+epidermolysis bullosa,757,217,Other congenital anomalies,1,0
+mastocytosis,757,217,Other congenital anomalies,1,0
+pachyonychia congenita,757,217,Other congenital anomalies,1,0
+congenital ichthyosiform erythroderma,757,217,Other congenital anomalies,1,0
+x linked hypohidrotic ectodermal dysplasia,757,217,Other congenital anomalies,1,0
+ichthyosis vulgaris,757,217,Other congenital anomalies,1,0
+netherton syndrome,757,217,Other congenital anomalies,1,0
+lamellar ichthyosis,757,217,Other congenital anomalies,1,0
+dyskeratosis congenita,757,217,Other congenital anomalies,1,0
+epidermolysis bullosa dystrophica,757,217,Other congenital anomalies,1,0
+port wine stain,757,217,Other congenital anomalies,1,0
+down syndrome,758,217,Other congenital anomalies,1,0
+genital system disease,758,217,Other congenital anomalies,1,0
+hippel lindau syndrome,759,217,Other congenital anomalies,1,0
+kartagener syndrome,759,217,Other congenital anomalies,1,0
+noonan syndrome,759,217,Other congenital anomalies,1,0
+cockayne syndrome,759,217,Other congenital anomalies,1,0
+alagille syndrome,759,217,Other congenital anomalies,1,0
+prader-willi syndrome,759,217,Other congenital anomalies,1,0
+rubinstein-taybi syndrome,759,217,Other congenital anomalies,1,0
+alport syndrome,759,217,Other congenital anomalies,1,0
+tuberous sclerosis,759,217,Other congenital anomalies,1,0
+usher syndrome,759,217,Other congenital anomalies,1,0
+angelman syndrome,759,217,Other congenital anomalies,1,0
+marfan syndrome,759,217,Other congenital anomalies,1,0
+basal cell nevus syndrome,759,217,Other congenital anomalies,1,0
+cryopyrin associated periodic syndrome,759,217,Other congenital anomalies,1,0
+smith lemli opitz syndrome,759,217,Other congenital anomalies,1,0
+menkes syndrome,759,217,Other congenital anomalies,1,0
+asphyxia,768,220,Intrauterine hypoxia and birth asphyxia,1,0
+respiratory distress syndrome,769,221,Respiratory distress syndrome,1,0
+urinary tract disease,760,224,Other perinatal conditions,3,0
+urinary tract infection,760,224,Other perinatal conditions,3,0
+fetal alcohol syndrome,760,224,Other perinatal conditions,3,0
+anesthesia,763,224,Other perinatal conditions,1,0
+birth complication,763,224,Other perinatal conditions,1,0
+respiratory disease,770,224,Other perinatal conditions,2,0
+meconium aspiration syndrome,770,224,Other perinatal conditions,2,0
+neonatal respiratory distress syndrome,770,224,Other perinatal conditions,2,0
+atelectasis,770,224,Other perinatal conditions,2,0
+candida albicans infection,771,224,Other perinatal conditions,2,0
+cytomegalovirus infection,771,224,Other perinatal conditions,2,0
+mastitis,771,224,Other perinatal conditions,2,0
+myasthenia gravis,775,224,Other perinatal conditions,1,0
+necrotizing enterocolitis,777,224,Other perinatal conditions,1,0
+periventricular leukomalacia,779,224,Other perinatal conditions,2,0
+brain hypoxia-ischemia,779,224,Other perinatal conditions,2,0
+spinal cord injury,952,227,Spinal cord injury,1,0
+spinal injury,952,227,Spinal cord injury,1,0
+lower limb fracture,829,231,Other fractures,1,0
+traumatic brain injury,854,233,Intracranial injury,1,0
+lung malformation,861,234,Crushing injury or internal injury,1,0
+lung injury,861,234,Crushing injury or internal injury,1,0
+heart injury,861,234,Crushing injury or internal injury,1,0
+liver injury,864,234,Crushing injury or internal injury,1,0
+transplant rejection,996,237,Complication of device; implant or graft,1,0
+ocular inflammation,996,237,Complication of device; implant or graft,1,0
+renal artery obstruction,996,237,Complication of device; implant or graft,1,0
+vascular fistula,996,237,Complication of device; implant or graft,1,0
+female contraception,996,237,Complication of device; implant or graft,1,0
+vaginal infection,996,237,Complication of device; implant or graft,1,0
+vascular injury,996,237,Complication of device; implant or graft,1,0
+ocular infection,996,237,Complication of device; implant or graft,1,0
+transplantation,996,237,Complication of device; implant or graft,1,0
+heart transplantation,996,237,Complication of device; implant or graft,1,0
+heart transplant rejection,996,237,Complication of device; implant or graft,1,0
+liver transplant rejection,996,237,Complication of device; implant or graft,1,0
+kidney transplant rejection,996,237,Complication of device; implant or graft,1,0
+bone marrow transplant rejection,996,237,Complication of device; implant or graft,1,0
+lung transplant rejection,996,237,Complication of device; implant or graft,1,0
+pancreas transplant rejection,996,237,Complication of device; implant or graft,1,0
+serratia marcescens infection,996,237,Complication of device; implant or graft,1,0
+osteolysis,996,237,Complication of device; implant or graft,1,0
+corneal transplant rejection,996,237,Complication of device; implant or graft,1,0
+organ transplant rejection,996,237,Complication of device; implant or graft,1,0
+umbilical cord stem cell transplantation,996,237,Complication of device; implant or graft,1,0
+stroke,997,238,Complications of surgical procedures or medical care,1,0
+central nervous system injury,997,238,Complications of surgical procedures or medical care,1,0
+cardiovascular surgical procedure,997,238,Complications of surgical procedures or medical care,1,0
+wound healing,998,238,Complications of surgical procedures or medical care,1,0
+septic shock,998,238,Complications of surgical procedures or medical care,1,0
+reperfusion injury,998,238,Complications of surgical procedures or medical care,1,0
+ocular surgical procedure,998,238,Complications of surgical procedures or medical care,1,0
+blood transfusion,999,238,Complications of surgical procedures or medical care,2,0
+serum sickness,999,238,Complications of surgical procedures or medical care,2,0
+corneal injury,918,239,Superficial injury; contusion,1,0
+blister,919,239,Superficial injury; contusion,1,0
+skin injury,919,239,Superficial injury; contusion,1,0
+ocular injury,921,239,Superficial injury; contusion,1,0
+contusion,924,239,Superficial injury; contusion,1,0
+skin burns,944,240,Burns,1,0
+thermal injury,949,240,Burns,1,0
+anticoagulant overdose,964,242,Poisoning by other medications and drugs,1,0
+paracetamol overdose,965,242,Poisoning by other medications and drugs,2,0
+drug overdose,968,242,Poisoning by other medications and drugs,1,0
+digoxin overdose,972,242,Poisoning by other medications and drugs,1,0
+poison intoxication,977,242,Poisoning by other medications and drugs,1,0
+metal intoxication,985,243,Poisoning by nonmedicinal substances,1,0
+heavy metal poisoning,985,243,Poisoning by nonmedicinal substances,1,0
+hyperoxia,987,243,Poisoning by nonmedicinal substances,1,0
+gas poisoning,987,243,Poisoning by nonmedicinal substances,1,0
+toxicity,989,243,Poisoning by nonmedicinal substances,1,0
+nervous system injury,907,244,Other injuries and conditions due to external causes,3,0
+nerve injury,955,244,Other injuries and conditions due to external causes,1,0
+injury,959,244,Other injuries and conditions due to external causes,1,0
+head injury,959,244,Other injuries and conditions due to external causes,1,0
+brain injury,959,244,Other injuries and conditions due to external causes,1,0
+knee injury,959,244,Other injuries and conditions due to external causes,1,0
+radiation sickness,990,244,Other injuries and conditions due to external causes,1,0
+radiotherapy induced emesis,990,244,Other injuries and conditions due to external causes,1,0
+hypothermia,991,244,Other injuries and conditions due to external causes,1,0
+motion sickness,994,244,Other injuries and conditions due to external causes,1,0
+allergy,995,244,Other injuries and conditions due to external causes,6,0
+sepsis,995,244,Other injuries and conditions due to external causes,6,0
+chemotherapy-induced emesis,995,244,Other injuries and conditions due to external causes,6,0
+hyperthermia,995,244,Other injuries and conditions due to external causes,6,0
+hypersensitivity,995,244,Other injuries and conditions due to external causes,6,0
+angioedema,995,244,Other injuries and conditions due to external causes,6,0
+neurotoxicity drug-induced,995,244,Other injuries and conditions due to external causes,6,0
+skin allergy,995,244,Other injuries and conditions due to external causes,6,0
+delayed hypersensitivity,995,244,Other injuries and conditions due to external causes,6,0
+acinetobacter infection,995,244,Other injuries and conditions due to external causes,6,0
+malignant hyperthermia,995,244,Other injuries and conditions due to external causes,6,0
+general anesthesia,995,244,Other injuries and conditions due to external causes,6,0
+systemic inflammatory response syndrome,995,244,Other injuries and conditions due to external causes,6,0
+food hypersensitivity,995,244,Other injuries and conditions due to external causes,6,0
+peanut hypersensitivity,995,244,Other injuries and conditions due to external causes,6,0
+egg hypersensitivity,995,244,Other injuries and conditions due to external causes,6,0
+hemorrhagic shock,785,249,Shock,6,0
+shock,785,249,Shock,6,0
+cardiovascular inflammation,785,249,Shock,6,0
+endotoxic shock,785,249,Shock,6,0
+tachycardia,785,249,Shock,6,0
+lymphadenopathy,785,249,Shock,6,0
+castlemans disease,785,249,Shock,6,0
+serratia infection,785,249,Shock,6,0
+cardiogenic shock,785,249,Shock,6,0
+palpitation,785,249,Shock,6,0
+gangrene,785,249,Shock,6,0
+atopic dermatitis,691,253,Allergic reactions,1,0
+dermatitis,692,253,Allergic reactions,3,0
+eczema,692,253,Allergic reactions,3,0
+sunburn,692,253,Allergic reactions,3,0
+contact dermatitis,692,253,Allergic reactions,3,0
+drug eruption,692,253,Allergic reactions,3,0
+polymorphus light eruption,692,253,Allergic reactions,3,0
+urticaria,708,253,Allergic reactions,1,0
+sleep disorder,327,259,Residual codes; unclassified,3,0
+circadian rhythm sleep disorder,327,259,Residual codes; unclassified,3,0
+obstructive sleep apnea,327,259,Residual codes; unclassified,3,0
+amnesia,780,259,Residual codes; unclassified,11,0
+pain,780,259,Residual codes; unclassified,11,0
+hypersomnia,780,259,Residual codes; unclassified,11,0
+consciousness disorder,780,259,Residual codes; unclassified,11,0
+insomnia,780,259,Residual codes; unclassified,11,0
+fatigue,780,259,Residual codes; unclassified,11,0
+hallucination,780,259,Residual codes; unclassified,11,0
+chronic fatigue syndrome,780,259,Residual codes; unclassified,11,0
+ehrlichia infection,780,259,Residual codes; unclassified,11,0
+sleep apnea,780,259,Residual codes; unclassified,11,0
+fever,780,259,Residual codes; unclassified,11,0
+hyperhidrosis,780,259,Residual codes; unclassified,11,0
+rocky mountain spotted fever,780,259,Residual codes; unclassified,11,0
+absence seizure,780,259,Residual codes; unclassified,11,0
+dizziness,780,259,Residual codes; unclassified,11,0
+apnea,780,259,Residual codes; unclassified,11,0
+febrile neutropenia,780,259,Residual codes; unclassified,11,0
+edema,782,259,Residual codes; unclassified,6,0
+jaundice,782,259,Residual codes; unclassified,6,0
+hyperalgesia,782,259,Residual codes; unclassified,6,0
+skin rash,782,259,Residual codes; unclassified,6,0
+hepatic edema,782,259,Residual codes; unclassified,6,0
+hyperuricemia,790,259,Residual codes; unclassified,7,0
+hyperglycemia,790,259,Residual codes; unclassified,7,0
+azotemia,790,259,Residual codes; unclassified,7,0
+glucose intolerance,790,259,Residual codes; unclassified,7,0
+cerebral hypoxia,799,259,Residual codes; unclassified,5,0
+cachexia,799,259,Residual codes; unclassified,5,0
+hypoxia,799,259,Residual codes; unclassified,5,0
+emotional lability,799,259,Residual codes; unclassified,5,0
+anxiety disorder,300,651,Anxiety disorders,3,0
+obsessive compulsive disorder,300,651,Anxiety disorders,3,0
+phobia,300,651,Anxiety disorders,3,0
+panic disorder,300,651,Anxiety disorders,3,0
+agoraphobia,300,651,Anxiety disorders,3,0
+generalized anxiety disorder,300,651,Anxiety disorders,3,0
+social phobia,300,651,Anxiety disorders,3,0
+acute stress disorder,308,651,Anxiety disorders,1,0
+aggression,312,652,"Attention-deficit, conduct, and disruptive behavior disorders",2,0
+impulse control disorder,312,652,"Attention-deficit, conduct, and disruptive behavior disorders",2,0
+intermittent explosive disorder,312,652,"Attention-deficit, conduct, and disruptive behavior disorders",2,0
+compulsive gambling,312,652,"Attention-deficit, conduct, and disruptive behavior disorders",2,0
+conduct disorder,312,652,"Attention-deficit, conduct, and disruptive behavior disorders",2,0
+attention deficit hyperactivity disorder,314,652,"Attention-deficit, conduct, and disruptive behavior disorders",1,0
+hyperactivity,314,652,"Attention-deficit, conduct, and disruptive behavior disorders",1,0
+attention deficit-disruptive behaviour disorder,314,652,"Attention-deficit, conduct, and disruptive behavior disorders",1,0
+senile dementia,290,653,"Delirium, dementia, and amnestic and other cognitive disorders",1,0
+vascular dementia,290,653,"Delirium, dementia, and amnestic and other cognitive disorders",1,0
+pediatric psychiatric disorder,290,653,"Delirium, dementia, and amnestic and other cognitive disorders",1,0
+subcortical vascular dementia,290,653,"Delirium, dementia, and amnestic and other cognitive disorders",1,0
+delirium,293,653,"Delirium, dementia, and amnestic and other cognitive disorders",5,0
+dementia,294,653,"Delirium, dementia, and amnestic and other cognitive disorders",1,0
+neurodegenerative disease,294,653,"Delirium, dementia, and amnestic and other cognitive disorders",1,0
+hiv associated dementia,294,653,"Delirium, dementia, and amnestic and other cognitive disorders",1,0
+dyslexia,315,654,Developmental disorders,1,0
+mental deficiency,318,654,Developmental disorders,1,0
+autism,299,655,"Disorders usually diagnosed in infancy, childhood, or adolescence",1,0
+pervasive child developmental disorder,299,655,"Disorders usually diagnosed in infancy, childhood, or adolescence",1,0
+asperger syndrome,299,655,"Disorders usually diagnosed in infancy, childhood, or adolescence",1,0
+mood disorder,296,657,Mood disorders,1,0
+bipolar disorder,296,657,Mood disorders,1,0
+mania,296,657,Mood disorders,1,0
+seasonal affective disorder,296,657,Mood disorders,1,0
+bipolar i disorder,296,657,Mood disorders,1,0
+bipolar ii disorder,296,657,Mood disorders,1,0
+major depressive disorder,296,657,Mood disorders,1,0
+depression,311,657,Mood disorders,1,0
+respiratory depression,311,657,Mood disorders,1,0
+sexual deviation,301,658,Personality disorders,1,0
+antisocial personality disorder,301,658,Personality disorders,1,0
+borderline personality disorder,301,658,Personality disorders,1,0
+schizophrenia,295,659,Schizophrenia and other psychotic disorders,1,0
+schizoaffective disorder,295,659,Schizophrenia and other psychotic disorders,1,0
+catatonia,295,659,Schizophrenia and other psychotic disorders,1,0
+alcoholism,303,660,Alcohol-related disorders,1,0
+intoxication,303,660,Alcohol-related disorders,1,0
+psychotic disorder,292,661,Substance-related disorders,1,0
+drug withdrawal syndrome,292,661,Substance-related disorders,1,0
+amphetamine dependence,304,661,Substance-related disorders,1,0
+cocaine addiction,304,661,Substance-related disorders,1,0
+opiate dependence,304,661,Substance-related disorders,1,0
+drug dependence,304,661,Substance-related disorders,1,0
+narcotic dependence,304,661,Substance-related disorders,1,0
+cannabis dependence,304,661,Substance-related disorders,1,0
+nicotine dependence,305,661,Substance-related disorders,3,0
+erectile dysfunction,302,670,Miscellaneous mental health disorders,2,0
+premature ejaculation,302,670,Miscellaneous mental health disorders,2,0
+female sexual dysfunction,302,670,Miscellaneous mental health disorders,2,0
+hypoactive sexual desire disorder,302,670,Miscellaneous mental health disorders,2,0
+sexual dysfunction,302,670,Miscellaneous mental health disorders,2,0
+anorexia nervosa,307,670,Miscellaneous mental health disorders,3,0
+bulimia nervosa,307,670,Miscellaneous mental health disorders,3,0
+eating disorder,307,670,Miscellaneous mental health disorders,3,0
+movement disorder,307,670,Miscellaneous mental health disorders,3,0
+binge eating disorder,307,670,Miscellaneous mental health disorders,3,0
+stutter,307,670,Miscellaneous mental health disorders,3,0
+appetite loss,307,670,Miscellaneous mental health disorders,3,0
+agitation,307,670,Miscellaneous mental health disorders,3,0
+otorhinolaryngological disease,1094,,,0,
+salmonella typhimurium infection,2002,,,0,
+immunization,2006,,,0,
+prophylaxis,2007,,,0,
+multidrug resistant infection,2009,,,0,
+vrsa infection,2009,,,0,
+psychiatric disorder,2011,,,0,
+post traumatic stress disorder,2011,,,0,
+parasitic infection,2012,,,0,
+peptic ulcer,2012,,,0,
+pituitary adenoma,2012,,,0,
+prolactinoma,2012,,,0,
+transient ischemic attack,2012,,,0,
+musculoskeletal disease,2013,,,0,
+polymyalgia rheumatica,2013,,,0,
+tay sachs disease,2017,,,0,
+methylmalonicaciduria,2018,,,0,
+parturition,2024,,,0,
+contraception,2025,,,0,
+male contraception,2025,,,0,
+bone marrow transplantation,2042,,,0,
+kidney transplantation,2042,,,0,
+organ transplantation,2042,,,0,
+corneal transplantation,2042,,,0,
+biliary tumor,2045,,,0,
+kidney dialysis,2045,,,0,
+suicidal ideation,2062,,,0,
+surgical procedure,2064,,,0,
+surgical preparation procedure,2072,,,0,
+li fraumeni syndrome,2084,,,0,
+unidentified indication,,,,0,

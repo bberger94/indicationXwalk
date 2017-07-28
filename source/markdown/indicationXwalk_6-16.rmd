@@ -1,0 +1,124 @@
+---
+title: "Indication Crosswalk"
+author: "Ben Berger"
+date: "June 16, 2017"
+output:
+  pdf_document:
+    df_print: kable
+---
+
+```{r setup, include=FALSE}
+rm(list = ls())
+knitr::opts_chunk$set(echo = TRUE)
+
+library(rio)
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+
+#load approvals
+data <- import('data/drugApproval_tempfile.Rda')
+
+#define helper functions
+count.not.na <- function(x){ 
+  count <- sum(is.na(x) == FALSE) 
+  count
+}
+blankstring.2.na <- function(x){
+  x[x == ""] <- NA
+  x
+}
+
+indMapping <- import('data/indication_mappings.csv')
+colnames(indMapping)[colnames(indMapping)=='ciIndication'] <- 'indicationID'
+indMapping <- indMapping %>% mutate_each(funs(blankstring.2.na))
+
+# indMapping$duplicated <- 0
+# indMapping$duplicated[is.element(indMapping$indicationID, duplicatedIDs)] <- 1
+
+
+#indicate which cortellis IDs correspond to multiple rows in mapping
+duplicatedIDs <- unique(indMapping$indicationID[duplicated(indMapping$indicationID)])
+
+merged <- data %>% left_join(indMapping, by = 'indicationID') %>% 
+                   arrange(index)
+
+
+
+```
+
+##Goal:
+Match descriptive condition categories to dataset of drug approvals with associated Cortellis indications. 
+
+##Changes:
+Andrew has provided us with a crosswalk of Cortellis indications to several different condition coding standards including ICD-9, ICD-10, MEDDRA, and others.
+
+##Issues:
+
+###Crosswalk Preview:
+
+```{r indmapping, echo = FALSE, comment = NA}
+indMapping %>% select(indicationID, everything()) %>% slice(1:10)
+
+```
+
+1. Many ICD-9 and ICD-10 codes are missing.
+    + Although not all of the indication IDs are used in the drug approval dataset, few approvals match to one or more ICD-9 codes. ICD-10 coverage is     better (about 300 approvals are matched on).
+    
+2. Coverage on MEDDRA, MeSH and siCondition codes is good, albeit not perfect, but it is unclear if these are useful from a practical standpoint.
+
+3. Andrew's crosswalk links some Cortellis indications to multiple codings of the same variable. See indication IDs 8 and 9 above.
+
+\pagebreak
+
+##Drug Approval Matching:
+
+I first match each drug approval to the coding standards in the crosswalk. All drug approvals match to at least one indication ID in the crosswalk, but, as shown above, cells in the row may be blank. Then, because some approvals match to multiple entries in the crosswalk, I count the number of unique codes for each coding standard and each drug. For example, Alvimopan matches to zero ICD-9s, zero ICD-10s, two MEDDRA codes, etc. For clarity, I'll refer to this as match count.
+
+Below, for each coding standard, I plot the number of drug approvals by match count. Ideally, all approvals would match to exactly one code (match count = 1), but many match to zero or 2+ (several codings for one indication). Additionally, the plot is replicated at the end of the document for only the set of breakthrough drug approvals.
+
+```{r summary.stats, echo = FALSE, comment = NA}
+##SUMMARY STATS
+testdata <- merged[, c('breakthrough', 'index', 'drugname','brandname','indication', colnames(indMapping))] 
+grouped <- testdata %>% group_by(drugname) %>% summarize(count = n(),
+                                                         breakthrough = mean(breakthrough), #should always return 0 or 1; if not, check data
+                                                         ICD9 = sum(is.na(ICD9) == FALSE),
+                                                         ICD10 = sum(is.na(ICD10) == FALSE),
+                                                         MEDDRA = sum(is.na(MEDDRA) == FALSE),
+                                                         MeSH = sum(is.na(MeSH) == FALSE),
+                                                         ORPHANET = sum(is.na(ORPHANET) == FALSE),
+                                                         omicsDisease = sum(is.na(omicsDisease) == FALSE),
+                                                         siCondition = sum(is.na(siCondition) == FALSE)
+                                                         )
+
+#number of drugs by match count
+plotdata <- grouped %>% select(-(1:3)) %>% gather(codetype, codecount) 
+ggplot(plotdata, aes(factor(codecount))) + geom_bar(fill = 'steelblue') +
+  facet_wrap(~codetype, nrow = 2, labeller = 'label_both') +
+  labs(x = "Match count", y = "Number of approvals") +
+  ggtitle('Number of drug approvals by match count') 
+
+# #number of drugs which correpond to multiple rows in mapping
+# length(grouped$drugname[grouped$count > 1])
+# #total number of drugs
+# length(grouped$drugname)
+# #percent of drugs that map to multiple entries 
+# length(grouped$drugname[grouped$count > 1]) / length(grouped$drugname) 
+
+```
+
+ICD-9 matching is particularly bad. ICD-10 matching is quite a bit more successful, but still fails to match one-to-one on even half the drug approvals. MEDDRA and siCondition are the most succesful, but unlike ICD-9 and ICD-10 it is unclear how we could group these variables into meaningful categories. Deciding how to best employ these coding standards will be critical moving forward. 
+
+
+```{r bkthru summary stats, echo = FALSE, comment = NA}
+
+plotdata <- grouped %>% filter(breakthrough == 1) %>% select(-(1:3)) %>% gather(codetype, codecount)
+ggplot(plotdata, aes(factor(codecount))) + geom_bar(fill = 'steelblue') +
+  facet_wrap(~codetype, nrow = 2, labeller = 'label_both') +
+  labs(x = "Match count", y = "Number of approvals") +
+  ggtitle('Number of breakthrough drug approvals by match count')
+
+
+```
+
+

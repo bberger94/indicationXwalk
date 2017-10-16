@@ -10,7 +10,7 @@ xwalk.icd9 <-
          starts_with('icd9'),
          malignant_not_specified
   ) %>% 
-  arrange(as.numeric(icd9))
+  arrange(icd9)
 
 xwalk.icd9 %>%
-  export('data/Cortellis_Drug_Indication_ICD9_Crosswalk_cancerValidated.csv')
+  export('data/Cortellis_Drug_Indication_ICD9_Crosswalk_Validated.csv')

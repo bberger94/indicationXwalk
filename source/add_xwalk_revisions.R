@@ -26,12 +26,30 @@ xwalk.icd9$icd9 <-
 #Replace icd9s with character codings
 xwalk.icd9$icd9 <- icd_short_to_decimal(xwalk.icd9$icd9)
 
-#Load revised matches
-xwalk.icd9 <- 
+# Import adjudicated revision files and select key variables
+revisions_cancer <- 
   import('data/validatedInd2ICD/cancer/Cortellis_Drug_Indication_ICD9_Crosswalk_Cancer_ben.xlsx') %>% 
   select(condition = cortellis_condition,
          revised_icd9 = revised_icd9_ben,
-         malignant_not_specified) %>% 
+         malignant_not_specified) 
+
+revisions_noncancer <- 
+  import('data/validatedInd2ICD/noncancer/Cortellis_Drug_Indication_ICD9_Crosswalk_Noncancer_ben.xlsx') %>% 
+  select(condition = cortellis_condition,
+       revised_icd9 = revised_icd9_ben
+       ) 
+revisions_extra <- 
+  import('data/validatedInd2ICD/noncancer/Cortellis_Drug_Indication_ICD9_Crosswalk_Extra_Ind_ben.xlsx') %>% 
+  select(condition = cortellis_condition,
+         revised_icd9 = revised_icd9_ben
+  ) 
+
+# Bind revisions together
+revisions <- bind_rows(revisions_cancer, revisions_noncancer, revisions_extra)
+
+# Merge all revisions into crosswalk
+xwalk.icd9 <- 
+  revisions %>% 
   right_join(xwalk.icd9, by = 'condition')
 
 #Replace ICD-9s with revised ICD-9s
@@ -41,9 +59,12 @@ xwalk.icd9$icd9[!is.na(xwalk.icd9$revised_icd9)] <-
 #Replace ICD-9s where there is no appropriate match with NA
 xwalk.icd9$icd9[xwalk.icd9$revised_icd9 == 'No appropriate ICD-9'] <- NA
 
-#Replace revised icd9s with character codings
+#Drop revised ICD-9 variable
+xwalk.icd9 <-
+  xwalk.icd9 %>% select(-revised_icd9)
+
+#Replace icd9s with character codings
 xwalk.icd9$icd9 <- icd_short_to_decimal(xwalk.icd9$icd9)
 
-#Replace malignant_not_specified with 0 if NA
-xwalk.icd9$malignant_not_specified[is.na(xwalk.icd9$malignant_not_specified)] <- 0
+
 

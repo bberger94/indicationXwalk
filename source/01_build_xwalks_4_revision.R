@@ -1,15 +1,28 @@
+## ------------------------------------------------------------------------------------------------ ##
+## ------------------------------------------------------------------------------------------------ ##
+## 01_build_xwalks_4_revision.R ; Author: Ben Berger;                               
+##
+## 1. Identify cancer and noncancer indications and their ICD-9 mappings
+##    from C. Garthwaite's crosswalk.
+##
+## 2. Create two separate crosswalks for Jackie and Robbie to revise
+##
+## ------------------------------------------------------------------------------------------------ ##
+## ------------------------------------------------------------------------------------------------ ##
+
+
 rm(list = ls())
 
-#load these packages:
 packages <- c('rio', 'dplyr', 'icd')
-
 for(package in packages){
   #INSTALL PACKAGES BEFORE RUNNING SCRIPT FOR FIRST TIME BY UNCOMMENTING LINE BELOW
   #install.packages(package) #if asked to restart, choose NO
   library(package, character.only = T)
 }
 
-#we'll use this fabulous function to identify cortellis indications for cancer
+## ------------------------------------------------------------------------------------------------ ##
+##  Function to identify cancer indications
+## ------------------------------------------------------------------------------------------------ ##
 is.cancer <- function(string){
   
   string <- string %>% tolower() %>% trimws()
@@ -39,7 +52,9 @@ is.cancer <- function(string){
 }
 
 
-#load indication -> icd9 crosswalk
+## ------------------------------------------------------------------------------------------------ ##
+##  Load indication -> icd9 crosswalk
+## ------------------------------------------------------------------------------------------------ ##
 xwalk.icd9 <-
   import('data/Cortellis_Drug_Indication_ICD9_Crosswalk.dta') %>% 
   filter(condition != 'unidentified indication') 
@@ -72,6 +87,10 @@ xwalk.icd9 <-
          ) %>% 
   arrange(as.numeric(icd9))
 
+
+## ------------------------------------------------------------------------------------------------ ##
+##  Write each crosswalk to a csv file
+## ------------------------------------------------------------------------------------------------ ##
 xwalk.icd9 %>%
   filter(is_cancer == 1 | icd9_chapter == 'Neoplasms') %>%
   mutate(revised_icd9 = NA) %>% 
@@ -86,7 +105,5 @@ xwalk.icd9 %>%
   select(cortellis_condition, revised_icd9, everything()) %>% 
   export('data/Cortellis_Drug_Indication_ICD9_Crosswalk_Noncancer.csv')
 
-#write to disk
-export(xwalk.icd9, 'data/Cortellis_Drug_Indication_ICD9_Crosswalk_withCategories.csv')
 
 

@@ -1,7 +1,6 @@
 ## ------------------------------------------------------------------------------------------------ ##
 ## ------------------------------------------------------------------------------------------------ ##
-## save_missing_inds.R ; Author: Ben Berger;                               
-## Modified from script by Andrew Marder:                              
+## 02_save_missing_inds.R ; Author: Ben Berger;                               
 ##
 ## Obtain indications in trial data that are NOT PRESENT in ICD-9 crosswalk
 ##

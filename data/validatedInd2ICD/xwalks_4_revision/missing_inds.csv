@@ -1,0 +1,893 @@
+indication_name,trial_count
+abdominal surgery,107
+abetalipoproteinemia,2
+abnormal labor,5
+abnormal urine volume,1
+abortion,110
+achlorhydria,1
+acid base imbalance,5
+acne conglobata,1
+acquired brain injury,14
+acquired hemophilia,8
+acral erythema,11
+acrocyanosis,1
+acrodermatitis,1
+actinic keratosis,30
+actinomycetes infection,1
+acute enterocolitis,1
+adenoiditis,1
+adipose tissue neoplasm,2
+adiposis dolorosa,1
+adjustment disorder,2
+adrenal cortex disease,4
+adrenal cortex neoplasm,2
+adrenal cortical adenoma,3
+adult onset stills disease,14
+ageusia,1
+agranulocytosis,2
+air embolism,1
+air sickness,1
+alacrima,1
+albers schoenberg disease,1
+alcohol overdose,15
+alcohol withdrawal delirium,4
+alcohol withdrawal syndrome,29
+alkalosis,7
+alpha thalassemia,10
+altitude anoxia,26
+alveolar bone loss,33
+ameloblastoma,1
+amino acid and protein metabolism disorder,10
+amino acid metabolism disorder,6
+aminoaciduria,2
+amniotic fluid embolism,1
+amyloid polyneuropathy,5
+anal disease,2
+andersen tawil syndrome,1
+androblastoma,1
+androgen deficiency,7
+androgen insensitivity syndrome,2
+aneuploidy,10
+angiocentric lymphoma,2
+angiodermatitis,1
+angiodysplasia,3
+angioimmunoblastic t-cell lymphoma,60
+angiomatosis,1
+anhidrosis,2
+anisometropia,6
+anophthalmia,1
+anuria,2
+aortic arch anomaly,1
+aortic disease,40
+aortic valve insufficiency,13
+aortitis,5
+aphakia,10
+aphasia,42
+aplasia,11
+appendix adenoma,11
+apraxia,6
+arachnid infection,1
+arachnoiditis,1
+arterial insufficiency,1
+arteritis,5
+artery injury,11
+aspergillus flavus infection,1
+asplenia,3
+asthenozoospermia,19
+astigmatism,59
+atrial septal defect,18
+atrophic skin disease,1
+autoimmune nervous system disease,2
+autoinflammatory disease,7
+autosomal disorder,3
+azoospermia,24
+bacilli infection,1
+bacteriuria,16
+barotrauma,1
+bartters disease,1
+basal ganglia disease,1
+bassen kornsweig syndrome,1
+bells palsy,18
+benign nervous system neoplasm,1
+benign skin tumor,3
+benign tumor,9
+beriberi,2
+bernard horner syndrome,2
+berylliosis,4
+bilateral renal agenesis,1
+biliary atresia,21
+biliary dyskinesia,2
+biliary tract inflammation,1
+birt hogg dube syndrome,4
+bladder injury,3
+blastoma,4
+blepharoconjunctivitis,8
+blood protein disorder,1
+body dysmorphic syndrome,15
+body weight change,22
+bone development disorder,4
+bone marrow aplasia,2
+bone surgery,28
+borborygmus,1
+borrelia infection,4
+boutonneuse fever,2
+brain development disorder,3
+brain hypoxia,7
+brain stem infarction,3
+brenner tumor,6
+brugada syndrome,12
+brutons disease,4
+bruxism,25
+bulla,1
+bullous pemphigoid,27
+bullous skin disease,6
+bundle-branch block,1
+calcinosis,6
+capillary disease,4
+carbamoyl phosphate synthase deficiency,3
+carbon monoxide poisoning,9
+carcinosarcoma,35
+cardiac neurosis,1
+cardialgia,7
+cardioplegia,6
+cardiopulmonary bypass surgery,121
+cardiovascular development disorder,2
+cardiovascular infection,2
+cardiovascular injury,3
+cardiovascular pregnancy complications,4
+cardiovascular symptom,3
+cardiovascular tumor,1
+carditis,4
+carnitine palmitoyltransferase 1 deficiency,1
+carnitine palmitoyltransferase 2 deficiency,1
+carotid sinus syndrome,10
+cat scratch disease,2
+catatonic schizophrenia,4
+causalgia,5
+cell transplantation,4
+central nervous system development disorder,2
+central nervous system infection,6
+cerebellar ataxia,12
+cerebellar disease,2
+cerebral arteriosclerosis,1
+cerebrovascular reperfusion injury,2
+cerebrovascular trauma,33
+cestode infection,1
+chalazion,8
+charcot marie tooth type 2 disease,4
+charcot marie tooth type 4 disease,3
+charcot marie tooth type x disease,2
+chediak higashi syndrome,4
+cheilitis,3
+chill,12
+chlamydiales infection,1
+cholecystalgia,1
+choledocholithiasis,6
+chondroblastoma,1
+chondrodysplasia punctata,1
+chondroma,2
+choriocarcinoma,13
+choroid disease,16
+chromosome aberration,5
+chromosome disorder,10
+chronic liver failure,31
+chronic myelomonocytic leukemia,87
+chylothorax,4
+cicatrix,2
+cleft lip,13
+cleft palate,17
+climacteric disorder,17
+clonic seizure,7
+coagulation factor x deficiency,3
+cold injury,1
+colic,2
+coloboma,2
+colon injury,1
+colonoscopy,161
+color vision defect,1
+coma,10
+combined immunodeficiency,3
+communication disorder,1
+community acquired respiratory tract infection,4
+cone dystrophy,2
+confusion,3
+congenital autonomic control failure,8
+congenital lung disease,4
+congenital stationary night blindness,1
+congestive cardiomyopathy,8
+connective tissue disease affecting the skin,1
+conradi-hunermann syndrome,1
+conversion disorder,5
+cor pulmonale,3
+corneal edema,10
+corneal pain,1
+coronary aneurysm,1
+coronary arteriosclerosis,21
+coronary vasospasm,9
+cranial nerve disorder,2
+cranial nerve tumor,1
+craniofacial development disorder,2
+craniosynostosis,11
+croup,9
+cryptorchidism,1
+cutaneous mastocytosis,2
+cutaneous vasculitis,4
+cyclothymic disorder,1
+cyst,12
+cytomegalovirus inclusion disease,2
+dactylitis,1
+de lange syndrome,1
+death,4
+decompensated liver cirrhosis,41
+delayed puberty,11
+deltavirus infection,1
+delusion,1
+delusional disorder,17
+dental pulp disease,18
+dents disease,7
+depersonalization disorder,4
+diabetic cardiomyopathy,8
+diabetic eye disease,2
+diabetic hypertension,31
+digeorge syndrome,15
+diplegia,7
+diplopia,1
+dissociative disorder,3
+dna repair defiency disorder,2
+dravet syndrome,43
+dressler syndrome,1
+drowsiness,15
+duodenal polyp,2
+duodenum disease,6
+dysarthria,3
+dyschezia,2
+dyskeratosis,1
+dysomia,4
+dysphasia,1
+dysphoria,11
+dyspnea,132
+dyssomnia,11
+dysthymic disorder,21
+dystrophy,6
+eale disease,3
+ebstein anomaly,1
+echinococcus infection,4
+ecthyma,1
+ectoparasite infection,1
+electrolyte metabolism disorder,3
+embolism and thrombosis,5
+encephalomyelitis,4
+endocrine development disorder,1
+enophthalmos,2
+enterococcaceae infection,9
+enterocytozoonidae infection,1
+enzyme metabolism disorder,3
+eosinophilia,23
+eosinophilia myalgia syndrome,1
+eosinophilic granuloma,5
+epistaxis,31
+escherichia infection,1
+esophageal disease,56
+esophageal hemorrhage,6
+esophageal injury,4
+esophageal motor disorder,2
+essential fatty acid deficiency,3
+esthesioneuroblastoma,2
+ethmoiditis,4
+euthryroid sick syndrome,2
+evans syndrome,3
+exercise induced asthma,26
+extrasystole,13
+eyelid disease,9
+fallopian tube disease,4
+familial lcat deficiency,1
+familial periodic paralysis,1
+familial thrombotic microangiopathy,2
+fanconi albertini zellweger syndrome,4
+fanconi-bickel disease,10
+fat embolism,1
+fatty acid metabolism disorder,5
+felty syndrome,1
+female birth control,2
+female genital tract disease,10
+female genital tract pain,3
+fibroadenoma,7
+fibroma,5
+fibromuscular dyplasia,2
+fibrous bone dysplasia,2
+fibrous tissue neoplasm,3
+food poisoning,2
+fragile x-associated tremor ataxia syndrome,4
+frontotemporal dysplasia,3
+fructose intolerance,2
+fructose metabolism disorder,1
+fucosidosis,3
+fungal eye infection,6
+ganglioneuroblastoma,12
+gardner syndrome,1
+gastralgia,4
+gastric antral vascular ectasia,3
+gastric polyp,1
+gastrinoma,6
+gastroenteritis,108
+gastrointesinal fistula,12
+gastrointestinal disease by location,2
+gastrointestinal disease by process,4
+gastrointestinal investigative surgical procedure,2
+gastrospasm,3
+gauchers disease type ii,1
+genital tract tumor,1
+genitourinary hemorrhage,3
+genitourinary tract inflammation,1
+giant cell bone tumor,24
+gilbert syndrome,4
+gitelman syndrome,3
+glomerulosclerosis,2
+glossodynia,8
+glossopyrosis,3
+glucagonoma,1
+glycogen storage disease 1b,1
+gm1 gangliosidosis,3
+gm2 gangliosidosis,1
+gonad tumor,9
+gonadal dysgenesis,1
+goodpasture syndrome,2
+granuloma,12
+granulosa cell tumor,9
+gsell erdheim syndrome,2
+gynecology and obstetrics,1
+gyrate atrophy,2
+halitosis,13
+hamartoma,3
+head and neck injury,3
+healing,28
+heart block,2
+heart neoplasm,4
+hebephrenic schizophrenia,5
+hellp syndrome,10
+hemangiopericytoma,9
+hemangiosarcoma,3
+hematuria,10
+hemoglobinuria,2
+hemoperitoneum,1
+hemophagocytic lymphohistiocytosis,9
+hemorrhagic enteritis,2
+hemorrhagic stroke,71
+hemorrhagic telangiectasia,1
+hemosiderosis,18
+hemothorax,5
+hepatic cyst,4
+hepatoblastoma,22
+hepatomegaly,2
+hepatosplenomegaly,2
+hepatotoxicity drug-induced,25
+hereditary inclusion body myositis,5
+hereditary neoplastic syndrome,3
+hereditary spastic paraplegia,9
+hernia,143
+herpangina,1
+hiatus hernia,9
+hiccup,4
+high grade b-cell lymphoma,6
+histiocytoma,26
+hoarseness,12
+holoprosencephaly,1
+hordeolum,1
+hormone metabolism disorder,2
+human t cell leukemia virus infection,1
+hurler-scheie syndrome,12
+hydronephrosis,11
+hyperchloremia,1
+hyperemia,15
+hyperesthesia,1
+hypergastrinemia,2
+hyperglucagonemia,3
+hyperkinesia,2
+hyperlacrimation,1
+hyperlipoproteinemia type ii,2
+hyperlipoproteinemia type iib,15
+hyperlipoproteinemia type iv,2
+hyperlipoproteinemia type v,2
+hyperopia,11
+hyperostosis,2
+hyperphagia,4
+hyperplasia,65
+hypersplenism,3
+hypertransaminasemia,2
+hypertrichosis,1
+hypertrophic skin disease,8
+hypervolemia,7
+hypocapnia,2
+hypochondriasis,7
+hypogalactia,7
+hypohidrosis,1
+hypoinsulinemia,1
+hypokalemia,13
+hypolipidemia,2
+hypomagnesemia,15
+hypomania,8
+hypopituitarism,35
+hypoprolactinemia,1
+hypospadias,7
+hypothalamus disease,2
+hypothyroxinemia,10
+hypozincemia,30
+idiopathic inflammatory demyelinating disease,1
+ileitis,3
+ileum disease,3
+illegal drug overdose,1
+immediate hypersensitivity,1
+immunoglobulin a deficiency,1
+infection by anatomical location,10
+infectious meningitis,5
+inherited long qt syndrome,1
+insect infection,2
+intellectual impairment,19
+intermediate uveitis,11
+intertrigo,1
+intestinal atony,1
+intestinal t-cell lymphoma,3
+intestine injury,18
+intestine transplantation,6
+intracranial aneurysm,78
+intussusception,3
+investigative surgical procedure,2
+iodine deficiency,16
+iris disease,10
+jejunum ulcer,1
+job syndrome,6
+joubert syndrome,1
+kallman syndrome,1
+kasabach merritt syndrome,3
+kearns syndrome,3
+keratin disease,3
+keratoderma,3
+kernicterus,2
+ketoacidosis,3
+kidney infection,1
+klebsiella oxytoca infection,1
+kleine-levin syndrome,1
+kleptomania,2
+klinefelter syndrome,15
+klippel trenaunay weber syndrome,1
+knee fracture,12
+korsakoff syndrome,2
+kwashiorkor,2
+kyphosis,11
+lactic acidosis,15
+lactobacillales infection,2
+language disorder,1
+large cell lung carcinoma,33
+laryngismus,4
+laryngotonsillitis,1
+larynx disease,17
+legg calve perthes disease,6
+leishmania mexicana infection,1
+lens disorder,1
+lentiginosis,8
+leptin deficiency,1
+leriche syndrome,1
+leukocyte disorder,5
+leukocytosis,3
+leukodystrophy,6
+leukoencephalopathy,11
+lice infestation,1
+liddle syndrome,1
+limb development disorder,5
+limb fracture,12
+lip disease,1
+lipid storage diseases,3
+lipomatosis,2
+lipoprotein deficiency,6
+lipoprotein metabolism disorder,3
+listeria infection,2
+liver infection,2
+lordosis,4
+lung failure,2
+lung transplantation,95
+lutembacher syndrome,2
+lymphangioma,6
+lymphangiosarcoma,2
+lymphatic system tumor,1
+lymphocele,8
+lymphocytosis,6
+lymphoepithelioma,6
+lymphoma leukemia,2
+machado-joseph disease,6
+macroadenoma,7
+macrocephaly,1
+macrophage activation syndrome,1
+macular telangiectasia,2
+madurella infection,1
+magnesium metabolism disorder,2
+malabsorption syndrome,23
+malassezia infection,2
+male breast neoplasm,7
+male genital system disease,3
+malocclusion,13
+mandible disease,4
+maple syrup urine disease,1
+maxillofacial development disorder,1
+mcardle disease,6
+medial epicondylitis,2
+medication overdose,1
+megaloblastic anemia,2
+melancholia,8
+melena,1
+melkersson-rosenthal syndrome,1
+melorheostosis,1
+meningeal neoplasm,16
+mesenteric vascular occlusion,2
+metabolic brain disease,1
+metastatic cns cancer,5
+metastatic genitourinary cancer,6
+metastatic hepatobiliary cancer,23
+metastatic testicular cancer,10
+metastatic urinary tract cancer,16
+microadenoma,2
+microalbuminuria,79
+microphthalmia,1
+microsporidia infection,1
+migraine without aura,67
+milk hypersensitivity,41
+mineral metabolism disorder,6
+minimal change disease,21
+mitochondrial myopathy,14
+mitral valve disease,44
+mitral valve insufficiency,101
+mitral valve stenosis,11
+mixed urinary incontinence,15
+monocytopenia,1
+monogenic disorder,1
+mononucleosis,1
+moorens ulcer,1
+morquio disease,1
+mouth inflammation,2
+moyamoya disease,6
+mucinosis,1
+mucolipidosis,1
+mucolipidosis type ii,1
+multi-infarct dementia,3
+multiple endocrine neoplasia type 1,10
+multiple endocrine neoplasia type 2,1
+multiple endocrine neoplasia type 2a,3
+multiple endocrine neoplasia type 2b,1
+multiple growth abnormalities,1
+multiple hamartoma sydrome,2
+musculoskeletal development disorder,1
+musculoskeletal infection,1
+musculoskeletal injury,15
+musculoskeletal tumor,3
+mycobacterium avium infection,18
+myocardial stunning,3
+myoglobinuria,1
+myoma,6
+myxedema,1
+myxoma,2
+myxosarcoma,1
+narcissistic personality disorder,1
+nasal cancer,11
+nasal fracture,2
+nasal injury,1
+nasal septum perforation,1
+nasal tumor,6
+natriuresis,3
+neisseriaceae infection,1
+neoplasm by site,4
+nephrocalcinosis,4
+nephrogenic fibrosing dermopathy,6
+nephrosclerosis,6
+nerve compression syndrome,1
+nervous system development disorder,11
+nesidioblastosis,1
+neural tube defect,5
+neurobehavioral disorder,12
+neurogenic diabetes insipidus,2
+neurological symptom,1
+neuroma,9
+neuronal ceroid lipofuscinosis,3
+neurosyphilis,1
+niemann pick disease type c2,2
+night terrors,1
+nijmegen breakage syndrome,1
+nk cell large granular lymphocyte leukemia,4
+nocturnal asthma,10
+non traumatic brain injury,3
+non-epithelial tumor,1
+non-proliferative diabetic retinopathy,30
+nonne milroy meige syndrome,1
+nose disease,13
+nutcracker esophagus,1
+nutritional deficiency,54
+obesity hypoventilation syndrome,20
+obstructive intestinal disease,12
+occupational asthma,2
+ocular development disorder,1
+ocular hemorrhage,7
+ocular motility disorder,7
+ocular neoplasm,2
+oculomotor nerve disorder,2
+odontogenic tumor,4
+odynophagia,2
+oguchi disease,1
+olfaction disorder,6
+olfactory nerve disorder,3
+oligodendroglioma,121
+oligospermia,29
+oliguria,6
+onycholysis,2
+ophthalmia neonatorum,2
+opsoclonus myoclonus syndrome,5
+optic disc pit,2
+oral allergy syndrome,1
+orbital disease,4
+orchialgia,2
+orchitis,1
+organ resection,2
+organelle disease,1
+orthomyxovirus infection,15
+osteoblastoma,2
+osteochondritis,16
+osteoma,1
+osteophytosis,1
+osteosclerosis,2
+otalgia,6
+otorhinolaryngological tumor,4
+otorrhea,4
+ovary cyst,21
+pagets breast disease,4
+pancoast syndrome,5
+pancreas exocrine tumor,1
+pancreas injury,2
+pancreas transplantation,14
+pancreatic intraductal papillary-mucinous tumor,10
+panniculitis,3
+paracoccidioidomycosis,2
+paranasal sinus disease,9
+paranoid schizophrenia,9
+paraplegia,18
+parapsoriasis,2
+parasomnia,3
+parathyroid disease,10
+parathyroid tumor,11
+paratuberculosis,1
+paresthesia,3
+paronychia,3
+parotid gland disease,8
+parotitis,4
+paroxysmal tachycardia,4
+paroxysmal ventricular tachycardia,2
+patent foramen ovale,15
+pedophilia,4
+pendred syndrome,1
+penicillium infection,2
+penis disease,6
+periarticular joint disease,4
+pericardial disease,10
+peroxisome disease,10
+persistent vegetative state,4
+personality disorder,22
+peutz jegher syndrome,9
+phantom limb,16
+pharynx disease,8
+phimosis,3
+phlebitis,10
+photophobia,1
+phyllodes tumor,1
+pica,2
+pierre-robin syndrome,1
+pineal body disease,1
+pineal body tumor,7
+pityriasis capitis infection,4
+placenta disease,22
+placenta retention,11
+placental abruption,5
+plasma cell dyscrasia,3
+plasmodium knowlesi infection,3
+platyhelminth infection,2
+pleurisy,10
+pleuropneumonia,2
+pneumoconiosis,4
+pneumoperitoneum,11
+polydipsia,6
+polyp,36
+polypoidal choroidal vasculopathy,60
+polyuria,10
+porphyria,17
+porphyria cutanea tarda,7
+porphyromonas infection,4
+postpoliomyelitis syndrome,9
+precancer,19
+precursor t-lymphoblastic lymphoma-leukemia,13
+premedication,1
+presbycusis,6
+primary hyperparathyroidism,31
+primary lateral sclerosis,7
+primary mediastinal large b-cell lymphoma,52
+prion infection,2
+progressive myoclonic epilepsy,1
+propionic acidemia,5
+prostatectomy,18
+protein deficiency,4
+protein metabolism disorder,6
+protein s deficiency,1
+pseudohypoaldosteronism,4
+pseudoxanthoma elasticum,8
+psychiatric symptom,6
+psychogenic pain,3
+psychomotor disorder,10
+psychosexual disorder,3
+pulmonary eosinophilia,1
+pulmonary stenosis,12
+pulmonary valve disease,8
+pulmonary valve insufficiency,10
+pulmonary valve stenosis,5
+pulpitis,47
+pupil disorder,2
+pyelitis,1
+pyknodysostosis,1
+pyloric stenosis,3
+pyromania,1
+pyruvate carboxylase deficiency,3
+pyuria,3
+quadriplegia,12
+ranula,1
+rectal disease,9
+rectal fistula,1
+rectocele,2
+rectovaginal fistula,3
+refractive error,14
+refsum disease,1
+reiter syndrome,5
+renal colic,42
+renal hemorrhage,2
+renal insufficiency,78
+renal pain,7
+respiratory tract bleeding,3
+retinal artery occlusion,17
+retinal edema,3
+rhabdomyolysis,9
+rheumatic heart disease,10
+rhinorrhea,13
+rigor,29
+salivary gland cancer,78
+scheie syndrome,7
+schizophreniform disorder,70
+schizophyllum infection,1
+scleral disease,3
+sclerosteosis,1
+scoliosis,65
+segmental vitiligo,3
+sensory disorder,8
+sertoli-leydig cell tumor,5
+sex differentiation disorder,1
+sexual compulsive disorder,2
+shwachman syndrome,5
+sick sinus syndrome,15
+siderosis,6
+sigmoiditis,1
+silicosis,9
+sinoatrial block,1
+skin blood vessel disorder,1
+skin photosensitivity disorder,9
+skin transplant rejection,2
+skin transplantation,4
+sleep arousal disorder,2
+sleep maintenance insomnia,4
+small intestine cancer,14
+small intestine disease,28
+sneezing,2
+solar urticaria,3
+somatization disorder,6
+somatoform disorder,12
+somatosensory disorder,2
+somatostatinoma,2
+somnambulism,1
+speech disorder,2
+spherocytosis,1
+spinal cord compression,14
+spinal cord vascular disease,2
+spinal curvature,1
+spirochete infection,1
+spleen disease,3
+splenic marginal zone lymphoma,47
+spondylitis,7
+spondylolisthesis,46
+spondylolysis,5
+stage ii melanoma,36
+stomatodynia,3
+streptococcus anginosus infection,6
+sturge-weber syndrome,9
+sudden cardiac death,29
+suicide,17
+supraventricular tachycardia,27
+surgical resection,18
+sweat gland disease,2
+sydenham chorea,1
+syncope,35
+syndactyly,1
+syringomyelia,3
+systolic dysfunction,29
+tachypnea,16
+taenia infection,2
+takayasus arteritis,35
+taste disorder,11
+temperature disorder,6
+teratoma,8
+teratospermia,2
+tetany,1
+thiamine deficiency,1
+thoracic aortic aneurysm,51
+thoracic outlet syndrome,2
+throat disease,50
+thrombophlebitis,21
+thymus disease,2
+thyroiditis,7
+thyrotoxicosis,9
+tic disorder,23
+tongue disease,11
+tonic seizure,7
+tooth injury,8
+tooth loss,14
+toxicity and intoxication,2
+tracheobronchitis,10
+tracheobronchomalacia,4
+transsexualism,6
+trematode infection,4
+trichinosis,2
+trichocomaceae infection,4
+trichothiodystrophy,1
+trichotillomania,13
+tricuspid atresia,5
+tricuspid insufficiency,16
+tricuspid valve disease,1
+trigeminal nerve disorder,1
+trismus,16
+trisomy,1
+tumor resection,4
+tyrosinemia,1
+unclassified virus infection,1
+unconsciousness,5
+undifferentiated schizophrenia,5
+unidentified indication,87
+upper limb fracture,39
+upper respiratory tract inflammation,3
+ureaplasma infection,4
+ureteral colic,2
+ureteral disease,32
+urethral disease,31
+urinary tract pain,3
+urogenital ulcer,2
+usher syndrome iii,1
+uterus disease,60
+uveal disease,3
+vagina disease,43
+vaginal intraepithelial neoplasia,6
+vaginal neoplasm,4
+vaginal tumor,2
+vagus nerve disorder,1
+varicocele,14
+vascular disease by process,1
+vascular insufficiency,1
+vertebral fracture,32
+vesicoureteral reflux,11
+vibrio infection,1
+vitamin b deficiency,3
+vitamin b6 deficiency,2
+vitamin c deficiency,9
+vitamin deficiency,34
+vitelliform macular dystrophy,1
+vitreitis,1
+von gierkes disease,9
+vulvitis,3
+wernicke encephalopathy,2
+wheat hypersensitivity,12
+whipple disease,1
+williams-beuren syndrome,6
+wolff-parkinson-white syndrome,1
+worm infection,8
+x linked lymphoproliferative disease,4
+xanthomatosis,2
+xeroderma pigmentosum,2
+xerosis,20
+zika virus infection,20
